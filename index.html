@@ -5,286 +5,258 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>阿美語 Wikipedia 整理計畫</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
-      background: #f5f5f0;
-      color: #2c2c2c;
-      line-height: 1.7;
+      background: #f7f7f5;
+      color: #222;
+      font-size: 15px;
+      line-height: 1.75;
     }
 
+    /* ── Header ── */
     header {
-      background: #1a472a;
+      background: linear-gradient(135deg, #1a472a 0%, #2d6a4f 100%);
       color: white;
-      padding: 48px 24px;
+      padding: 56px 24px 48px;
       text-align: center;
     }
+    header .lang { font-size: 0.85rem; opacity: 0.6; letter-spacing: 0.05em; margin-bottom: 10px; }
+    header h1 { font-size: 2rem; font-weight: 700; margin-bottom: 10px; }
+    header .desc { opacity: 0.85; font-size: 0.95rem; max-width: 540px; margin: 0 auto; }
+    header a { color: rgba(255,255,255,0.75); }
 
-    header h1 {
-      font-size: 2rem;
-      margin-bottom: 8px;
-    }
+    /* ── Layout ── */
+    main { max-width: 900px; margin: 0 auto; padding: 40px 20px 60px; }
 
-    header p {
-      opacity: 0.8;
-      font-size: 1rem;
-    }
-
-    .subtitle {
-      font-style: italic;
-      font-size: 0.95rem;
-      margin-top: 4px;
-      opacity: 0.65;
-    }
-
-    main {
-      max-width: 860px;
-      margin: 0 auto;
-      padding: 40px 24px;
-    }
-
+    /* ── Stats ── */
     .stats {
-      display: flex;
-      gap: 16px;
-      margin-bottom: 40px;
-      flex-wrap: wrap;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      margin-bottom: 36px;
     }
-
-    .stat-card {
-      flex: 1;
-      min-width: 160px;
+    @media (max-width: 600px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+    .stat {
       background: white;
-      border-radius: 8px;
-      padding: 20px;
+      border-radius: 10px;
+      padding: 20px 16px;
       text-align: center;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      border: 1px solid #e8e8e4;
     }
+    .stat .n { font-size: 1.9rem; font-weight: 700; color: #1a472a; }
+    .stat .l { font-size: 0.8rem; color: #888; margin-top: 4px; }
 
-    .stat-card .number {
-      font-size: 2rem;
-      font-weight: bold;
-      color: #1a472a;
-    }
-
-    .stat-card .label {
-      font-size: 0.85rem;
-      color: #888;
-      margin-top: 4px;
-    }
-
-    section {
+    /* ── Card ── */
+    .card {
       background: white;
-      border-radius: 8px;
+      border-radius: 10px;
+      border: 1px solid #e8e8e4;
       padding: 28px;
       margin-bottom: 24px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
     }
-
-    section h2 {
-      font-size: 1.2rem;
+    .card h2 {
+      font-size: 1.05rem;
+      font-weight: 700;
       color: #1a472a;
-      margin-bottom: 16px;
-      padding-bottom: 8px;
-      border-bottom: 2px solid #e8f0e8;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
+    .card h2 .icon { font-size: 1.1rem; }
+    .card p { color: #555; margin-bottom: 14px; font-size: 0.9rem; }
 
-    section p {
-      margin-bottom: 12px;
-      color: #444;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.9rem;
-    }
-
-    th {
-      background: #e8f0e8;
-      text-align: left;
-      padding: 10px 12px;
-      color: #1a472a;
-    }
-
-    td {
-      padding: 9px 12px;
-      border-bottom: 1px solid #f0f0f0;
-    }
-
+    /* ── Table ── */
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    th { background: #f0f5f1; color: #1a472a; text-align: left; padding: 9px 14px; font-weight: 600; }
+    th:first-child { border-radius: 6px 0 0 0; }
+    th:last-child { border-radius: 0 6px 0 0; }
+    td { padding: 9px 14px; border-bottom: 1px solid #f0f0ec; color: #444; vertical-align: top; }
     tr:last-child td { border-bottom: none; }
     tr:hover td { background: #fafff8; }
 
+    /* ── Badge ── */
     .badge {
       display: inline-block;
-      background: #e8f0e8;
-      color: #1a472a;
-      border-radius: 4px;
-      padding: 2px 8px;
-      font-size: 0.8rem;
-      margin-right: 4px;
+      padding: 2px 10px;
+      border-radius: 20px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      white-space: nowrap;
     }
+    .done  { background: #d4edda; color: #155724; }
+    .doing { background: #fff3cd; color: #856404; }
+    .todo  { background: #f0f0f0; color: #666; }
 
-    .steps {
-      counter-reset: step;
-      list-style: none;
-      padding: 0;
-    }
-
+    /* ── Steps ── */
+    .steps { list-style: none; }
     .steps li {
-      counter-increment: step;
       display: flex;
+      gap: 14px;
       align-items: flex-start;
-      gap: 16px;
-      margin-bottom: 16px;
+      margin-bottom: 14px;
+      font-size: 0.9rem;
+      color: #444;
     }
-
-    .steps li::before {
-      content: counter(step);
+    .step-num {
       background: #1a472a;
       color: white;
-      width: 28px;
-      height: 28px;
+      width: 26px;
+      height: 26px;
       border-radius: 50%;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 0.85rem;
+      font-size: 0.78rem;
+      font-weight: 700;
       flex-shrink: 0;
       margin-top: 2px;
     }
 
-    a {
+    /* ── Details / accordion ── */
+    details { margin-top: 14px; }
+    summary {
+      cursor: pointer;
       color: #1a472a;
-      text-decoration: underline;
+      font-size: 0.875rem;
+      font-weight: 600;
+      padding: 8px 0;
+      user-select: none;
     }
+    summary:hover { opacity: 0.75; }
+    details[open] summary { margin-bottom: 12px; }
 
-    footer {
-      text-align: center;
-      padding: 32px;
-      font-size: 0.85rem;
-      color: #aaa;
-    }
+    a { color: #1a472a; }
+    footer { text-align: center; padding: 28px; font-size: 0.8rem; color: #bbb; }
   </style>
 </head>
 <body>
 
 <header>
+  <div class="lang">'Amis Wikipedia Cleanup Project</div>
   <h1>阿美語 Wikipedia 整理計畫</h1>
-  <p class="subtitle">'Amis Wikipedia Cleanup Project</p>
-  <p style="margin-top:12px; font-size:0.9rem;">整理 <a href="https://ami.wikipedia.org" style="color:rgba(255,255,255,0.85)">ami.wikipedia.org</a> 的條目，讓阿美語知識更好找、更完整</p>
+  <p class="desc">
+    整理 <a href="https://ami.wikipedia.org" target="_blank">ami.wikipedia.org</a> 的條目，
+    消除重複、建立分類，讓阿美族語言資源更好找、更完整。
+  </p>
 </header>
 
 <main>
 
+  <!-- Stats -->
   <div class="stats">
-    <div class="stat-card">
-      <div class="number">1,149</div>
-      <div class="label">總條目數</div>
-    </div>
-    <div class="stat-card">
-      <div class="number">16</div>
-      <div class="label">近期活躍編輯者</div>
-    </div>
-    <div class="stat-card">
-      <div class="number">~45</div>
-      <div class="label">待合併重複條目組</div>
-    </div>
-    <div class="stat-card">
-      <div class="number">5</div>
-      <div class="label">待建分類大項</div>
-    </div>
+    <div class="stat"><div class="n">1,149</div><div class="l">總條目數</div></div>
+    <div class="stat"><div class="n">16</div><div class="l">近期活躍編輯者</div></div>
+    <div class="stat"><div class="n">~45</div><div class="l">待合併重複組</div></div>
+    <div class="stat"><div class="n">5</div><div class="l">待建分類大項</div></div>
   </div>
 
-  <section>
-    <h2>整理工作進度</h2>
+  <!-- 為什麼要整理 -->
+  <div class="card">
+    <h2><span class="icon">💡</span> 為什麼需要整理？</h2>
+    <p>阿美語 Wikipedia 是台灣原住民族語言中規模最大的 Wikipedia，但目前存在以下問題：</p>
     <table>
-      <thead>
-        <tr>
-          <th>工作項目</th>
-          <th>說明</th>
-          <th>狀態</th>
-        </tr>
-      </thead>
+      <thead><tr><th>問題</th><th>說明</th><th>數量</th></tr></thead>
       <tbody>
-        <tr>
-          <td>重複條目清單</td>
-          <td>約 45 組、60～80 條需設 redirect</td>
-          <td><span class="badge">清單完成</span></td>
-        </tr>
-        <tr>
-          <td>分類架構草稿</td>
-          <td>五大分類：國家、人物、部落、文化、臺灣</td>
-          <td><span class="badge">草稿完成</span></td>
-        </tr>
-        <tr>
-          <td>執行 redirect</td>
-          <td>依清單逐一在 wiki 上操作</td>
-          <td><span class="badge" style="background:#fff3cd;color:#856404;">進行中</span></td>
-        </tr>
-        <tr>
-          <td>建立分類頁面</td>
-          <td>在 wiki 上建立分類並套用至條目</td>
-          <td><span class="badge" style="background:#f0f0f0;color:#888;">待開始</span></td>
-        </tr>
-        <tr>
-          <td>擴充文化條目</td>
-          <td>部落、豐年祭、傳統知識等</td>
-          <td><span class="badge" style="background:#f0f0f0;color:#888;">待開始</span></td>
-        </tr>
+        <tr><td>重複條目</td><td>同一人物或地點有多個條目，例如 JFK 有 5 個版本</td><td>~80 條</td></tr>
+        <tr><td>分類缺失</td><td>大多數條目沒有分類，難以瀏覽</td><td>大部分</td></tr>
+        <tr><td>拼字錯誤</td><td>國家名大小寫不一致或有錯字</td><td>~20 條</td></tr>
+        <tr><td>文化條目不足</td><td>阿美族部落、文化、語言條目相對稀少</td><td>待補充</td></tr>
       </tbody>
     </table>
-  </section>
+  </div>
 
-  <section>
-    <h2>重複條目（節錄）</h2>
-    <p>以下為最常見的重複類型，完整清單見 <a href="duplicates/duplicates-list.md">duplicates-list.md</a>。</p>
+  <!-- 進度 -->
+  <div class="card">
+    <h2><span class="icon">📋</span> 整理進度</h2>
     <table>
-      <thead>
-        <tr><th>保留條目</th><th>需要 redirect 的版本</th></tr>
-      </thead>
+      <thead><tr><th>工作項目</th><th>說明</th><th>狀態</th></tr></thead>
+      <tbody>
+        <tr><td>重複條目清單</td><td>約 45 組、60～80 條需設 redirect</td><td><span class="badge done">清單完成</span></td></tr>
+        <tr><td>分類架構草稿</td><td>五大分類：國家、人物、部落、文化、臺灣</td><td><span class="badge done">草稿完成</span></td></tr>
+        <tr><td>執行 redirect</td><td>依清單逐一在 wiki 上操作</td><td><span class="badge doing">進行中</span></td></tr>
+        <tr><td>建立分類頁面</td><td>在 wiki 上建立分類並套用至條目</td><td><span class="badge todo">待開始</span></td></tr>
+        <tr><td>擴充文化條目</td><td>部落、豐年祭、傳統知識等</td><td><span class="badge todo">待開始</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 重複條目 -->
+  <div class="card">
+    <h2><span class="icon">🔁</span> 重複條目清單（節錄）</h2>
+    <p>以下每組保留第一個條目，其餘設為 redirect。</p>
+    <table>
+      <thead><tr><th>保留條目</th><th>需要 redirect 的版本</th></tr></thead>
       <tbody>
         <tr><td>John F. Kennedy</td><td>John F Kennedy、John Kennedy、JFK、Jfk</td></tr>
         <tr><td>Dwight D. Eisenhower</td><td>Dwight D Eisenhower、Dwight Eisenhower</td></tr>
-        <tr><td>Congo, Democratic Republic of the</td><td>至少 7 個拼法版本</td></tr>
+        <tr><td>George H. W. Bush</td><td>George H Bush、George H W Bush、George Herbert Walker Bush</td></tr>
+        <tr><td>Abraham Lincoln</td><td>Aparaham Linken、Aparaham. Linken</td></tr>
+        <tr><td>Barack Obama</td><td>Obama</td></tr>
+        <tr><td>Congo, Democratic Republic of the</td><td>7 個拼法版本（domocratic、Congko…）</td></tr>
         <tr><td>New Zealand</td><td>New zealand</td></tr>
+        <tr><td>Costa Rica</td><td>Costa riga（拼字錯誤）</td></tr>
         <tr><td>Fata'an</td><td>Fata' an</td></tr>
+        <tr><td>Elizabeth II</td><td>Queen Elizabeth II</td></tr>
       </tbody>
     </table>
-  </section>
+    <details>
+      <summary>▾ 顯示更多重複條目</summary>
+      <table>
+        <thead><tr><th>保留條目</th><th>需要 redirect 的版本</th></tr></thead>
+        <tbody>
+          <tr><td>Franklin D. Roosevelt</td><td>Franklin D Roosevelt、Franklin Roosevelt</td></tr>
+          <tr><td>Harry S. Truman</td><td>Harry S Truman、Harry Truman</td></tr>
+          <tr><td>Lyndon B. Johnson</td><td>Lyndon B Johnson、Lyndon Johnson</td></tr>
+          <tr><td>Ulysses S. Grant</td><td>Ulysses S Grant、Ulysses Grant</td></tr>
+          <tr><td>Warren G. Harding</td><td>Warren G Harding、Warren Harding</td></tr>
+          <tr><td>James A. Garfield</td><td>James A Garfield、James Garfield</td></tr>
+          <tr><td>James K. Polk</td><td>James K Polk、James Polk</td></tr>
+          <tr><td>Chester A. Arthur</td><td>Chester A Arthur、Chester Arthur</td></tr>
+          <tr><td>Rutherford B. Hayes</td><td>Rutherford B Hayes、Rutherford Hayes</td></tr>
+          <tr><td>Bill Clinton</td><td>William Jefferson Clinton</td></tr>
+          <tr><td>Charles III</td><td>King Charles III</td></tr>
+          <tr><td>Marshall Islands</td><td>Marshall Island</td></tr>
+          <tr><td>Papua New Guinea</td><td>Papua new guinea</td></tr>
+          <tr><td>El Salvador</td><td>El salvador</td></tr>
+          <tr><td>Misacepo'</td><td>（重複出現兩次，需確認內容）</td></tr>
+        </tbody>
+      </table>
+    </details>
+  </div>
 
-  <section>
-    <h2>分類架構（草稿）</h2>
-    <p>完整說明見 <a href="categories/categories-draft.md">categories-draft.md</a>。</p>
+  <!-- 分類架構 -->
+  <div class="card">
+    <h2><span class="icon">🗂️</span> 分類架構草稿</h2>
+    <p>建議建立五大分類，涵蓋目前約 1,149 篇條目。</p>
     <table>
-      <thead>
-        <tr><th>阿美語分類名</th><th>中文說明</th><th>估計條目數</th></tr>
-      </thead>
+      <thead><tr><th>阿美語分類名</th><th>中文說明</th><th>估計條目數</th><th>子分類</th></tr></thead>
       <tbody>
-        <tr><td>Fonga</td><td>國家</td><td>~180</td></tr>
-        <tr><td>Tamdaw</td><td>人物</td><td>~150</td></tr>
-        <tr><td>Niyaro' no Pangcah</td><td>阿美族部落</td><td>~100</td></tr>
-        <tr><td>Kawakawasan ratoh</td><td>傳統故事</td><td>~30</td></tr>
-        <tr><td>Kimad no 'Amis</td><td>阿美語詞彙</td><td>~150</td></tr>
+        <tr><td><strong>Fonga</strong></td><td>國家</td><td>~180</td><td>依洲別：Asia、Oropa、Amilika…</td></tr>
+        <tr><td><strong>Tamdaw</strong></td><td>人物</td><td>~150</td><td>Congtong no Amilika（美國總統）等</td></tr>
+        <tr><td><strong>Niyaro' no Pangcah</strong></td><td>阿美族部落</td><td>~100</td><td>依地區：花蓮、臺東</td></tr>
+        <tr><td><strong>Kawakawasan ratoh</strong></td><td>傳統故事</td><td>~30</td><td>—</td></tr>
+        <tr><td><strong>Kimad no 'Amis</strong></td><td>阿美語詞彙</td><td>~150</td><td>植物、動物、食物</td></tr>
       </tbody>
     </table>
-  </section>
+  </div>
 
-  <section>
-    <h2>如何參與</h2>
-    <ol class="steps">
-      <li>前往 <a href="https://ami.wikipedia.org">ami.wikipedia.org</a> 註冊帳號</li>
-      <li>對照<a href="duplicates/duplicates-list.md">重複條目清單</a>，將多餘條目設為 redirect</li>
-      <li>依<a href="categories/categories-draft.md">分類架構草稿</a>，為條目加上分類標籤</li>
-      <li>有任何建議歡迎到 <a href="https://github.com/ss1111119/ami-wiki-cleanup">GitHub</a> 上討論</li>
-    </ol>
-  </section>
+  <!-- 如何參與 -->
+  <div class="card">
+    <h2><span class="icon">🙌</span> 如何參與</h2>
+    <ul class="steps">
+      <li><span class="step-num">1</span><span>前往 <a href="https://ami.wikipedia.org" target="_blank">ami.wikipedia.org</a> 註冊帳號（免費）</span></li>
+      <li><span class="step-num">2</span><span>對照上方重複條目清單，將多餘條目設為 redirect（操作說明：編輯頁面，內容改為 <code>#REDIRECT [[正確條目名]]</code>）</span></li>
+      <li><span class="step-num">3</span><span>依分類架構，為條目加上分類標籤（操作說明：在條目底部加入 <code>[[Kasizengil:分類名]]</code>）</span></li>
+      <li><span class="step-num">4</span><span>有任何建議或問題，歡迎到 <a href="https://github.com/ss1111119/ami-wiki-cleanup" target="_blank">GitHub</a> 上留言討論</span></li>
+    </ul>
+  </div>
 
 </main>
 
-<footer>
-  <p>資料截至 2026-05-31 ／ <a href="https://github.com/ss1111119/ami-wiki-cleanup">GitHub</a></p>
-</footer>
+<footer>資料截至 2026-05-31 ／ <a href="https://github.com/ss1111119/ami-wiki-cleanup" target="_blank">GitHub</a></footer>
 
 </body>
 </html>
