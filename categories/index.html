@@ -21,7 +21,9 @@
     header a { color: rgba(255,255,255,0.7); font-size: 0.85rem; text-decoration: none; }
     header h1 { font-size: 1.6rem; font-weight: 700; margin-top: 10px; }
     header .meta { opacity: 0.7; font-size: 0.85rem; margin-top: 6px; }
-    main { max-width: 900px; margin: 0 auto; padding: 36px 20px 60px; }
+
+    main { max-width: 960px; margin: 0 auto; padding: 36px 20px 60px; }
+
     .tip {
       background: #e8f5e9;
       border-left: 4px solid #1a472a;
@@ -32,28 +34,102 @@
       margin-bottom: 28px;
     }
     .tip code { background: #c8e6c9; padding: 1px 6px; border-radius: 3px; font-family: monospace; }
+
+    /* nav */
+    .toc {
+      background: white;
+      border: 1px solid #e8e8e4;
+      border-radius: 10px;
+      padding: 18px 24px;
+      margin-bottom: 28px;
+      font-size: 0.875rem;
+    }
+    .toc strong { display: block; color: #1a472a; margin-bottom: 8px; }
+    .toc ol { padding-left: 18px; }
+    .toc li { margin-bottom: 4px; }
+    .toc a { color: #1a472a; }
+
+    /* card */
     .card {
       background: white;
       border-radius: 10px;
       border: 1px solid #e8e8e4;
-      padding: 24px 28px;
-      margin-bottom: 20px;
+      padding: 28px;
+      margin-bottom: 24px;
     }
-    .card h2 {
-      font-size: 1rem;
-      font-weight: 700;
-      color: #1a472a;
-      margin-bottom: 14px;
-      padding-bottom: 8px;
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
       border-bottom: 2px solid #e8f0e8;
     }
-    .card h3 { font-size: 0.95rem; color: #2d6a4f; margin: 18px 0 10px; }
-    .card p { font-size: 0.875rem; color: #555; margin-bottom: 10px; }
+    .card-header h2 { font-size: 1.1rem; font-weight: 700; color: #1a472a; }
+    .card-header .ami { font-size: 0.85rem; color: #888; font-style: italic; margin-top: 2px; }
+    .count-badge {
+      background: #1a472a;
+      color: white;
+      border-radius: 20px;
+      padding: 3px 12px;
+      font-size: 0.8rem;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .desc { font-size: 0.875rem; color: #555; margin-bottom: 16px; }
+
+    .op-box {
+      background: #f8faf8;
+      border: 1px solid #dde8dd;
+      border-radius: 6px;
+      padding: 10px 14px;
+      font-size: 0.82rem;
+      color: #2d5a3d;
+      margin-bottom: 16px;
+    }
+    .op-box code { font-family: monospace; background: #c8e6c9; padding: 1px 5px; border-radius: 3px; }
+
+    /* article tags */
+    .tag-cloud { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+    .tag {
+      background: #f0f5f1;
+      border: 1px solid #c8ddc8;
+      border-radius: 4px;
+      padding: 3px 10px;
+      font-size: 0.8rem;
+      color: #2d5a3d;
+    }
+    .tag a { color: #2d5a3d; text-decoration: none; }
+    .tag a:hover { text-decoration: underline; }
+
+    /* sub-category sections */
+    .sub { margin-top: 18px; }
+    .sub h3 {
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: #555;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .sub h3::before {
+      content: '';
+      display: inline-block;
+      width: 3px;
+      height: 14px;
+      background: #1a472a;
+      border-radius: 2px;
+    }
+
     table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
     th { background: #f0f5f1; color: #1a472a; text-align: left; padding: 9px 14px; font-weight: 600; }
     td { padding: 9px 14px; border-bottom: 1px solid #f0f0ec; color: #444; vertical-align: top; }
     tr:last-child td { border-bottom: none; }
     tr:hover td { background: #fafff8; }
+
     .tree {
       background: #f8faf8;
       border: 1px solid #dde8dd;
@@ -64,45 +140,16 @@
       line-height: 1.9;
       color: #2c3e2c;
       overflow-x: auto;
-      margin-bottom: 14px;
+      margin-bottom: 20px;
     }
-    .priority-list { list-style: none; padding: 0; }
-    .priority-list li {
-      display: flex;
-      align-items: flex-start;
-      gap: 14px;
-      margin-bottom: 12px;
-      font-size: 0.9rem;
-      color: #444;
-    }
-    .num {
-      background: #1a472a;
-      color: white;
-      width: 26px;
-      height: 26px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 0.78rem;
-      font-weight: 700;
-      flex-shrink: 0;
-      margin-top: 2px;
-    }
-    .tag {
-      display: inline-block;
-      background: #e8f0e8;
-      color: #1a472a;
-      border-radius: 4px;
-      padding: 1px 8px;
-      font-size: 0.8rem;
-      font-family: monospace;
-      margin-right: 4px;
-    }
-    .examples { font-size: 0.82rem; color: #888; margin-top: 4px; }
-    ul.notes { padding-left: 20px; font-size: 0.875rem; color: #555; }
-    ul.notes li { margin-bottom: 6px; }
-    code { background: #f0f0ec; padding: 1px 6px; border-radius: 3px; font-family: monospace; font-size: 0.85rem; }
+
+    details { margin-top: 12px; }
+    summary { cursor: pointer; color: #1a472a; font-size: 0.85rem; font-weight: 600; padding: 6px 0; user-select: none; }
+    details[open] summary { margin-bottom: 10px; }
+
+    .note { font-size: 0.8rem; color: #888; margin-top: 8px; }
+    .warn { color: #856404; background: #fff3cd; padding: 2px 7px; border-radius: 4px; font-size: 0.78rem; }
+
     footer { text-align: center; padding: 28px; font-size: 0.8rem; color: #bbb; }
     a { color: #1a472a; }
   </style>
@@ -112,18 +159,32 @@
 <header>
   <a href="../index.html">← 回首頁</a>
   <h1>分類架構草稿</h1>
-  <div class="meta">整理日期：2026-05-31 ／ 草稿階段，歡迎討論修改</div>
+  <div class="meta">整理日期：2026-05-31 ／ 草稿階段，歡迎討論</div>
 </header>
 
 <main>
 
   <div class="tip">
-    操作說明：在條目頁面底部加入 <code>[[Kasizengil:分類名]]</code> 即可將該條目加入分類。
+    操作說明：在條目頁面底部加入 <code>[[Kasizengil:分類名]]</code> 即可將該條目加入分類。例如要加入「國家」分類，就在底部加 <code>[[Kasizengil:Fonga]]</code>。
+  </div>
+
+  <!-- 目錄 -->
+  <div class="toc">
+    <strong>目錄</strong>
+    <ol>
+      <li><a href="#overview">架構總覽</a></li>
+      <li><a href="#fonga">Fonga — 國家（~180 條）</a></li>
+      <li><a href="#tamdaw">Tamdaw — 人物（~150 條）</a></li>
+      <li><a href="#pangcah">Niyaro' no Pangcah — 阿美族部落（~100 條）</a></li>
+      <li><a href="#ratoh">Kawakawasan ratoh — 傳統故事（~30 條）</a></li>
+      <li><a href="#kimad">Kimad no 'Amis — 阿美語詞彙（~150 條）</a></li>
+      <li><a href="#priority">建議操作順序</a></li>
+    </ol>
   </div>
 
   <!-- 架構總覽 -->
-  <div class="card">
-    <h2>架構總覽</h2>
+  <div class="card" id="overview">
+    <div class="card-header"><div><h2>架構總覽</h2></div></div>
     <div class="tree">根分類
 ├── Fonga（國家）
 │   ├── Fonga i Asia（亞洲國家）
@@ -133,9 +194,8 @@
 │   └── Fonga i Oseania（大洋洲國家）
 │
 ├── Tamdaw（人物）
-│   ├── Congtong（總統/國家元首）
-│   │   ├── Congtong no Amilika（美國總統）
-│   │   └── Congtong no Taywan（臺灣總統）
+│   ├── Congtong no Amilika（美國總統）
+│   ├── Congtong no Taywan（臺灣總統）
 │   ├── Hafihif tamdaw（歷史人物）
 │   └── Misanga tamdaw（藝術/音樂人物）
 │
@@ -156,82 +216,323 @@
 │   ├── Sowal no Taywan（臺灣歷史）
 │   ├── Niyaro' i Taywan（臺灣地名）
 │   └── Yincuminco no Taywan（臺灣原住民族）
-│       ├── Pangcah（阿美族）
-│       ├── Puyuma（卑南族）
-│       ├── Paiwan（排灣族）
-│       └── Tayal（泰雅族）
 │
-└── Roma a fonga（其他地區）
-    ├── Niyaro' i Oseania（大洋洲地名）
-    └── Niyaro' i Asia（亞洲地名）</div>
+└── Roma a fonga（其他地區）</div>
   </div>
 
-  <!-- 各分類說明 -->
-  <div class="card">
-    <h2>各分類說明</h2>
+  <!-- 1. 國家 -->
+  <div class="card" id="fonga">
+    <div class="card-header">
+      <div>
+        <h2>1. Fonga — 國家</h2>
+        <div class="ami">分類標籤：<code>[[Kasizengil:Fonga]]</code></div>
+      </div>
+      <span class="count-badge">~180 條</span>
+    </div>
+    <p class="desc">目前所有國家條目以英文命名，直接加入此分類即可。之後再依洲別加入子分類。</p>
+    <div class="op-box">
+      子分類標籤範例：亞洲 <code>[[Kasizengil:Fonga i Asia]]</code>、歐洲 <code>[[Kasizengil:Fonga i Oropa]]</code>、非洲 <code>[[Kasizengil:Fonga i Apika]]</code>、美洲 <code>[[Kasizengil:Fonga i Amilika]]</code>、大洋洲 <code>[[Kasizengil:Fonga i Oseania]]</code>
+    </div>
 
-    <h3><span class="tag">Fonga</span> 國家</h3>
-    <p>估計條目數：~180 條。目前條目直接以英文國名命名，建議先統一加入此分類，再依洲別細分。</p>
-    <p class="examples">範例條目：Afghanistan, Albania, Algeria, Angola, Argentina, Australia…</p>
+    <div class="sub">
+      <h3>亞洲 Fonga i Asia</h3>
+      <div class="tag-cloud">
+        <span class="tag">Afghanistan</span><span class="tag">Armenia</span><span class="tag">Azerbaijan</span>
+        <span class="tag">Bahrain</span><span class="tag">Bangladesh</span><span class="tag">Bhutan</span>
+        <span class="tag">Brunei</span><span class="tag">Burma</span><span class="tag">Cambodia</span>
+        <span class="tag">China</span><span class="tag">Cyprus</span><span class="tag">Georgia</span>
+        <span class="tag">Hong Kong</span><span class="tag">India</span><span class="tag">Indonesia</span>
+        <span class="tag">Iran</span><span class="tag">Iraq</span><span class="tag">Israel</span>
+        <span class="tag">Japan</span><span class="tag">Jordan</span><span class="tag">Kazakhstan</span>
+        <span class="tag">Korea, north</span><span class="tag">Korea, south</span><span class="tag">Kuwait</span>
+        <span class="tag">Kyrgyzstan</span><span class="tag">Laos</span><span class="tag">Lebanon</span>
+        <span class="tag">Macau</span><span class="tag">Malaysia</span><span class="tag">Maldives</span>
+        <span class="tag">Mongolia</span><span class="tag">Nepal</span><span class="tag">Oman</span>
+        <span class="tag">Pakistan</span><span class="tag">Philippines</span><span class="tag">Qatar</span>
+        <span class="tag">Saudi Arabia</span><span class="tag">Singapore</span><span class="tag">Sri Lanka</span>
+        <span class="tag">Syria</span><span class="tag">Taiwan</span><span class="tag">Tajikistan</span>
+        <span class="tag">Thailand</span><span class="tag">Timor-Leste</span><span class="tag">Turkey</span>
+        <span class="tag">Turkmenistan</span><span class="tag">United Arab Emirates</span><span class="tag">Uzbekistan</span>
+        <span class="tag">Vietnam</span><span class="tag">Yemen</span>
+      </div>
+    </div>
 
-    <h3><span class="tag">Congtong no Amilika</span> 美國總統</h3>
-    <p>去重後約 45 條，從 George Washington 到 Joe Biden，是目前最完整的人物系列。</p>
-    <p class="examples">範例條目：Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt, John F. Kennedy…</p>
+    <div class="sub">
+      <h3>歐洲 Fonga i Oropa</h3>
+      <div class="tag-cloud">
+        <span class="tag">Albania</span><span class="tag">Andorra</span><span class="tag">Austria</span>
+        <span class="tag">Belarus</span><span class="tag">Belgium</span><span class="tag">Bosnia and Herzegovina</span>
+        <span class="tag">Bulgaria</span><span class="tag">Croatia</span><span class="tag">Czechia</span>
+        <span class="tag">Denmark</span><span class="tag">Estonia</span><span class="tag">Finland</span>
+        <span class="tag">France</span><span class="tag">Germany</span><span class="tag">Greece</span>
+        <span class="tag">Hungary</span><span class="tag">Iceland</span><span class="tag">Ireland</span>
+        <span class="tag">Italy</span><span class="tag">Kosovo</span><span class="tag">Latvia</span>
+        <span class="tag">Liechtenstein</span><span class="tag">Lithuania</span><span class="tag">Luxembourg</span>
+        <span class="tag">Macedonia</span><span class="tag">Malta</span><span class="tag">Moldova</span>
+        <span class="tag">Monaco</span><span class="tag">Montenegro</span><span class="tag">Netherlands</span>
+        <span class="tag">Norway</span><span class="tag">Poland</span><span class="tag">Portugal</span>
+        <span class="tag">Romania</span><span class="tag">Russia</span><span class="tag">San Marino</span>
+        <span class="tag">Serbia</span><span class="tag">Slovakia</span><span class="tag">Slovenia</span>
+        <span class="tag">Spain</span><span class="tag">Sweden</span><span class="tag">Switzerland</span>
+        <span class="tag">Ukraine</span><span class="tag">United Kingdom</span>
+      </div>
+    </div>
 
-    <h3><span class="tag">Niyaro' no Pangcah</span> 阿美族部落</h3>
-    <p>估計 80～100 條，是最有文化價值的分類。可進一步依花蓮/臺東或方言群（北部/中部/南部/海岸）細分。</p>
-    <p class="examples">範例條目：Tafalong（太巴塱）、Fata'an（馬太鞍）、Makotaay（港口）、Falangaw（馬蘭）、Cepo'（靜浦）…</p>
+    <div class="sub">
+      <h3>非洲 Fonga i Apika</h3>
+      <div class="tag-cloud">
+        <span class="tag">Algeria</span><span class="tag">Angola</span><span class="tag">Benin</span>
+        <span class="tag">Botswana</span><span class="tag">Burkina Faso</span><span class="tag">Burundi</span>
+        <span class="tag">Cameroon</span><span class="tag">Cape Town</span>
+        <span class="tag">Central African Republic</span><span class="tag">Chad</span>
+        <span class="tag">Congo, Democratic Republic of the</span><span class="tag">Congo, Republic of the</span>
+        <span class="tag">Côte d'Ivoire</span><span class="tag">Egypt</span>
+        <span class="tag">Equatorial Guinea</span><span class="tag">Eritrea</span><span class="tag">Ethiopia</span>
+        <span class="tag">Gabon</span><span class="tag">Gambia</span><span class="tag">Ghana</span>
+        <span class="tag">Guinea</span><span class="tag">Guinea-Bissau</span><span class="tag">Kenya</span>
+        <span class="tag">Lesotho</span><span class="tag">Liberia</span><span class="tag">Libya</span>
+        <span class="tag">Madagascar</span><span class="tag">Malawi</span><span class="tag">Mali</span>
+        <span class="tag">Mauritania</span><span class="tag">Mauritius</span><span class="tag">Morocco</span>
+        <span class="tag">Mozambique</span><span class="tag">Namibia</span><span class="tag">Niger</span>
+        <span class="tag">Nigeria</span><span class="tag">Rwanda</span><span class="tag">Senegal</span>
+        <span class="tag">Sierra Leone</span><span class="tag">Somalia</span><span class="tag">South Africa</span>
+        <span class="tag">South Sudan</span><span class="tag">Sudan</span><span class="tag">Swaziland</span>
+        <span class="tag">Tanzania</span><span class="tag">Togo</span><span class="tag">Tunisia</span>
+        <span class="tag">Uganda</span><span class="tag">Zambia</span><span class="tag">Zimbabwe</span>
+      </div>
+    </div>
 
-    <h3><span class="tag">Kawakawasan ratoh</span> 傳統故事</h3>
-    <p>估計 20～30 條，條目已有統一前綴「Kawakawasan ratoh:」，好辨識，容易批次加入分類。</p>
-    <p class="examples">範例條目：Kawakawasan ratoh: 'icep、ci Osap、ci Salafan、Towic aci Aramoringit…</p>
+    <div class="sub">
+      <h3>美洲 Fonga i Amilika</h3>
+      <div class="tag-cloud">
+        <span class="tag">Antigua and Barbuda</span><span class="tag">Argentina</span>
+        <span class="tag">Bahamas</span><span class="tag">Barbados</span><span class="tag">Belize</span>
+        <span class="tag">Bolivia</span><span class="tag">Brazil</span><span class="tag">Canada</span>
+        <span class="tag">Chile</span><span class="tag">Colombia</span><span class="tag">Costa Rica</span>
+        <span class="tag">Cuba</span><span class="tag">Dominica</span><span class="tag">Dominican Republic</span>
+        <span class="tag">Ecuador</span><span class="tag">El Salvador</span><span class="tag">Guatemala</span>
+        <span class="tag">Guyana</span><span class="tag">Haiti</span><span class="tag">Honduras</span>
+        <span class="tag">Jamaica</span><span class="tag">Mexico</span><span class="tag">Nicaragua</span>
+        <span class="tag">Panama</span><span class="tag">Paraguay</span><span class="tag">Peru</span>
+        <span class="tag">Puerto Rico</span><span class="tag">Saint Lucia</span>
+        <span class="tag">Saint Vincent and the Grenadines</span>
+        <span class="tag">Suriname</span><span class="tag">Trinidad and Tobago</span>
+        <span class="tag">United States</span><span class="tag">Uruguay</span><span class="tag">Venezuela</span>
+      </div>
+    </div>
 
-    <h3><span class="tag">Kimad no 'Amis</span> 阿美語詞彙</h3>
-    <p>估計 100 條以上，是量最大的分類。建議先建立大分類，再慢慢加子分類。</p>
-    <p class="examples">範例條目：'ayam（雞）、babuy（豬）、panay（小米）、hafay（稻米）、kowa'（木瓜）…</p>
+    <div class="sub">
+      <h3>大洋洲 Fonga i Oseania</h3>
+      <div class="tag-cloud">
+        <span class="tag">Australia</span><span class="tag">Fiji</span><span class="tag">Kiribati</span>
+        <span class="tag">Marshall Islands</span><span class="tag">Micronesia</span><span class="tag">Nauru</span>
+        <span class="tag">New Zealand</span><span class="tag">Palau</span><span class="tag">Papua New Guinea</span>
+        <span class="tag">Samoa</span><span class="tag">Solomon Islands</span><span class="tag">Tonga</span>
+        <span class="tag">Tuvalu</span><span class="tag">Vanuatu</span>
+      </div>
+    </div>
   </div>
 
-  <!-- 優先順序 -->
-  <div class="card">
-    <h2>建議建立順序</h2>
-    <ol class="priority-list">
-      <li>
-        <span class="num">1</span>
-        <div><strong><span class="tag">Fonga</span> 國家</strong> — 條目最多、操作最單純，適合暖身</div>
-      </li>
-      <li>
-        <span class="num">2</span>
-        <div><strong><span class="tag">Congtong no Amilika</span> 美國總統</strong> — 去重後直接套入，整齊</div>
-      </li>
-      <li>
-        <span class="num">3</span>
-        <div><strong><span class="tag">Niyaro' no Pangcah</span> 阿美族部落</strong> — 最有價值，其他語言 Wikipedia 沒有的內容</div>
-      </li>
-      <li>
-        <span class="num">4</span>
-        <div><strong><span class="tag">Kawakawasan ratoh</span> 傳統故事</strong> — 前綴統一，好找</div>
-      </li>
-      <li>
-        <span class="num">5</span>
-        <div><strong><span class="tag">Kimad no 'Amis</span> 阿美語詞彙</strong> — 量最大，長期慢慢做</div>
-      </li>
-    </ol>
+  <!-- 2. 人物 -->
+  <div class="card" id="tamdaw">
+    <div class="card-header">
+      <div>
+        <h2>2. Tamdaw — 人物</h2>
+        <div class="ami">分類標籤：<code>[[Kasizengil:Tamdaw]]</code></div>
+      </div>
+      <span class="count-badge">~150 條</span>
+    </div>
+    <p class="desc">人物條目量大，建議先建子分類「美國總統」，這是目前最完整的系列（去重後 45 條）。</p>
+
+    <div class="sub">
+      <h3>美國總統 Congtong no Amilika（45 條，去重後）</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Congtong no Amilika]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">George Washington</span><span class="tag">John Adams</span>
+        <span class="tag">Thomas Jefferson</span><span class="tag">James Madison</span>
+        <span class="tag">James Monroe</span><span class="tag">John Quincy Adams</span>
+        <span class="tag">Andrew Jackson</span><span class="tag">Martin Van Buren</span>
+        <span class="tag">William Henry Harrison</span><span class="tag">John Tyler</span>
+        <span class="tag">James K. Polk</span><span class="tag">Zachary Taylor</span>
+        <span class="tag">Millard Fillmore</span><span class="tag">Franklin Pierce</span>
+        <span class="tag">James Buchanan</span><span class="tag">Abraham Lincoln</span>
+        <span class="tag">Andrew Johnson</span><span class="tag">Ulysses S. Grant</span>
+        <span class="tag">Rutherford B. Hayes</span><span class="tag">James A. Garfield</span>
+        <span class="tag">Chester A. Arthur</span><span class="tag">Grover Cleveland</span>
+        <span class="tag">Benjamin Harrison</span><span class="tag">William McKinley</span>
+        <span class="tag">Theodore Roosevelt</span><span class="tag">William Howard Taft</span>
+        <span class="tag">Woodrow Wilson</span><span class="tag">Warren G. Harding</span>
+        <span class="tag">Calvin Coolidge</span><span class="tag">Herbert Hoover</span>
+        <span class="tag">Franklin D. Roosevelt</span><span class="tag">Harry S. Truman</span>
+        <span class="tag">Dwight D. Eisenhower</span><span class="tag">John F. Kennedy</span>
+        <span class="tag">Lyndon B. Johnson</span><span class="tag">Richard Nixon</span>
+        <span class="tag">Gerald Ford</span><span class="tag">Jimmy Carter</span>
+        <span class="tag">Ronald Reagan</span><span class="tag">George H. W. Bush</span>
+        <span class="tag">Bill Clinton</span><span class="tag">George W. Bush</span>
+        <span class="tag">Barack Obama</span><span class="tag">Donald Trump</span>
+        <span class="tag">Joe Biden</span>
+      </div>
+    </div>
+
+    <div class="sub">
+      <h3>臺灣總統 Congtong no Taywan</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Congtong no Taywan]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">Tsai Ing-wen</span><span class="tag">Lai Cingte congtong</span>
+        <span class="tag">Ma Ying-jeou</span>
+      </div>
+    </div>
+
+    <div class="sub">
+      <h3>藝術/音樂人物 Misanga tamdaw</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Misanga tamdaw]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">The Beatles</span><span class="tag">John Lennon</span>
+        <span class="tag">Paul McCartney</span><span class="tag">Ringo Starr</span>
+        <span class="tag">George Harrison</span><span class="tag">George Martin</span>
+        <span class="tag">Yoko Ono</span><span class="tag">Linda McCartney</span>
+        <span class="tag">Pete Best</span>
+      </div>
+    </div>
   </div>
 
-  <!-- 備註 -->
-  <div class="card">
-    <h2>備註</h2>
-    <ul class="notes">
-      <li>分類名稱以阿美語為主，可在分類頁面附上中文說明</li>
-      <li>部落分類可依地理位置（花蓮/臺東）或方言群（北部/中部/南部/海岸阿美）細分</li>
-      <li>詞彙分類可參考原住民族語言研究院的詞典架構</li>
-      <li>此為草稿，歡迎到 <a href="https://github.com/ss1111119/ami-wiki-cleanup" target="_blank">GitHub</a> 提出修改意見</li>
-    </ul>
+  <!-- 3. 阿美族部落 -->
+  <div class="card" id="pangcah">
+    <div class="card-header">
+      <div>
+        <h2>3. Niyaro' no Pangcah — 阿美族部落</h2>
+        <div class="ami">分類標籤：<code>[[Kasizengil:Niyaro' no Pangcah]]</code></div>
+      </div>
+      <span class="count-badge">~100 條</span>
+    </div>
+    <p class="desc">最有文化保存價值的分類，其他語言 Wikipedia 沒有的內容。建議依花蓮/臺東地理位置細分。</p>
+
+    <div class="sub">
+      <h3>花蓮部落 Niyaro' i Hualien</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Niyaro' i Hualien]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">Tafalong 太巴塱</span><span class="tag">Fata'an 馬太鞍</span>
+        <span class="tag">Makotaay 港口</span><span class="tag">Cepo' 靜浦</span>
+        <span class="tag">Natauran 南勢阿美</span><span class="tag">Ciwkangan</span>
+        <span class="tag">Kiwit 奇美</span><span class="tag">Falangaw 馬蘭</span>
+        <span class="tag">Adolan 都蘭</span><span class="tag">Hualien 花蓮</span>
+        <span class="tag">Lidaw</span><span class="tag">Sakul</span>
+        <span class="tag">Makay</span><span class="tag">Takoban</span>
+      </div>
+      <p class="note">⚠️ 部分部落跨花蓮/臺東，需確認後再分類</p>
+    </div>
+
+    <div class="sub">
+      <h3>臺東部落 Niyaro' i Taitung</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Niyaro' i Taitung]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">Atolan 都蘭</span><span class="tag">Taitung 臺東</span>
+        <span class="tag">Taidong</span><span class="tag">Chenggong 成功</span>
+        <span class="tag">Changbin 長濱</span><span class="tag">Fengbin 豐濱</span>
+        <span class="tag">Haiduan 海端</span><span class="tag">Dawu 大武</span>
+        <span class="tag">Taimali 太麻里</span><span class="tag">Beinan 卑南</span>
+        <span class="tag">Jinfeng 金峰</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. 傳統故事 -->
+  <div class="card" id="ratoh">
+    <div class="card-header">
+      <div>
+        <h2>4. Kawakawasan ratoh — 傳統故事</h2>
+        <div class="ami">分類標籤：<code>[[Kasizengil:Kawakawasan ratoh]]</code></div>
+      </div>
+      <span class="count-badge">~30 條</span>
+    </div>
+    <p class="desc">這個分類最好操作——所有條目都有統一前綴「Kawakawasan ratoh:」，直接批次加入即可。</p>
+    <div class="tag-cloud">
+      <span class="tag">Kawakawasan ratoh: 'icep</span>
+      <span class="tag">Kawakawasan ratoh: ci Osap</span>
+      <span class="tag">Kawakawasan ratoh: ci Salafan</span>
+      <span class="tag">Kawakawasan ratoh: lalengawan no tamdaw</span>
+      <span class="tag">Kawakawasan ratoh: malikakaay ato fafahiyan wawa no honti</span>
+      <span class="tag">Kawakawasan ratoh: Towic aci Aramoringit</span>
+      <span class="tag">Kawakawasan ratoh: Mapohaway a masipolo'ay</span>
+      <span class="tag">Kawakawasan ratoh: Fafahiyan kitakit</span>
+      <span class="tag">Kawakawasan ratoh: ma'apaay a fa'inay</span>
+      <span class="tag">Kawakawasan ratoh: malaoalangay a fafahiyan wawa</span>
+      <span class="tag">Kawakawasan ratoh: malapalangay a fafahiyan</span>
+      <span class="tag">Kawakawasan ratoh: malasengel</span>
+      <span class="tag">Kawakawasan ratoh: malangohahay to 'edo</span>
+      <span class="tag">Kawakawasan ratoh: karecrecay ato salil</span>
+      <span class="tag">Kawakawasan ratoh: cifa'inayay to ngafor</span>
+      <span class="tag">Kawakawasan ratoh: sawa'</span>
+      <span class="tag">Kawakawasan ratoh: tilid no 'Amis</span>
+      <span class="tag">Kawakawasan ratoh no 'Amis/Pangcah</span>
+    </div>
+  </div>
+
+  <!-- 5. 詞彙 -->
+  <div class="card" id="kimad">
+    <div class="card-header">
+      <div>
+        <h2>5. Kimad no 'Amis — 阿美語詞彙</h2>
+        <div class="ami">分類標籤：<code>[[Kasizengil:Kimad no 'Amis]]</code></div>
+      </div>
+      <span class="count-badge">~150 條</span>
+    </div>
+    <p class="desc">量最大的分類，建議先建立大分類，再慢慢細分植物、動物、食物等子分類。</p>
+
+    <div class="sub">
+      <h3>植物 Tananoman</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Tananoman]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">panay 小米</span><span class="tag">hafay 稻米</span>
+        <span class="tag">kowa' 木瓜</span><span class="tag">Kodafes 番石榴</span>
+        <span class="tag">Kodasing 落花生</span><span class="tag">Tefos 甘蔗</span>
+        <span class="tag">Tomato 番茄</span><span class="tag">falo 檳榔</span>
+        <span class="tag">kilang 樹木</span>
+      </div>
+    </div>
+
+    <div class="sub">
+      <h3>動物 Hayop</h3>
+      <div class="op-box">標籤：<code>[[Kasizengil:Hayop]]</code></div>
+      <div class="tag-cloud">
+        <span class="tag">'ayam 雞</span><span class="tag">babuy 豬</span>
+        <span class="tag">fafoy 豬</span><span class="tag">lotong 猴</span>
+        <span class="tag">waco 狗</span><span class="tag">wawa 魚</span>
+        <span class="tag">fafoy no lotok 山豬</span>
+      </div>
+    </div>
+
+    <div class="sub">
+      <h3>其他詞彙（待分類）</h3>
+      <div class="tag-cloud">
+        <span class="tag">niyaro' 部落</span><span class="tag">riyar 海</span>
+        <span class="tag">lotok 山</span><span class="tag">cidal 太陽</span>
+        <span class="tag">sowal 語言/話語</span><span class="tag">tamdaw 人</span>
+        <span class="tag">loma' 家</span><span class="tag">mama 父親</span>
+        <span class="tag">ina 母親</span><span class="tag">kakay 腳</span>
+        <span class="tag">mata 眼睛</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 建議操作順序 -->
+  <div class="card" id="priority">
+    <div class="card-header"><div><h2>建議操作順序</h2></div></div>
+    <table>
+      <thead><tr><th>順序</th><th>分類</th><th>理由</th><th>預估工時</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Kawakawasan ratoh（傳統故事）</td><td>條目有統一前綴，最快做完</td><td>1～2 小時</td></tr>
+        <tr><td>2</td><td>Congtong no Amilika（美國總統）</td><td>去重後名單清楚，直接套入</td><td>2～3 小時</td></tr>
+        <tr><td>3</td><td>Fonga（國家）</td><td>條目多但操作單純</td><td>半天</td></tr>
+        <tr><td>4</td><td>Niyaro' no Pangcah（阿美族部落）</td><td>最有價值，需稍微判斷歸屬</td><td>半天～一天</td></tr>
+        <tr><td>5</td><td>Kimad no 'Amis（阿美語詞彙）</td><td>量最大，長期慢慢做</td><td>長期</td></tr>
+      </tbody>
+    </table>
   </div>
 
 </main>
 
-<footer>資料截至 2026-05-31 ／ <a href="../index.html">回首頁</a></footer>
+<footer>資料截至 2026-05-31 ／ <a href="../index.html">回首頁</a> ／ <a href="https://github.com/ss1111119/ami-wiki-cleanup" target="_blank">GitHub</a></footer>
 
 </body>
 </html>
