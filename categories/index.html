@@ -130,18 +130,32 @@
     tr:last-child td { border-bottom: none; }
     tr:hover td { background: #fafff8; }
 
-    .tree {
-      background: #f8faf8;
-      border: 1px solid #dde8dd;
-      border-radius: 8px;
-      padding: 16px 20px;
-      font-family: monospace;
+    .tree-list { list-style: none; padding: 0; margin-bottom: 20px; }
+    .tree-list li { margin: 0; }
+    .tree-list > li { margin-bottom: 10px; }
+    .tree-root {
+      display: inline-block;
+      background: #1a472a;
+      color: white;
+      border-radius: 5px;
+      padding: 3px 10px;
       font-size: 0.85rem;
-      line-height: 1.9;
-      color: #2c3e2c;
-      overflow-x: auto;
-      margin-bottom: 20px;
+      font-weight: 700;
+      margin-bottom: 6px;
     }
+    .tree-list ul { list-style: none; padding-left: 20px; border-left: 2px solid #c8ddc8; margin: 4px 0 4px 10px; }
+    .tree-list ul li { padding: 3px 0 3px 10px; position: relative; font-size: 0.875rem; }
+    .tree-list ul li::before { content: '—'; position: absolute; left: -8px; color: #c8ddc8; }
+    .tree-cat {
+      display: inline-block;
+      background: #e8f0e8;
+      color: #1a472a;
+      border-radius: 4px;
+      padding: 1px 8px;
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+    .tree-sub { color: #888; font-size: 0.82rem; margin-left: 4px; }
 
     details { margin-top: 12px; }
     summary { cursor: pointer; color: #1a472a; font-size: 0.85rem; font-weight: 600; padding: 6px 0; user-select: none; }
@@ -185,39 +199,65 @@
   <!-- 架構總覽 -->
   <div class="card" id="overview">
     <div class="card-header"><div><h2>架構總覽</h2></div></div>
-    <div class="tree">根分類
-├── Fonga（國家）
-│   ├── Fonga i Asia（亞洲國家）
-│   ├── Fonga i Oropa（歐洲國家）
-│   ├── Fonga i Amilika（美洲國家）
-│   ├── Fonga i Apika（非洲國家）
-│   └── Fonga i Oseania（大洋洲國家）
-│
-├── Tamdaw（人物）
-│   ├── Congtong no Amilika（美國總統）
-│   ├── Congtong no Taywan（臺灣總統）
-│   ├── Hafihif tamdaw（歷史人物）
-│   └── Misanga tamdaw（藝術/音樂人物）
-│
-├── Pangcah / 'Amis（阿美族）
-│   ├── Niyaro' no Pangcah（阿美族部落）
-│   │   ├── Niyaro' i Hualien（花蓮部落）
-│   │   └── Niyaro' i Taitung（臺東部落）
-│   ├── Ilisin（豐年祭）
-│   ├── Kawakawasan ratoh（傳統故事）
-│   ├── Kimad no 'Amis（阿美語詞彙）
-│   │   ├── Tananoman（植物）
-│   │   ├── Hayop（動物）
-│   │   └── Kakaenen（食物）
-│   ├── Pisacepo' a kimad（傳統歌謠）
-│   └── Kapolongan no 'Amis（阿美族文化習俗）
-│
-├── Taywan（臺灣）
-│   ├── Sowal no Taywan（臺灣歷史）
-│   ├── Niyaro' i Taywan（臺灣地名）
-│   └── Yincuminco no Taywan（臺灣原住民族）
-│
-└── Roma a fonga（其他地區）</div>
+    <ul class="tree-list">
+      <li>
+        <span class="tree-root">根分類</span>
+        <ul>
+          <li>
+            <span class="tree-cat">Fonga</span> <span class="tree-sub">國家</span>
+            <ul>
+              <li><span class="tree-cat">Fonga i Asia</span> <span class="tree-sub">亞洲國家</span></li>
+              <li><span class="tree-cat">Fonga i Oropa</span> <span class="tree-sub">歐洲國家</span></li>
+              <li><span class="tree-cat">Fonga i Amilika</span> <span class="tree-sub">美洲國家</span></li>
+              <li><span class="tree-cat">Fonga i Apika</span> <span class="tree-sub">非洲國家</span></li>
+              <li><span class="tree-cat">Fonga i Oseania</span> <span class="tree-sub">大洋洲國家</span></li>
+            </ul>
+          </li>
+          <li>
+            <span class="tree-cat">Tamdaw</span> <span class="tree-sub">人物</span>
+            <ul>
+              <li><span class="tree-cat">Congtong no Amilika</span> <span class="tree-sub">美國總統</span></li>
+              <li><span class="tree-cat">Congtong no Taywan</span> <span class="tree-sub">臺灣總統</span></li>
+              <li><span class="tree-cat">Hafihif tamdaw</span> <span class="tree-sub">歷史人物</span></li>
+              <li><span class="tree-cat">Misanga tamdaw</span> <span class="tree-sub">藝術／音樂人物</span></li>
+            </ul>
+          </li>
+          <li>
+            <span class="tree-cat">Pangcah / 'Amis</span> <span class="tree-sub">阿美族</span>
+            <ul>
+              <li>
+                <span class="tree-cat">Niyaro' no Pangcah</span> <span class="tree-sub">阿美族部落</span>
+                <ul>
+                  <li><span class="tree-cat">Niyaro' i Hualien</span> <span class="tree-sub">花蓮部落</span></li>
+                  <li><span class="tree-cat">Niyaro' i Taitung</span> <span class="tree-sub">臺東部落</span></li>
+                </ul>
+              </li>
+              <li><span class="tree-cat">Ilisin</span> <span class="tree-sub">豐年祭</span></li>
+              <li><span class="tree-cat">Kawakawasan ratoh</span> <span class="tree-sub">傳統故事</span></li>
+              <li>
+                <span class="tree-cat">Kimad no 'Amis</span> <span class="tree-sub">阿美語詞彙</span>
+                <ul>
+                  <li><span class="tree-cat">Tananoman</span> <span class="tree-sub">植物</span></li>
+                  <li><span class="tree-cat">Hayop</span> <span class="tree-sub">動物</span></li>
+                  <li><span class="tree-cat">Kakaenen</span> <span class="tree-sub">食物</span></li>
+                </ul>
+              </li>
+              <li><span class="tree-cat">Pisacepo' a kimad</span> <span class="tree-sub">傳統歌謠</span></li>
+              <li><span class="tree-cat">Kapolongan no 'Amis</span> <span class="tree-sub">阿美族文化習俗</span></li>
+            </ul>
+          </li>
+          <li>
+            <span class="tree-cat">Taywan</span> <span class="tree-sub">臺灣</span>
+            <ul>
+              <li><span class="tree-cat">Sowal no Taywan</span> <span class="tree-sub">臺灣歷史</span></li>
+              <li><span class="tree-cat">Niyaro' i Taywan</span> <span class="tree-sub">臺灣地名</span></li>
+              <li><span class="tree-cat">Yincuminco no Taywan</span> <span class="tree-sub">臺灣原住民族</span></li>
+            </ul>
+          </li>
+          <li><span class="tree-cat">Roma a fonga</span> <span class="tree-sub">其他地區</span></li>
+        </ul>
+      </li>
+    </ul>
   </div>
 
   <!-- 1. 國家 -->
