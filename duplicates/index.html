@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>重複條目清單 — 阿美語 Wikipedia 整理計畫</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
+      background: #f7f7f5;
+      color: #222;
+      font-size: 15px;
+      line-height: 1.75;
+    }
+    header {
+      background: linear-gradient(135deg, #1a472a 0%, #2d6a4f 100%);
+      color: white;
+      padding: 40px 24px;
+    }
+    header a { color: rgba(255,255,255,0.7); font-size: 0.85rem; text-decoration: none; }
+    header a:hover { opacity: 0.85; }
+    header h1 { font-size: 1.6rem; font-weight: 700; margin-top: 10px; }
+    header .meta { opacity: 0.7; font-size: 0.85rem; margin-top: 6px; }
+    main { max-width: 900px; margin: 0 auto; padding: 36px 20px 60px; }
+    .tip {
+      background: #e8f5e9;
+      border-left: 4px solid #1a472a;
+      border-radius: 0 8px 8px 0;
+      padding: 14px 18px;
+      font-size: 0.875rem;
+      color: #2d5a3d;
+      margin-bottom: 28px;
+    }
+    .tip code {
+      background: #c8e6c9;
+      padding: 1px 6px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      border: 1px solid #e8e8e4;
+      padding: 24px 28px;
+      margin-bottom: 20px;
+    }
+    .card h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #1a472a;
+      margin-bottom: 14px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #e8f0e8;
+    }
+    .card p { font-size: 0.875rem; color: #555; margin-bottom: 12px; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    th { background: #f0f5f1; color: #1a472a; text-align: left; padding: 9px 14px; font-weight: 600; }
+    td { padding: 9px 14px; border-bottom: 1px solid #f0f0ec; color: #444; vertical-align: top; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafff8; }
+    .keep { font-weight: 600; color: #1a472a; }
+    .warn { font-size: 0.8rem; color: #856404; background: #fff3cd; padding: 2px 7px; border-radius: 4px; }
+    ul { padding-left: 20px; font-size: 0.875rem; color: #555; }
+    ul li { margin-bottom: 6px; }
+    code { background: #f0f0ec; padding: 1px 6px; border-radius: 3px; font-family: monospace; font-size: 0.85rem; }
+    .stats-row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 24px; }
+    .stat { background: white; border: 1px solid #e8e8e4; border-radius: 8px; padding: 14px 20px; text-align: center; flex: 1; min-width: 120px; }
+    .stat .n { font-size: 1.5rem; font-weight: 700; color: #1a472a; }
+    .stat .l { font-size: 0.78rem; color: #888; margin-top: 2px; }
+    footer { text-align: center; padding: 28px; font-size: 0.8rem; color: #bbb; }
+    a { color: #1a472a; }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="../index.html">← 回首頁</a>
+  <h1>重複條目清單</h1>
+  <div class="meta">整理日期：2026-05-31 ／ 資料來源：ami.wikipedia.org ／ 總條目數：1,149</div>
+</header>
+
+<main>
+
+  <div class="tip">
+    操作說明：編輯需要 redirect 的條目，將內容全部替換為 <code>#REDIRECT [[正確條目名]]</code>，存檔即可。
+  </div>
+
+  <div class="stats-row">
+    <div class="stat"><div class="n">18</div><div class="l">美國總統重複組</div></div>
+    <div class="stat"><div class="n">12</div><div class="l">國家名拼字問題</div></div>
+    <div class="stat"><div class="n">~10</div><div class="l">阿美族相關重複</div></div>
+    <div class="stat"><div class="n">~45</div><div class="l">總計重複組數</div></div>
+  </div>
+
+  <!-- 美國總統 -->
+  <div class="card">
+    <h2>美國總統（重複最多）</h2>
+    <table>
+      <thead><tr><th>保留 ✓</th><th>需 redirect</th></tr></thead>
+      <tbody>
+        <tr><td class="keep">Abraham Lincoln</td><td>Aparaham Linken、Aparaham. Linken</td></tr>
+        <tr><td class="keep">Andrew Jackson</td><td>Andrew jackson</td></tr>
+        <tr><td class="keep">Franklin D. Roosevelt</td><td>Franklin D Roosevelt、Franklin Roosevelt</td></tr>
+        <tr><td class="keep">Harry S. Truman</td><td>Harry S Truman、Harry Truman</td></tr>
+        <tr><td class="keep">Dwight D. Eisenhower</td><td>Dwight D Eisenhower、Dwight Eisenhower</td></tr>
+        <tr><td class="keep">John F. Kennedy</td><td>John F Kennedy、John Kennedy、JFK、Jfk</td></tr>
+        <tr><td class="keep">Lyndon B. Johnson</td><td>Lyndon B Johnson、Lyndon Johnson</td></tr>
+        <tr><td class="keep">George H. W. Bush</td><td>George H Bush、George H W Bush、George Herbert Walker Bush、George H. W Bush</td></tr>
+        <tr><td class="keep">George W. Bush</td><td>George W Bush</td></tr>
+        <tr><td class="keep">Bill Clinton</td><td>William Jefferson Clinton</td></tr>
+        <tr><td class="keep">Barack Obama</td><td>Obama</td></tr>
+        <tr><td class="keep">Ulysses S. Grant</td><td>Ulysses S Grant、Ulysses Grant</td></tr>
+        <tr><td class="keep">Rutherford B. Hayes</td><td>Rutherford B Hayes、Rutherford Hayes</td></tr>
+        <tr><td class="keep">Chester A. Arthur</td><td>Chester A Arthur、Chester Arthur</td></tr>
+        <tr><td class="keep">Warren G. Harding</td><td>Warren G Harding、Warren Harding</td></tr>
+        <tr><td class="keep">James A. Garfield</td><td>James A Garfield、James Garfield</td></tr>
+        <tr><td class="keep">James K. Polk</td><td>James K Polk、James Polk</td></tr>
+        <tr><td class="keep">Richard Nixon</td><td>（目前只有一條，無重複）</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 英國王室 -->
+  <div class="card">
+    <h2>英國王室</h2>
+    <table>
+      <thead><tr><th>保留 ✓</th><th>需 redirect</th></tr></thead>
+      <tbody>
+        <tr><td class="keep">Elizabeth II</td><td>Queen Elizabeth II</td></tr>
+        <tr><td class="keep">Charles III</td><td>King Charles III</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 臺灣政治人物 -->
+  <div class="card">
+    <h2>臺灣政治人物</h2>
+    <table>
+      <thead><tr><th>保留 ✓</th><th>需 redirect</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="keep">Tsai Ing-wen</td>
+          <td>Cay Ing-wen <span class="warn">需確認：可能是阿美語版，內容不同</span></td>
+        </tr>
+        <tr>
+          <td class="keep">Lai Cingte congtong</td>
+          <td>Lay Cingte <span class="warn">需確認：部分可能是獨立事件條目</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 國家名 -->
+  <div class="card">
+    <h2>國家名（拼法錯誤或大小寫不一致）</h2>
+    <table>
+      <thead><tr><th>保留 ✓</th><th>需 redirect</th></tr></thead>
+      <tbody>
+        <tr><td class="keep">New Zealand</td><td>New zealand</td></tr>
+        <tr><td class="keep">El Salvador</td><td>El salvador</td></tr>
+        <tr><td class="keep">Hong Kong</td><td>Hong kong</td></tr>
+        <tr><td class="keep">Costa Rica</td><td>Costa riga（拼字錯誤）</td></tr>
+        <tr><td class="keep">Côte d'Ivoire</td><td>Cote d'ivoire、Cote d'ivoirie</td></tr>
+        <tr><td class="keep">Dominican Republic</td><td>Dominica republic <span class="warn">注意：Dominica 是另一個國家</span></td></tr>
+        <tr><td class="keep">Papua New Guinea</td><td>Papua new guinea</td></tr>
+        <tr><td class="keep">Marshall Islands</td><td>Marshall Island</td></tr>
+        <tr><td class="keep">Cambodia</td><td>Conbodia（拼字錯誤）</td></tr>
+        <tr><td class="keep">Sri Lanka</td><td>Sri lanka</td></tr>
+        <tr><td class="keep">Guinea-Bissau</td><td>Guinea-bissau</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 剛果 -->
+  <div class="card">
+    <h2>剛果（最混亂，至少 7 個版本）</h2>
+    <p>注意：剛果有兩個不同國家，請分別保留以下兩條：<strong>Congo, Democratic Republic of the</strong>（剛果金）和 <strong>Congo, Republic of the</strong>（剛果布）</p>
+    <table>
+      <thead><tr><th>條目名稱</th><th>對應哪個國家</th></tr></thead>
+      <tbody>
+        <tr><td class="keep">Congo, Democratic Republic of the</td><td>民主共和國（剛果金）← 保留</td></tr>
+        <tr><td>Congo, democratic republic of</td><td>民主共和國 → redirect</td></tr>
+        <tr><td>Congo, domocratic republic of</td><td>民主共和國（拼字錯誤）→ redirect</td></tr>
+        <tr><td>Congko, democratic republic of</td><td>民主共和國（另一種拼法）→ redirect</td></tr>
+        <tr><td class="keep">Congo, Republic of the</td><td>共和國（剛果布）← 保留</td></tr>
+        <tr><td>Congo, republic of</td><td>共和國 → redirect</td></tr>
+        <tr><td>Congo, Republic</td><td>共和國 → redirect</td></tr>
+        <tr><td>Congo, the republic of the</td><td>共和國 → redirect</td></tr>
+        <tr><td>Congo,republic of</td><td>共和國 → redirect</td></tr>
+        <tr><td>Congo,Republic</td><td>共和國 → redirect</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 阿美族相關 -->
+  <div class="card">
+    <h2>阿美族相關條目（需先確認再操作）</h2>
+    <table>
+      <thead><tr><th>條目群</th><th>說明</th></tr></thead>
+      <tbody>
+        <tr><td>Misacepo'（出現兩次）</td><td>確認兩條內容是否相同，相同則 redirect</td></tr>
+        <tr><td>Fata'an / Fata' an</td><td>同一部落，空格差異，保留 Fata'an</td></tr>
+        <tr><td>O ilisin no Pangcah / O ilisin no 'Amis</td><td>可能同一主題，需確認</td></tr>
+        <tr><td>Lalood i Cepo' / Lalood i Cepao'</td><td>拼法差異，可能同一地點</td></tr>
+        <tr><td>O sowal no dipon / O sowal no dipong / Sowal no dipong</td><td>同主題三個版本</td></tr>
+        <tr><td>Rosiya a Sowal / Rosiya a sowal</td><td>大小寫差異</td></tr>
+        <tr><td>Amis / Amis.Pangach / Amis.Pangcah</td><td>需確認是否合併或各有重點</td></tr>
+        <tr><td>Rahaw / Rahaw, Takan / Rahaw（Takan）</td><td>同一地點，格式差異</td></tr>
+        <tr><td>Takanua / Takanua, Takanua</td><td>重複，保留 Takanua</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 其他 -->
+  <div class="card">
+    <h2>其他</h2>
+    <table>
+      <thead><tr><th>保留 ✓</th><th>需 redirect</th></tr></thead>
+      <tbody>
+        <tr><td class="keep">Solomon Islands</td><td>Solomon Island、Solomon</td></tr>
+        <tr><td class="keep">Taywan Kiristo Ciwlo Kiwkay</td><td>Taywan Kristo Ciwlo Kiwkay Cingaloan kiwkay <span class="warn">需確認內容</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 待確認 -->
+  <div class="card">
+    <h2>⚠️ 注意：這些看起來像重複，但實際上不同</h2>
+    <ul>
+      <li><code>Dominica</code> 和 <code>Dominican Republic</code> 是兩個不同國家，不要合併</li>
+      <li><code>Korea, north</code> 和 <code>Korea, south</code> 是不同國家，不要合併</li>
+      <li><code>Maori</code> 和 <code>Maori tamdaw</code> 可能是不同條目（民族 vs. 人），需確認</li>
+      <li><code>Ilisin</code> 和 <code>Ilisin no Fata'an</code> 可能是上下層條目，非重複</li>
+    </ul>
+  </div>
+
+</main>
+
+<footer>資料截至 2026-05-31 ／ <a href="../index.html">回首頁</a></footer>
+
+</body>
+</html>
