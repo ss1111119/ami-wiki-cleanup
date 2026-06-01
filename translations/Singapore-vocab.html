@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Singapore 詞彙對照表 — 阿美語 Wikipedia 整理計畫</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif; background: #f7f7f5; color: #222; font-size: 15px; line-height: 1.75; }
+    header { background: linear-gradient(135deg, #1a472a 0%, #2d6a4f 100%); color: white; padding: 40px 24px; }
+    header a { color: rgba(255,255,255,0.7); font-size: 0.85rem; text-decoration: none; }
+    header h1 { font-size: 1.5rem; font-weight: 700; margin-top: 10px; }
+    header .meta { opacity: 0.7; font-size: 0.85rem; margin-top: 6px; }
+    main { max-width: 960px; margin: 0 auto; padding: 36px 20px 60px; }
+
+    .summary-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 28px; }
+    @media(max-width:600px){ .summary-cards { grid-template-columns: 1fr; } }
+    .summary-card { background: white; border-radius: 10px; border: 1px solid #e8e8e4; padding: 18px; text-align: center; }
+    .summary-card .n { font-size: 1.8rem; font-weight: 700; }
+    .summary-card .l { font-size: 0.8rem; color: #888; margin-top: 4px; }
+    .n-ok { color: #1a472a; }
+    .n-warn { color: #856404; }
+    .n-err { color: #c0392b; }
+
+    .alert { padding: 14px 18px; border-radius: 8px; font-size: 0.875rem; margin-bottom: 24px; }
+    .alert-red { background: #fde8e8; border-left: 4px solid #c0392b; color: #7b241c; }
+    .alert-red strong { display: block; margin-bottom: 6px; }
+    .alert-red ol { padding-left: 20px; }
+    .alert-red li { margin-bottom: 4px; }
+
+    .card { background: white; border-radius: 10px; border: 1px solid #e8e8e4; padding: 28px; margin-bottom: 20px; }
+    .card h2 { font-size: 1.05rem; font-weight: 700; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid #e8f0e8; display: flex; align-items: center; gap: 8px; }
+    .card h2.green { color: #1a472a; border-color: #a8d5b5; }
+    .card h2.yellow { color: #856404; border-color: #ffc107; }
+    .card h2.red { color: #c0392b; border-color: #f5c6cb; }
+
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    th { background: #f0f5f1; color: #1a472a; text-align: left; padding: 9px 14px; font-weight: 600; }
+    td { padding: 9px 14px; border-bottom: 1px solid #f0f0ec; vertical-align: top; color: #444; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafff8; }
+
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
+    .ok   { background: #d4edda; color: #155724; }
+    .warn { background: #fff3cd; color: #856404; }
+    .err  { background: #f8d7da; color: #721c24; }
+    .missing { background: #f0f0f0; color: #666; }
+
+    code { background: #f0f0ec; padding: 2px 6px; border-radius: 3px; font-family: monospace; font-size: 0.85rem; }
+    .note { font-size: 0.8rem; color: #888; margin-top: 6px; }
+    a { color: #1a472a; }
+    footer { text-align: center; padding: 28px; font-size: 0.8rem; color: #bbb; }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="index.html">← 回翻譯進度</a>
+  <h1>Singapore（新加坡）詞彙對照表</h1>
+  <div class="meta">資料來源：<a href="https://new-amis.moedict.tw/" target="_blank" style="color:rgba(255,255,255,0.85)">阿美語萌典（蔡中涵大辭典）</a> ／ 整理日期：2026-06-01</div>
+</header>
+
+<main>
+
+  <div class="summary-cards">
+    <div class="summary-card"><div class="n n-ok">8</div><div class="l">✅ 字典有收錄、翻譯正確</div></div>
+    <div class="summary-card"><div class="n n-warn">9</div><div class="l">⚠️ 有收錄、但意思偏差</div></div>
+    <div class="summary-card"><div class="n n-err">5</div><div class="l">❌ 字典未收錄（AI 音譯）</div></div>
+  </div>
+
+  <div class="alert alert-red">
+    <strong>🔴 老師校對時請優先確認這 6 個詞彙：</strong>
+    <ol>
+      <li><code>hekal</code>（AI 用於「氣候」）→ 萌典定義是「岸邊」，完全不對</li>
+      <li><code>katatelekan</code>（AI 用於「地理」）→ 萌典定義是「條約、規則」，不對</li>
+      <li><code>pinangan</code>（AI 用於「經濟」）→ 萌典定義是「標誌、習慣」，不對</li>
+      <li><code>selal</code>（AI 用於「四小龍」）→ 萌典定義是「同年、同輩份」，不對</li>
+      <li><code>singkapolu</code> → 萌典收錄為 <code>singkapol</code>，應統一拼法</li>
+      <li><code>hikoki</code>（AI 用於「機場」）→ 萌典定義是「飛機」，機場說法需確認</li>
+    </ol>
+  </div>
+
+  <!-- 正確詞彙 -->
+  <div class="card">
+    <h2 class="green">✅ 字典有收錄、翻譯正確</h2>
+    <table>
+      <thead><tr><th>中文</th><th>AI 使用詞</th><th>萌典定義</th><th>狀態</th></tr></thead>
+      <tbody>
+        <tr><td>日本</td><td><code>ripon</code></td><td>日本，日本國</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>語言</td><td><code>sowal</code></td><td>話，話語，語言，故事</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>歷史</td><td><code>likisi</code></td><td>歷史〈日語借詞〉</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>島嶼／國家</td><td><code>kanatal</code></td><td>島嶼，土地，國家，地區</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>總統</td><td><code>congtong</code></td><td>總統</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>多元</td><td><code>kasasiromaroma</code></td><td>各式各樣，多樣化</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>亞洲</td><td><code>asiya</code></td><td>亞洲（英語 Asia 借詞）</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>港口</td><td><code>minato</code></td><td>港口，海港</td><td><span class="badge ok">正確</span></td></tr>
+        <tr><td>飲食</td><td><code>kakaenen</code></td><td>要吃，食物</td><td><span class="badge ok">勉強可用</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 意思偏差 -->
+  <div class="card">
+    <h2 class="yellow">⚠️ 字典有收錄、但意思偏差</h2>
+    <table>
+      <thead><tr><th>中文</th><th>AI 使用詞</th><th>萌典實際定義</th><th>問題</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>新加坡</td>
+          <td><code>singkapolu</code></td>
+          <td>新加坡（正確拼法：<strong>singkapol</strong>）</td>
+          <td><span class="badge warn">拼法不同</span><div class="note">請統一改為 singkapol</div></td>
+        </tr>
+        <tr>
+          <td>機場</td>
+          <td><code>hikoki</code></td>
+          <td><strong>飛機</strong></td>
+          <td><span class="badge warn">意思偏差</span><div class="note">hikoki 是飛機，機場說法待確認（papataʼan no hikoki？）</div></td>
+        </tr>
+        <tr>
+          <td>交通</td>
+          <td><code>rakat</code></td>
+          <td><strong>步行，走路</strong></td>
+          <td><span class="badge warn">意思偏差</span><div class="note">走路≠交通，請老師提供正確說法</div></td>
+        </tr>
+        <tr>
+          <td>氣候</td>
+          <td><code>hekal</code></td>
+          <td><strong>岸邊</strong></td>
+          <td><span class="badge err">完全不對</span><div class="note">hekal 是岸邊，請老師提供氣候的正確說法</div></td>
+        </tr>
+        <tr>
+          <td>文化</td>
+          <td><code>kapolongan</code></td>
+          <td><strong>公共的、公有的、團體性的</strong></td>
+          <td><span class="badge warn">意思偏差</span><div class="note">請老師確認是否可用於「文化」語境</div></td>
+        </tr>
+        <tr>
+          <td>地理</td>
+          <td><code>katatelekan</code></td>
+          <td><strong>約定、規則、條約</strong></td>
+          <td><span class="badge err">完全不對</span><div class="note">條約≠地理，請老師提供正確說法</div></td>
+        </tr>
+        <tr>
+          <td>經濟</td>
+          <td><code>pinangan</code></td>
+          <td><strong>標誌、符號、習慣、癖性</strong></td>
+          <td><span class="badge err">完全不對</span><div class="note">請老師提供「經濟」的正確說法</div></td>
+        </tr>
+        <tr>
+          <td>四小龍</td>
+          <td><code>selal</code></td>
+          <td><strong>同年、同歲、同輩份</strong></td>
+          <td><span class="badge err">完全不對</span><div class="note">建議保留中文「亞洲四小龍」或另創說法</div></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 未收錄 -->
+  <div class="card">
+    <h2 class="red">❌ 字典未收錄（AI 自行音譯）</h2>
+    <p style="font-size:0.875rem;color:#555;margin-bottom:14px">以下詞彙萌典未收錄，為 AI 自行音譯或創詞，老師可自行決定是否保留或修改。</p>
+    <table>
+      <thead><tr><th>中文</th><th>AI 使用詞</th><th>說明</th></tr></thead>
+      <tbody>
+        <tr><td>馬來西亞</td><td><code>malasiya</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
+        <tr><td>英國</td><td><code>ingko</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
+        <tr><td>政府</td><td><code>cengfo</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
+        <tr><td>教育</td><td><code>sifana</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
+        <tr><td>花園城市</td><td><code>pakohanaan</code></td><td><span class="badge missing">AI 創詞</span> 字典未收錄</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</main>
+
+<footer>
+  資料截至 2026-06-01 ／
+  <a href="index.html">翻譯進度</a> ／
+  <a href="../index.html">回首頁</a> ／
+  <a href="https://ami-wiki-review.web.app" target="_blank">校對平台</a>
+</footer>
+
+</body>
+</html>
