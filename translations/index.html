@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>翻譯進度 — 阿美語 Wikipedia 整理計畫</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif; background: #f7f7f5; color: #222; font-size: 15px; line-height: 1.75; }
+    header { background: linear-gradient(135deg, #1a472a 0%, #2d6a4f 100%); color: white; padding: 40px 24px; }
+    header a { color: rgba(255,255,255,0.7); font-size: 0.85rem; text-decoration: none; }
+    header h1 { font-size: 1.6rem; font-weight: 700; margin-top: 10px; }
+    header .meta { opacity: 0.7; font-size: 0.85rem; margin-top: 6px; }
+    main { max-width: 900px; margin: 0 auto; padding: 36px 20px 60px; }
+    .card { background: white; border-radius: 10px; border: 1px solid #e8e8e4; padding: 28px; margin-bottom: 24px; }
+    .card h2 { font-size: 1.05rem; font-weight: 700; color: #1a472a; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid #e8f0e8; }
+    .card p { font-size: 0.875rem; color: #555; margin-bottom: 12px; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+    th { background: #f0f5f1; color: #1a472a; text-align: left; padding: 9px 14px; font-weight: 600; }
+    td { padding: 9px 14px; border-bottom: 1px solid #f0f0ec; color: #444; vertical-align: middle; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafff8; }
+    a { color: #1a472a; }
+    .badge { display: inline-block; padding: 2px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; }
+    .done { background: #d4edda; color: #155724; }
+    .doing { background: #fff3cd; color: #856404; }
+    .todo { background: #f0f0f0; color: #666; }
+    .review-btn {
+      display: inline-block; background: #1a472a; color: white;
+      padding: 4px 12px; border-radius: 4px; font-size: 0.8rem;
+      text-decoration: none;
+    }
+    .review-btn:hover { background: #2d6a4f; color: white; }
+    .workflow {
+      display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+      font-size: 0.85rem; margin-bottom: 20px;
+    }
+    .step {
+      background: white; border: 1px solid #e8e8e4; border-radius: 6px;
+      padding: 8px 14px; color: #555;
+    }
+    .step.active { background: #1a472a; color: white; border-color: #1a472a; }
+    .step.done-step { background: #d4edda; color: #155724; border-color: #a8d5b5; }
+    .arrow { color: #bbb; }
+    footer { text-align: center; padding: 28px; font-size: 0.8rem; color: #bbb; }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="../index.html">← 回首頁</a>
+  <h1>翻譯進度</h1>
+  <div class="meta">中文 Wikipedia → 族語 AI 翻譯 → 老師校對 → 發布至 ami Wikipedia</div>
+</header>
+
+<main>
+
+  <div class="card">
+    <h2>翻譯流程</h2>
+    <div class="workflow">
+      <span class="step done-step">① 選定條目</span>
+      <span class="arrow">→</span>
+      <span class="step done-step">② 抓取中文內容</span>
+      <span class="arrow">→</span>
+      <span class="step done-step">③ AI 翻譯初稿</span>
+      <span class="arrow">→</span>
+      <span class="step active">④ 老師校對</span>
+      <span class="arrow">→</span>
+      <span class="step">⑤ 發布至 ami Wikipedia</span>
+    </div>
+    <p>校對平台：<a href="https://ami-wiki-review.web.app" target="_blank">ami-wiki-review.web.app</a>（需授權 Gmail 登入）</p>
+  </div>
+
+  <div class="card">
+    <h2>進行中的翻譯</h2>
+    <table>
+      <thead>
+        <tr><th>條目</th><th>章節</th><th>狀態</th><th>操作</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <strong>Singapore（新加坡）</strong><br>
+            <small><a href="https://ami.wikipedia.org/wiki/Singapore" target="_blank">ami wiki ↗</a> ／ <a href="https://zh.wikipedia.org/wiki/新加坡" target="_blank">中文 wiki ↗</a></small>
+          </td>
+          <td>
+            前言、歷史（第一批）<br>
+            <small style="color:#888">地理、政治、經濟… 待翻</small>
+          </td>
+          <td><span class="badge doing">待校對</span></td>
+          <td><a href="https://ami-wiki-review.web.app" target="_blank" class="review-btn">進入校對 →</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>翻譯規範</h2>
+    <table>
+      <thead><tr><th>項目</th><th>規則</th></tr></thead>
+      <tbody>
+        <tr><td>方言</td><td>阿美_海岸（Pasawalian 'Amis）</td></tr>
+        <tr><td>專有名詞</td><td>優先查<a href="https://new-amis.moedict.tw/" target="_blank">阿美語萌典</a>，無詞條則音譯</td></tr>
+        <tr><td>數字</td><td>保留阿拉伯數字</td></tr>
+        <tr><td>中文字</td><td>翻譯後不混入中文字（括號補充說明除外）</td></tr>
+        <tr><td>校對流程</td><td>AI 初稿 → 族語老師校對 → 確認後才發布</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>待翻清單（建議順序）</h2>
+    <table>
+      <thead><tr><th>條目</th><th>理由</th><th>狀態</th></tr></thead>
+      <tbody>
+        <tr><td><a href="https://ami.wikipedia.org/wiki/Singapore" target="_blank">Singapore（新加坡）</a></td><td>現有內容最少，測試用</td><td><span class="badge doing">進行中</span></td></tr>
+        <tr><td><a href="https://ami.wikipedia.org/wiki/Taywan" target="_blank">Taywan（臺灣）</a></td><td>最重要的條目</td><td><span class="badge todo">待開始</span></td></tr>
+        <tr><td><a href="https://ami.wikipedia.org/wiki/O_Pangcah" target="_blank">O Pangcah（阿美族）</a></td><td>核心文化條目</td><td><span class="badge todo">待開始</span></td></tr>
+        <tr><td><a href="https://ami.wikipedia.org/wiki/Ilisin" target="_blank">Ilisin（豐年祭）</a></td><td>有一定內容但可補充</td><td><span class="badge todo">待開始</span></td></tr>
+        <tr><td><a href="https://ami.wikipedia.org/wiki/Fata%27an" target="_blank">Fata'an（馬太鞍）</a></td><td>重要部落，文化特色豐富</td><td><span class="badge todo">待開始</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</main>
+
+<footer>資料截至 2026-06-01 ／ <a href="../index.html">回首頁</a></footer>
+</body>
+</html>
