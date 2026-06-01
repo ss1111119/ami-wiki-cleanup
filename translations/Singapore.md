@@ -77,11 +77,43 @@ katomirengan no kitakit a romi'ad（國家紀念日）：Pihiratengan no kitakit
 
 ---
 
-## 待翻譯（第二批）
+---
 
-- [ ] 地理（島嶼、氣候）
-- [ ] 政治（政府體制）
-- [ ] 經濟（金融、貿易）
-- [ ] 交通（樟宜機場、港口）
+## 第二批：地理 + 政治 + 經濟
+
+### 2-1 地理（Katatelekan）
+
+**原文（中文）**
+> 新加坡共有大小島嶼63個，主島新加坡島的面積佔90%以上。北部有新柔長堤，西部有第二通道，連接馬來西亞。地理最高點為武吉知馬。新加坡很多國土都是填海產生。新加坡地處熱帶，長年氣候炎熱潮濕，年平均溫度在24至34攝氏度之間。境內共有300多座公園及4個自然保護區，有「花園城市」之稱。
+
+**AI 翻譯（阿美語，待校對）**
+> tolo poloʼ ira ko tolo poloʼ ko polong no tataʼakay a kanatal no sinkapol, o kakahad no kanatal no singkapol i, maedeng tosa poloʼ ira to ko lima poloʼ. i kaʼamis ira ko singkociw, i pasaetip ira ko sakatosa a lalan, malacecay to malasiya. o satakaraway a lalan i, o okitema, adihayay ko masadakay no riyar a sotaʼ. i tini i sinkapol i faedetay a pala, halafinay ko romiʼad faedetay ko hekal, malacecacay ko faedet no romiʼamiʼad tangasa i pifotingan. i lalomaʼ no kitakit i, tolo soʼot ira ko tolo a soʼot a soʼelinay a kongyen, ira ko sepat a pala a misimaw to padadengay a padadengayan, ira ko cecay a ngangan, o hanahanaan a niyaroʼ hananay.
+
+---
+
+### 2-2 政治（Mikowan）
+
+**原文（中文）**
+> 新加坡實行議會制政府，為代議民主制。總統由直接民選產生，為國家元首，任期六年。國會議員選舉產生，任期五年，總理為政府首腦，由國會多數黨產生。自建國後，人民行動黨一直是唯一的執政黨。新加坡工人黨是國會中的最大在野黨。
+
+**AI 翻譯（阿美語，待校對）**
+> misatapang ko singkapol a mikayki to ceng fo, patodong to demak no tamdamdaw. o sowal no singkapol i, tangsol sa a mapiliʼ ko cong tong, o malatomokay no kitakit, enem a mihecaan ko romiʼad. masadak ko singkapot no kokay, lima a miheca ko romiad, o fongoh no ceng fo ko cong ko cong ko cang cang, masadak ko cong cong ko cong cong, nano patireng to ko ko ko cong cong i, deng o cecay to ko mikowanay a kingkapol. o sakakaay no kokay a yan cong ko cong.
+
+---
+
+### 2-3 經濟（Pinangan）
+
+**原文（中文）**
+> 新加坡擁有高度發達的市場經濟，得益於優越的地理位置、先進的基礎設施和廉潔高效的政府。新加坡是全球重要的金融、貿易及物流中心，也是全球三大石油煉化中心之一。電子產業是製造業支柱，新加坡是全球半導體製造重鎮。自獨立以來，新加坡被譽為「亞洲四小龍」之一，擁有高人均收入和完善的社會保障。
+
+**AI 翻譯（阿美語，待校對）**
+> adihay ko macakatay a ʼorip no pasafaco no singkapol, o tadafangcalay a pala, o kafanaʼan no misangaʼan a misangaʼ ato maʼoripay a ceng fo. o tadamaanay a pifacoan, patiyamay ato maamaan ko singkapol i polong no hekal, o cecay no tolo tataʼakay a pifacaʼan a pifalican a ceng fo i polong nonini a hekal. o satoko no misangaay ko misangaʼay, o pangkiw no misangaan a niyaroʼ no polong no kitakit ko singkapolo. nano nika tomireng to, o cecacecay no "Aciyo a selal" hananay ko singkapolong, ira ko ʼaca no tamdaw ato fangcalay a misimaw to sakaʼorip no niyaroʼ.
+
+---
+
+## 待翻譯（第三批）
+
+- [ ] 交通（樟宜機場、港口、地鐵）
 - [ ] 文化（多元種族、語言）
 - [ ] 飲食（海南雞飯、肉骨茶）
+- [ ] 教育
