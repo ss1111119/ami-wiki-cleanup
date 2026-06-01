@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wikidata 連結指南 — 阿美語 Wikipedia 整理計畫</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif; background: #f7f7f5; color: #222; font-size: 15px; line-height: 1.75; }
+    header { background: linear-gradient(135deg, #1a472a 0%, #2d6a4f 100%); color: white; padding: 40px 24px; }
+    header a { color: rgba(255,255,255,0.7); font-size: 0.85rem; text-decoration: none; }
+    header h1 { font-size: 1.6rem; font-weight: 700; margin-top: 10px; }
+    header .meta { opacity: 0.7; font-size: 0.85rem; margin-top: 6px; }
+    main { max-width: 960px; margin: 0 auto; padding: 36px 20px 60px; }
+    .card { background: white; border-radius: 10px; border: 1px solid #e8e8e4; padding: 28px; margin-bottom: 24px; }
+    .card h2 { font-size: 1.05rem; font-weight: 700; color: #1a472a; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid #e8f0e8; }
+    .card h3 { font-size: 0.95rem; font-weight: 700; color: #2d6a4f; margin: 20px 0 10px; }
+    .card p { font-size: 0.875rem; color: #555; margin-bottom: 10px; }
+    .steps { list-style: none; padding: 0; }
+    .steps li { display: flex; gap: 14px; align-items: flex-start; margin-bottom: 16px; font-size: 0.9rem; color: #444; }
+    .step-num { background: #1a472a; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; font-weight: 700; flex-shrink: 0; margin-top: 2px; }
+    .step-body { flex: 1; }
+    .step-body strong { display: block; margin-bottom: 4px; }
+    code { background: #f0f0ec; padding: 2px 7px; border-radius: 3px; font-family: monospace; font-size: 0.85rem; }
+    .tip { background: #e8f5e9; border-left: 4px solid #1a472a; border-radius: 0 8px 8px 0; padding: 12px 16px; font-size: 0.85rem; color: #2d5a3d; margin: 14px 0; }
+    .warn { background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 0 8px 8px 0; padding: 12px 16px; font-size: 0.85rem; color: #856404; margin: 14px 0; }
+
+    /* filter tabs */
+    .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+    .tab { padding: 6px 16px; border-radius: 20px; border: 1px solid #c8ddc8; background: white; color: #1a472a; font-size: 0.82rem; cursor: pointer; transition: all 0.15s; }
+    .tab.active, .tab:hover { background: #1a472a; color: white; border-color: #1a472a; }
+
+    /* table */
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    th { background: #f0f5f1; color: #1a472a; text-align: left; padding: 9px 12px; font-weight: 600; white-space: nowrap; }
+    td { padding: 8px 12px; border-bottom: 1px solid #f0f0ec; vertical-align: middle; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafff8; }
+    .ami-link { color: #1a472a; text-decoration: none; font-weight: 600; }
+    .ami-link:hover { text-decoration: underline; }
+    .zh-link { color: #c0392b; text-decoration: none; font-size: 0.82rem; }
+    .zh-link:hover { text-decoration: underline; }
+    .status-done { display: inline-block; background: #d4edda; color: #155724; border-radius: 20px; padding: 1px 9px; font-size: 0.75rem; }
+    .status-todo { display: inline-block; background: #f0f0f0; color: #666; border-radius: 20px; padding: 1px 9px; font-size: 0.75rem; }
+    .section-header { background: #1a472a; color: white; padding: 6px 12px; font-weight: 700; font-size: 0.82rem; }
+
+    footer { text-align: center; padding: 28px; font-size: 0.8rem; color: #bbb; }
+    a { color: #1a472a; }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="../index.html">← 回首頁</a>
+  <h1>Wikidata 連結指南</h1>
+  <div class="meta">將阿美語條目與中文／英文 Wikipedia 連結，讓讀者可以切換語言</div>
+</header>
+
+<main>
+
+  <!-- 操作說明 -->
+  <div class="card">
+    <h2>操作步驟</h2>
+    <ol class="steps">
+      <li>
+        <span class="step-num">1</span>
+        <div class="step-body">
+          <strong>開啟中文 Wikipedia 對應頁面</strong>
+          使用下方表格中的「中文維基」連結，開啟中文版條目。
+        </div>
+      </li>
+      <li>
+        <span class="step-num">2</span>
+        <div class="step-body">
+          <strong>點擊左側「編輯連結」</strong>
+          在左側語言欄最下方找到「編輯連結」（或 "Edit links"），點擊進入 Wikidata。
+        </div>
+      </li>
+      <li>
+        <span class="step-num">3</span>
+        <div class="step-body">
+          <strong>新增阿美語連結</strong>
+          在 Wikidata 頁面點「新增連結」，語言選 <code>ami</code>，條目名稱填入阿美語 Wikipedia 的條目名（使用下方表格「阿美語條目」欄）。
+        </div>
+      </li>
+      <li>
+        <span class="step-num">4</span>
+        <div class="step-body">
+          <strong>儲存</strong>
+          確認後儲存。幾分鐘內阿美語 Wikipedia 該條目的語言欄就會出現其他語言連結。
+        </div>
+      </li>
+    </ol>
+    <div class="tip">完成一次連結後，兩邊都會自動出現彼此的語言切換按鈕，不需要分別在兩邊操作。</div>
+    <div class="warn">注意：如果阿美語條目已經在 Wikidata 上有資料項目，直接在 Wikidata 上的該項目新增 ami sitelink 即可，不需要從中文端新增。</div>
+  </div>
+
+  <!-- 國家條目 -->
+  <div class="card">
+    <h2>國家條目（~180 條）</h2>
+    <p>這類條目數量最多，且對應關係明確，建議優先處理。</p>
+
+    <h3>亞洲</h3>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>阿美語條目</th><th>中文維基</th><th>Wikidata</th></tr></thead>
+      <tbody>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Afghanistan" target="_blank">Afghanistan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/阿富汗" target="_blank">阿富汗</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Armenia" target="_blank">Armenia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/亞美尼亞" target="_blank">亞美尼亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Azerbaijan" target="_blank">Azerbaijan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/亞塞拜然" target="_blank">亞塞拜然</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bahrain" target="_blank">Bahrain</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴林" target="_blank">巴林</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bangladesh" target="_blank">Bangladesh</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/孟加拉國" target="_blank">孟加拉國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bhutan" target="_blank">Bhutan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/不丹" target="_blank">不丹</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Brunei" target="_blank">Brunei</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/汶萊" target="_blank">汶萊</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Burma" target="_blank">Burma</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/緬甸" target="_blank">緬甸</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Cambodia" target="_blank">Cambodia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/柬埔寨" target="_blank">柬埔寨</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/China" target="_blank">China</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/中國" target="_blank">中國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Cyprus" target="_blank">Cyprus</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/賽普勒斯" target="_blank">賽普勒斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Georgia" target="_blank">Georgia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/喬治亞" target="_blank">喬治亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Hong_Kong" target="_blank">Hong Kong</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/香港" target="_blank">香港</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/India" target="_blank">India</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/印度" target="_blank">印度</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Indonesia" target="_blank">Indonesia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/印度尼西亞" target="_blank">印度尼西亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Iran" target="_blank">Iran</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/伊朗" target="_blank">伊朗</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Iraq" target="_blank">Iraq</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/伊拉克" target="_blank">伊拉克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Israel" target="_blank">Israel</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/以色列" target="_blank">以色列</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Japan" target="_blank">Japan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/日本" target="_blank">日本</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Jordan" target="_blank">Jordan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/約旦" target="_blank">約旦</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Kazakhstan" target="_blank">Kazakhstan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/哈薩克" target="_blank">哈薩克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Korea,_north" target="_blank">Korea, north</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/朝鮮" target="_blank">朝鮮</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Korea,_south" target="_blank">Korea, south</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/韓國" target="_blank">韓國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Kuwait" target="_blank">Kuwait</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/科威特" target="_blank">科威特</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Laos" target="_blank">Laos</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/寮國" target="_blank">寮國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Lebanon" target="_blank">Lebanon</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/黎巴嫩" target="_blank">黎巴嫩</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Macau" target="_blank">Macau</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/澳門" target="_blank">澳門</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Malaysia" target="_blank">Malaysia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/馬來西亞" target="_blank">馬來西亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Maldives" target="_blank">Maldives</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/馬爾地夫" target="_blank">馬爾地夫</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Mongolia" target="_blank">Mongolia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/蒙古國" target="_blank">蒙古國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Nepal" target="_blank">Nepal</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/尼泊爾" target="_blank">尼泊爾</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Oman" target="_blank">Oman</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/阿曼" target="_blank">阿曼</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Pakistan" target="_blank">Pakistan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴基斯坦" target="_blank">巴基斯坦</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Philippines" target="_blank">Philippines</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/菲律賓" target="_blank">菲律賓</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Qatar" target="_blank">Qatar</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/卡達" target="_blank">卡達</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Saudi_arabia" target="_blank">Saudi Arabia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/沙烏地阿拉伯" target="_blank">沙烏地阿拉伯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Singapore" target="_blank">Singapore</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/新加坡" target="_blank">新加坡</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Sri_Lanka" target="_blank">Sri Lanka</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/斯里蘭卡" target="_blank">斯里蘭卡</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Syria" target="_blank">Syria</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/敘利亞" target="_blank">敘利亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Tajikistan" target="_blank">Tajikistan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/塔吉克" target="_blank">塔吉克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Thailand" target="_blank">Thailand</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/泰國" target="_blank">泰國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Timor-leste" target="_blank">Timor-Leste</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/東帝汶" target="_blank">東帝汶</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Turkey" target="_blank">Turkey</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/土耳其" target="_blank">土耳其</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Turkmenistan" target="_blank">Turkmenistan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/土庫曼" target="_blank">土庫曼</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/United_arab_emirates" target="_blank">United Arab Emirates</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/阿聯酋" target="_blank">阿聯酋</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Uzbekistan" target="_blank">Uzbekistan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/烏茲別克" target="_blank">烏茲別克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Vietnam" target="_blank">Vietnam</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/越南" target="_blank">越南</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Yemen" target="_blank">Yemen</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/葉門" target="_blank">葉門</a></td><td><span class="status-todo">待連結</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h3>歐洲</h3>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>阿美語條目</th><th>中文維基</th><th>Wikidata</th></tr></thead>
+      <tbody>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Albania" target="_blank">Albania</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/阿爾巴尼亞" target="_blank">阿爾巴尼亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Andorra" target="_blank">Andorra</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/安道爾" target="_blank">安道爾</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Austria" target="_blank">Austria</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/奧地利" target="_blank">奧地利</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Belarus" target="_blank">Belarus</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/白俄羅斯" target="_blank">白俄羅斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Belguim" target="_blank">Belgium</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/比利時" target="_blank">比利時</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bosnia_and_herzegovina" target="_blank">Bosnia and Herzegovina</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/波士尼亞與赫塞哥維納" target="_blank">波士尼亞與赫塞哥維納</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bulgaria" target="_blank">Bulgaria</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/保加利亞" target="_blank">保加利亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Croatia" target="_blank">Croatia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/克羅埃西亞" target="_blank">克羅埃西亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Czechia" target="_blank">Czechia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/捷克" target="_blank">捷克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Denmark" target="_blank">Denmark</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/丹麥" target="_blank">丹麥</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Estonia" target="_blank">Estonia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/愛沙尼亞" target="_blank">愛沙尼亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Finland" target="_blank">Finland</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/芬蘭" target="_blank">芬蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/France" target="_blank">France</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/法國" target="_blank">法國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Germany" target="_blank">Germany</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/德國" target="_blank">德國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Greece" target="_blank">Greece</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/希臘" target="_blank">希臘</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Hungary" target="_blank">Hungary</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/匈牙利" target="_blank">匈牙利</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Iceland" target="_blank">Iceland</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/冰島" target="_blank">冰島</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Ireland" target="_blank">Ireland</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/愛爾蘭" target="_blank">愛爾蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Italy" target="_blank">Italy</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/義大利" target="_blank">義大利</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Kosovo" target="_blank">Kosovo</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/科索沃" target="_blank">科索沃</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Latvia" target="_blank">Latvia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/拉脫維亞" target="_blank">拉脫維亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Liechtenstein" target="_blank">Liechtenstein</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/列支敦斯登" target="_blank">列支敦斯登</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Lithuania" target="_blank">Lithuania</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/立陶宛" target="_blank">立陶宛</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Luxembourg" target="_blank">Luxembourg</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/盧森堡" target="_blank">盧森堡</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Macedonia" target="_blank">Macedonia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/北馬其頓" target="_blank">北馬其頓</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Malta" target="_blank">Malta</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/馬爾他" target="_blank">馬爾他</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Moldova" target="_blank">Moldova</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/摩爾多瓦" target="_blank">摩爾多瓦</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Monaco" target="_blank">Monaco</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/摩納哥" target="_blank">摩納哥</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Montenegro" target="_blank">Montenegro</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/蒙特內哥羅" target="_blank">蒙特內哥羅</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Netherlands" target="_blank">Netherlands</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/荷蘭" target="_blank">荷蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Norway" target="_blank">Norway</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/挪威" target="_blank">挪威</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Poland" target="_blank">Poland</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/波蘭" target="_blank">波蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Portugal" target="_blank">Portugal</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/葡萄牙" target="_blank">葡萄牙</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Romania" target="_blank">Romania</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/羅馬尼亞" target="_blank">羅馬尼亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Russia" target="_blank">Russia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/俄羅斯" target="_blank">俄羅斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/San_marino" target="_blank">San Marino</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/聖馬利諾" target="_blank">聖馬利諾</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Serbia" target="_blank">Serbia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/塞爾維亞" target="_blank">塞爾維亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Slovakia" target="_blank">Slovakia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/斯洛伐克" target="_blank">斯洛伐克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Slovenia" target="_blank">Slovenia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/斯洛維尼亞" target="_blank">斯洛維尼亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Spain" target="_blank">Spain</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/西班牙" target="_blank">西班牙</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Sweden" target="_blank">Sweden</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/瑞典" target="_blank">瑞典</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Switzerland" target="_blank">Switzerland</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/瑞士" target="_blank">瑞士</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Ukraine" target="_blank">Ukraine</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/烏克蘭" target="_blank">烏克蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/United_Kingdom" target="_blank">United Kingdom</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/英國" target="_blank">英國</a></td><td><span class="status-todo">待連結</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h3>美洲</h3>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>阿美語條目</th><th>中文維基</th><th>Wikidata</th></tr></thead>
+      <tbody>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Antika_ato_Paputa" target="_blank">Antigua and Barbuda</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/安地卡及巴布達" target="_blank">安地卡及巴布達</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Argentina" target="_blank">Argentina</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/阿根廷" target="_blank">阿根廷</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bahamas" target="_blank">Bahamas</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴哈馬" target="_blank">巴哈馬</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Barbados" target="_blank">Barbados</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴貝多" target="_blank">巴貝多</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Belize" target="_blank">Belize</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/貝里斯" target="_blank">貝里斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bolivia" target="_blank">Bolivia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/玻利維亞" target="_blank">玻利維亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Brazil" target="_blank">Brazil</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴西" target="_blank">巴西</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Canada" target="_blank">Canada</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/加拿大" target="_blank">加拿大</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Chile" target="_blank">Chile</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/智利" target="_blank">智利</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Colombia" target="_blank">Colombia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/哥倫比亞" target="_blank">哥倫比亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Costa_Rica" target="_blank">Costa Rica</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/哥斯大黎加" target="_blank">哥斯大黎加</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Cuba" target="_blank">Cuba</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/古巴" target="_blank">古巴</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Dominican_republic" target="_blank">Dominican Republic</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/多明尼加共和國" target="_blank">多明尼加共和國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Ecuador" target="_blank">Ecuador</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/厄瓜多" target="_blank">厄瓜多</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/El_Salvador" target="_blank">El Salvador</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/薩爾瓦多" target="_blank">薩爾瓦多</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Guatemala" target="_blank">Guatemala</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/瓜地馬拉" target="_blank">瓜地馬拉</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Guyana" target="_blank">Guyana</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/蓋亞那" target="_blank">蓋亞那</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Haiti" target="_blank">Haiti</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/海地" target="_blank">海地</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Honduras" target="_blank">Honduras</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/宏都拉斯" target="_blank">宏都拉斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Jamaica" target="_blank">Jamaica</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/牙買加" target="_blank">牙買加</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Mexico" target="_blank">Mexico</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/墨西哥" target="_blank">墨西哥</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Nicaragua" target="_blank">Nicaragua</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/尼加拉瓜" target="_blank">尼加拉瓜</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Panama" target="_blank">Panama</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴拿馬" target="_blank">巴拿馬</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Paraguay" target="_blank">Paraguay</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴拉圭" target="_blank">巴拉圭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Peru" target="_blank">Peru</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/秘魯" target="_blank">秘魯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Suriname" target="_blank">Suriname</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/蘇利南" target="_blank">蘇利南</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/United_states" target="_blank">United States</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/美國" target="_blank">美國</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Uruguay" target="_blank">Uruguay</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/烏拉圭" target="_blank">烏拉圭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Venezuela" target="_blank">Venezuela</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/委內瑞拉" target="_blank">委內瑞拉</a></td><td><span class="status-todo">待連結</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h3>非洲（節錄，共約 52 條）</h3>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>阿美語條目</th><th>中文維基</th><th>Wikidata</th></tr></thead>
+      <tbody>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Algeria" target="_blank">Algeria</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/阿爾及利亞" target="_blank">阿爾及利亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Angola" target="_blank">Angola</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/安哥拉" target="_blank">安哥拉</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Egypt" target="_blank">Egypt</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/埃及" target="_blank">埃及</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Ethiopia" target="_blank">Ethiopia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/衣索比亞" target="_blank">衣索比亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Kenya" target="_blank">Kenya</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/肯亞" target="_blank">肯亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Nigeria" target="_blank">Nigeria</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/奈及利亞" target="_blank">奈及利亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/South_africa" target="_blank">South Africa</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/南非" target="_blank">南非</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Zimbabwe" target="_blank">Zimbabwe</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/辛巴威" target="_blank">辛巴威</a></td><td><span class="status-todo">待連結</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h3>大洋洲</h3>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>阿美語條目</th><th>中文維基</th><th>Wikidata</th></tr></thead>
+      <tbody>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Australia" target="_blank">Australia</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/澳大利亞" target="_blank">澳大利亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Fiji" target="_blank">Fiji</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/斐濟" target="_blank">斐濟</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Kiribati" target="_blank">Kiribati</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/吉里巴斯" target="_blank">吉里巴斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Marshall_Islands" target="_blank">Marshall Islands</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/馬紹爾群島" target="_blank">馬紹爾群島</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Nauru" target="_blank">Nauru</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/諾魯" target="_blank">諾魯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/New_Zealand" target="_blank">New Zealand</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/紐西蘭" target="_blank">紐西蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Palau" target="_blank">Palau</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/帛琉" target="_blank">帛琉</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Papua_New_Guinea" target="_blank">Papua New Guinea</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴布亞紐幾內亞" target="_blank">巴布亞紐幾內亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Samoa" target="_blank">Samoa</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/薩摩亞" target="_blank">薩摩亞</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Solomon_Islands" target="_blank">Solomon Islands</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/所羅門群島" target="_blank">所羅門群島</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Tonga" target="_blank">Tonga</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/東加" target="_blank">東加</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Tuvalu" target="_blank">Tuvalu</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/吐瓦魯" target="_blank">吐瓦魯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Vanuatu" target="_blank">Vanuatu</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/萬那杜" target="_blank">萬那杜</a></td><td><span class="status-todo">待連結</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+  <!-- 美國總統 -->
+  <div class="card">
+    <h2>美國總統（45 條）</h2>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>阿美語條目</th><th>中文維基</th><th>Wikidata</th></tr></thead>
+      <tbody>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/George_Washington" target="_blank">George Washington</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/喬治·華盛頓" target="_blank">喬治·華盛頓</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/John_Adams" target="_blank">John Adams</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/約翰·亞當斯" target="_blank">約翰·亞當斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Thomas_Jefferson" target="_blank">Thomas Jefferson</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/湯瑪斯·傑佛遜" target="_blank">湯瑪斯·傑佛遜</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/James_Madison" target="_blank">James Madison</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/詹姆斯·麥迪遜" target="_blank">詹姆斯·麥迪遜</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/James_Monroe" target="_blank">James Monroe</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/詹姆斯·門羅" target="_blank">詹姆斯·門羅</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/John_Quincy_Adams" target="_blank">John Quincy Adams</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/約翰·昆西·亞當斯" target="_blank">約翰·昆西·亞當斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Andrew_Jackson" target="_blank">Andrew Jackson</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/安德魯·傑克遜" target="_blank">安德魯·傑克遜</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Martin_Van_Buren" target="_blank">Martin Van Buren</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/馬丁·范布倫" target="_blank">馬丁·范布倫</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/William_Henry_Harrison" target="_blank">William Henry Harrison</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/威廉·亨利·哈里森" target="_blank">威廉·亨利·哈里森</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/John_Tyler" target="_blank">John Tyler</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/約翰·泰勒" target="_blank">約翰·泰勒</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/James_K._Polk" target="_blank">James K. Polk</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/詹姆斯·波克" target="_blank">詹姆斯·波克</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Zachary_Taylor" target="_blank">Zachary Taylor</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/扎卡里·泰勒" target="_blank">扎卡里·泰勒</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Millard_Filmore" target="_blank">Millard Fillmore</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/米勒德·菲爾莫爾" target="_blank">米勒德·菲爾莫爾</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Franklin_Pierce" target="_blank">Franklin Pierce</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/富蘭克林·皮爾斯" target="_blank">富蘭克林·皮爾斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/James_Buchanan" target="_blank">James Buchanan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/詹姆斯·布坎南" target="_blank">詹姆斯·布坎南</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Abraham_Lincoln" target="_blank">Abraham Lincoln</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/亞伯拉罕·林肯" target="_blank">亞伯拉罕·林肯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Andrew_Johnson" target="_blank">Andrew Johnson</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/安德魯·強森" target="_blank">安德魯·強森</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Ulysses_S._Grant" target="_blank">Ulysses S. Grant</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/尤利西斯·格蘭特" target="_blank">尤利西斯·格蘭特</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Rutherford_B._Hayes" target="_blank">Rutherford B. Hayes</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/拉瑟福德·海斯" target="_blank">拉瑟福德·海斯</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/James_A._Garfield" target="_blank">James A. Garfield</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/詹姆斯·加菲爾德" target="_blank">詹姆斯·加菲爾德</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Chester_A._Arthur" target="_blank">Chester A. Arthur</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/切斯特·阿瑟" target="_blank">切斯特·阿瑟</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Grover_Cleveland" target="_blank">Grover Cleveland</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/格羅弗·克利夫蘭" target="_blank">格羅弗·克利夫蘭</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Benjamin_Harrison" target="_blank">Benjamin Harrison</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/本傑明·哈里森" target="_blank">本傑明·哈里森</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/William_McKinley" target="_blank">William McKinley</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/威廉·麥金利" target="_blank">威廉·麥金利</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Theodore_Roosevelt" target="_blank">Theodore Roosevelt</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/西奧多·羅斯福" target="_blank">西奧多·羅斯福</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/William_Howard_Taft" target="_blank">William Howard Taft</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/威廉·霍華德·塔夫脫" target="_blank">威廉·霍華德·塔夫脫</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Woodrow_Wilson" target="_blank">Woodrow Wilson</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/伍德羅·威爾遜" target="_blank">伍德羅·威爾遜</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Warren_G._Harding" target="_blank">Warren G. Harding</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/沃倫·哈丁" target="_blank">沃倫·哈丁</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Calvin_Coolidge" target="_blank">Calvin Coolidge</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/卡爾文·柯立芝" target="_blank">卡爾文·柯立芝</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Herbert_Hoover" target="_blank">Herbert Hoover</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/赫伯特·胡佛" target="_blank">赫伯特·胡佛</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Franklin_D._Roosevelt" target="_blank">Franklin D. Roosevelt</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/富蘭克林·羅斯福" target="_blank">富蘭克林·羅斯福</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Harry_S._Truman" target="_blank">Harry S. Truman</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/哈利·杜魯門" target="_blank">哈利·杜魯門</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Dwight_D._Eisenhower" target="_blank">Dwight D. Eisenhower</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/德懷特·艾森豪" target="_blank">德懷特·艾森豪</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/John_F._Kennedy" target="_blank">John F. Kennedy</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/約翰·甘迺迪" target="_blank">約翰·甘迺迪</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank">Lyndon B. Johnson</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/林登·詹森" target="_blank">林登·詹森</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Richard_Nixon" target="_blank">Richard Nixon</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/理查·尼克森" target="_blank">理查·尼克森</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Gerald_Ford" target="_blank">Gerald Ford</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/傑拉爾德·福特" target="_blank">傑拉爾德·福特</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Jimmy_Carter" target="_blank">Jimmy Carter</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/吉米·卡特" target="_blank">吉米·卡特</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Ronald_Reagan" target="_blank">Ronald Reagan</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/羅納德·雷根" target="_blank">羅納德·雷根</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/George_H._W._Bush" target="_blank">George H. W. Bush</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/喬治·赫伯特·沃克·布希" target="_blank">喬治·赫伯特·沃克·布希</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Bill_Clinton" target="_blank">Bill Clinton</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/比爾·柯林頓" target="_blank">比爾·柯林頓</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/George_W._Bush" target="_blank">George W. Bush</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/喬治·沃克·布希" target="_blank">喬治·沃克·布希</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Barack_Obama" target="_blank">Barack Obama</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/巴拉克·歐巴馬" target="_blank">巴拉克·歐巴馬</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Donald_Trump" target="_blank">Donald Trump</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/唐納·川普" target="_blank">唐納·川普</a></td><td><span class="status-todo">待連結</span></td></tr>
+        <tr><td><a class="ami-link" href="https://ami.wikipedia.org/wiki/Joe_Biden" target="_blank">Joe Biden</a></td><td><a class="zh-link" href="https://zh.wikipedia.org/wiki/喬·拜登" target="_blank">喬·拜登</a></td><td><span class="status-todo">待連結</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+</main>
+
+<script>
+  // 完成連結後可點擊狀態切換
+  document.querySelectorAll('.status-todo').forEach(el => {
+    el.style.cursor = 'pointer';
+    el.title = '點擊標記為已完成';
+    el.addEventListener('click', function() {
+      if (this.classList.contains('status-todo')) {
+        this.className = 'status-done';
+        this.textContent = '已連結 ✓';
+        this.title = '點擊取消';
+      } else {
+        this.className = 'status-todo';
+        this.textContent = '待連結';
+        this.title = '點擊標記為已完成';
+      }
+    });
+  });
+</script>
+
+<footer>資料截至 2026-05-31 ／ <a href="../index.html">回首頁</a> ／ <a href="https://github.com/ss1111119/ami-wiki-cleanup" target="_blank">GitHub</a></footer>
+</body>
+</html>
