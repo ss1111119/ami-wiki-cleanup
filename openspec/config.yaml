@@ -1,0 +1,43 @@
+schema: spec-driven
+
+context: |
+  ## 專案：阿美語 Wikipedia 整理與翻譯計畫
+
+  ### 目標
+  整理 ami.wikipedia.org（阿美語維基百科），包含：
+  1. 消除重複條目、建立分類
+  2. 將中文 Wikipedia 內容翻譯成阿美語補充條目
+  3. 建立 Wikidata 跨語言連結
+  4. 提供線上翻譯校對平台供老師審閱
+
+  ### 工具與資源
+  - 阿美語萌典：https://new-amis.moedict.tw/
+  - 族語 AI 翻譯系統（阿美_海岸方言）：https://ai-labs.ilrdf.org.tw/kari-seejiq-tnpusu-ai-hmjil/
+  - 校對平台（Firebase）：https://ami-wiki-review.web.app
+  - 整理進度網站（GitHub Pages）：https://ss1111119.github.io/ami-wiki-cleanup/
+
+  ### 技術架構
+  - 整理進度：GitHub Pages（純 HTML/CSS/JS，無框架）
+  - 校對平台：Firebase Hosting + Firestore + Google Auth
+  - 翻譯資料：存於 Firestore `translations/{articleId}/sections/{sectionId}`
+
+  ### 阿美語翻譯規範
+  - 方言：阿美_海岸（Pasawalian 'Amis）
+  - AI 翻譯為初稿，必須經族語老師校對後才能發布
+  - 專有名詞（人名、地名）優先查阿美語萌典，有詞條則使用，無則音譯
+  - 數字：保留阿拉伯數字
+  - 翻譯後的阿美語不混入中文字（除非是括號補充說明）
+
+  ### 授權帳號
+  - 管理員：ss1111119@gmail.com
+  - 校對老師：kacaw201492@gmail.com
+
+rules:
+  proposal:
+    - 每個提案只處理一個條目或一個功能，不要合併多項變更
+    - 翻譯類提案需附上：原文（中文）、AI 初稿（阿美語）、校對重點說明
+    - 技術類提案需說明影響範圍（影響哪些檔案或頁面）
+  tasks:
+    - 每個任務最多 2 小時工作量
+    - 翻譯任務以「段落」為單位，一次一段
+    - 完成後需確認：① 內容正確 ② 已推上 GitHub 或 Firestore
