@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>阿美語 Wikipedia 整理計畫</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
+      background: #f5f5f0;
+      color: #2c2c2c;
+      line-height: 1.7;
+    }
+
+    header {
+      background: #1a472a;
+      color: white;
+      padding: 48px 24px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 8px;
+    }
+
+    header p {
+      opacity: 0.8;
+      font-size: 1rem;
+    }
+
+    .subtitle {
+      font-style: italic;
+      font-size: 0.95rem;
+      margin-top: 4px;
+      opacity: 0.65;
+    }
+
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 40px 24px;
+    }
+
+    .stats {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 40px;
+      flex-wrap: wrap;
+    }
+
+    .stat-card {
+      flex: 1;
+      min-width: 160px;
+      background: white;
+      border-radius: 8px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .stat-card .number {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #1a472a;
+    }
+
+    .stat-card .label {
+      font-size: 0.85rem;
+      color: #888;
+      margin-top: 4px;
+    }
+
+    section {
+      background: white;
+      border-radius: 8px;
+      padding: 28px;
+      margin-bottom: 24px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    section h2 {
+      font-size: 1.2rem;
+      color: #1a472a;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #e8f0e8;
+    }
+
+    section p {
+      margin-bottom: 12px;
+      color: #444;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    th {
+      background: #e8f0e8;
+      text-align: left;
+      padding: 10px 12px;
+      color: #1a472a;
+    }
+
+    td {
+      padding: 9px 12px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafff8; }
+
+    .badge {
+      display: inline-block;
+      background: #e8f0e8;
+      color: #1a472a;
+      border-radius: 4px;
+      padding: 2px 8px;
+      font-size: 0.8rem;
+      margin-right: 4px;
+    }
+
+    .steps {
+      counter-reset: step;
+      list-style: none;
+      padding: 0;
+    }
+
+    .steps li {
+      counter-increment: step;
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+
+    .steps li::before {
+      content: counter(step);
+      background: #1a472a;
+      color: white;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    a {
+      color: #1a472a;
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 32px;
+      font-size: 0.85rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>阿美語 Wikipedia 整理計畫</h1>
+  <p class="subtitle">'Amis Wikipedia Cleanup Project</p>
+  <p style="margin-top:12px; font-size:0.9rem;">整理 <a href="https://ami.wikipedia.org" style="color:rgba(255,255,255,0.85)">ami.wikipedia.org</a> 的條目，讓阿美語知識更好找、更完整</p>
+</header>
+
+<main>
+
+  <div class="stats">
+    <div class="stat-card">
+      <div class="number">1,149</div>
+      <div class="label">總條目數</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">16</div>
+      <div class="label">近期活躍編輯者</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">~45</div>
+      <div class="label">待合併重複條目組</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">5</div>
+      <div class="label">待建分類大項</div>
+    </div>
+  </div>
+
+  <section>
+    <h2>整理工作進度</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>工作項目</th>
+          <th>說明</th>
+          <th>狀態</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>重複條目清單</td>
+          <td>約 45 組、60～80 條需設 redirect</td>
+          <td><span class="badge">清單完成</span></td>
+        </tr>
+        <tr>
+          <td>分類架構草稿</td>
+          <td>五大分類：國家、人物、部落、文化、臺灣</td>
+          <td><span class="badge">草稿完成</span></td>
+        </tr>
+        <tr>
+          <td>執行 redirect</td>
+          <td>依清單逐一在 wiki 上操作</td>
+          <td><span class="badge" style="background:#fff3cd;color:#856404;">進行中</span></td>
+        </tr>
+        <tr>
+          <td>建立分類頁面</td>
+          <td>在 wiki 上建立分類並套用至條目</td>
+          <td><span class="badge" style="background:#f0f0f0;color:#888;">待開始</span></td>
+        </tr>
+        <tr>
+          <td>擴充文化條目</td>
+          <td>部落、豐年祭、傳統知識等</td>
+          <td><span class="badge" style="background:#f0f0f0;color:#888;">待開始</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>重複條目（節錄）</h2>
+    <p>以下為最常見的重複類型，完整清單見 <a href="duplicates/duplicates-list.md">duplicates-list.md</a>。</p>
+    <table>
+      <thead>
+        <tr><th>保留條目</th><th>需要 redirect 的版本</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>John F. Kennedy</td><td>John F Kennedy、John Kennedy、JFK、Jfk</td></tr>
+        <tr><td>Dwight D. Eisenhower</td><td>Dwight D Eisenhower、Dwight Eisenhower</td></tr>
+        <tr><td>Congo, Democratic Republic of the</td><td>至少 7 個拼法版本</td></tr>
+        <tr><td>New Zealand</td><td>New zealand</td></tr>
+        <tr><td>Fata'an</td><td>Fata' an</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>分類架構（草稿）</h2>
+    <p>完整說明見 <a href="categories/categories-draft.md">categories-draft.md</a>。</p>
+    <table>
+      <thead>
+        <tr><th>阿美語分類名</th><th>中文說明</th><th>估計條目數</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Fonga</td><td>國家</td><td>~180</td></tr>
+        <tr><td>Tamdaw</td><td>人物</td><td>~150</td></tr>
+        <tr><td>Niyaro' no Pangcah</td><td>阿美族部落</td><td>~100</td></tr>
+        <tr><td>Kawakawasan ratoh</td><td>傳統故事</td><td>~30</td></tr>
+        <tr><td>Kimad no 'Amis</td><td>阿美語詞彙</td><td>~150</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>如何參與</h2>
+    <ol class="steps">
+      <li>前往 <a href="https://ami.wikipedia.org">ami.wikipedia.org</a> 註冊帳號</li>
+      <li>對照<a href="duplicates/duplicates-list.md">重複條目清單</a>，將多餘條目設為 redirect</li>
+      <li>依<a href="categories/categories-draft.md">分類架構草稿</a>，為條目加上分類標籤</li>
+      <li>有任何建議歡迎到 <a href="https://github.com/ss1111119/ami-wiki-cleanup">GitHub</a> 上討論</li>
+    </ol>
+  </section>
+
+</main>
+
+<footer>
+  <p>資料截至 2026-05-31 ／ <a href="https://github.com/ss1111119/ami-wiki-cleanup">GitHub</a></p>
+</footer>
+
+</body>
+</html>
