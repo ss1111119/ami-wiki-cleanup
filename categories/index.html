@@ -574,5 +574,17 @@
 
 <footer>資料截至 2026-05-31 ／ <a href="../index.html">回首頁</a> ／ <a href="https://github.com/ss1111119/ami-wiki-cleanup" target="_blank">GitHub</a></footer>
 
+<script>
+  // 自動將所有 .tag 條目轉為 ami.wikipedia.org 連結
+  document.querySelectorAll('.tag').forEach(tag => {
+    if (tag.querySelector('a')) return;
+    const text = tag.textContent.trim();
+    // 移除中文字（括號內說明），取得 wiki 條目名稱
+    const wikiName = text.replace(/[一-鿿＀-￯（）()【】]+/g, '').trim();
+    if (!wikiName) return;
+    const url = 'https://ami.wikipedia.org/wiki/' + wikiName.replace(/ +/g, '_');
+    tag.innerHTML = '<a href="' + encodeURI(url) + '" target="_blank" rel="noopener">' + tag.innerHTML + '</a>';
+  });
+</script>
 </body>
 </html>

@@ -239,5 +239,18 @@
 
 <footer>資料截至 2026-05-31 ／ <a href="../index.html">回首頁</a></footer>
 
+<script>
+  // 將表格中的條目名稱自動加上 wiki 連結
+  document.querySelectorAll('td.keep, td:not(.warn)').forEach(td => {
+    if (td.querySelector('a') || td.querySelector('span.warn')) return;
+    const text = td.textContent.trim();
+    // 跳過純說明文字（含中文或括號的長文字）
+    if (!text || text.length > 60 || /^（/.test(text)) return;
+    const wikiName = text.replace(/[一-鿿（）()【】]+/g, '').trim();
+    if (!wikiName) return;
+    const url = 'https://ami.wikipedia.org/wiki/' + wikiName.replace(/ +/g, '_');
+    td.innerHTML = '<a href="' + encodeURI(url) + '" target="_blank" rel="noopener">' + td.innerHTML + '</a>';
+  });
+</script>
 </body>
 </html>
