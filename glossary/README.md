@@ -1,0 +1,48 @@
+# 阿美語詞庫體系（glossary/）
+
+讓詞彙資料只有**一個真實來源**，避免「同一個詞在多處手動同步」。
+
+## 檔案
+
+| 檔案 | 角色 | 可否手改 |
+|------|------|----------|
+| `terms.json` | **唯一真實來源**：中文→阿美語＋變體＋來源＋狀態＋例句＋備註 | ✅ 改這裡 |
+| `glossary.md` | 由 `terms.json` 自動生成的人類可讀詞表 | ❌ 自動生成 |
+| `corpus/` | 平行語料（阿美＋中文新聞），供 grep 真實用法 | ✅ 新增語料檔 |
+
+## 工作流程
+
+1. 查到/修正一個詞 → 改 `terms.json`
+2. 跑生成器：
+   ```
+   cd review-app
+   node build-vocab.mjs            # 生成 glossary.md 並推送校對平台(Firestore)
+   node build-vocab.mjs --no-push  # 只生成 glossary.md，不碰 Firestore
+   ```
+3. 校對平台與 `glossary.md` 同步更新，不必再分別改 `import-vocab.mjs` / HTML。
+
+## terms.json 欄位
+
+| 欄位 | 說明 |
+|------|------|
+| `zh` | 中文詞 |
+| `ami` | 主要阿美語詞（海岸方言為主） |
+| `ami_xiuguluan` | 秀姑巒若不同才填，否則沿用 `ami` |
+| `gloss` / `gloss_xiuguluan` | 萌典／語料定義 |
+| `variants` | 拼法變體或同義詞 |
+| `source` | 來源（moedict / corpus / 辭典名） |
+| `status` | `ok` 正確 / `warn` 偏差待確認 / `err` 不對 / `missing` 未收錄 |
+| `examples` | `[{ami, zh}]` 例句（語料佐證） |
+| `note` | 校對備註 |
+| `articles` | 用於哪些條目（如 `["Singapore"]`）；空陣列＝通用詞庫，不進特定條目的 vocab |
+
+## 語料 corpus/
+
+存放阿美語平行新聞等真實文本。比對某中文詞的真實說法時，直接搜尋：
+
+```
+# 例：找「文化」「政府」在語料怎麼說
+grep -n "文化\|政府" glossary/corpus/*.md
+```
+
+> 數字／日期書寫慣例見 [`../translations/翻譯規範.md`](../translations/翻譯規範.md)。

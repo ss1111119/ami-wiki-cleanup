@@ -1,0 +1,28 @@
+{
+  "_comment": "阿美語中央詞庫（唯一真實來源）。改這裡後跑 review-app/build-vocab.mjs 生成校對平台 vocab 與 glossary.md。status: ok=正確 / warn=偏差待確認 / err=不對 / missing=未收錄。ami_xiuguluan、gloss_xiuguluan 只有在兩方言不同時才填。",
+  "terms": [
+    { "zh": "新加坡", "ami": "singkapolu", "ami_xiuguluan": "singkapol", "gloss": "→ 應為 singkapol", "gloss_xiuguluan": "新加坡", "variants": ["singkapol", "sinkapol"], "source": "moedict", "status": "warn", "note": "請統一用 singkapol", "articles": ["Singapore"] },
+    { "zh": "日本", "ami": "ripon", "gloss": "日本，日本國", "variants": [], "source": "moedict", "status": "ok", "note": "", "articles": ["Singapore"] },
+    { "zh": "語言", "ami": "sowal", "gloss": "話，話語，語言", "variants": [], "source": "moedict", "status": "ok", "note": "", "articles": ["Singapore"] },
+    { "zh": "歷史", "ami": "likisi", "gloss": "歷史（日語借詞）", "variants": [], "source": "moedict", "status": "ok", "note": "", "examples": [{ "ami": "mahapinangay i likisi ko tadamaanay a niyatayal naira", "zh": "他們在歷史上有許多貢獻" }, { "ami": "toya pidefong a likisi", "zh": "過去的殖民歷史" }], "articles": ["Singapore"] },
+    { "zh": "總統", "ami": "congtong", "gloss": "總統", "variants": ["contong"], "source": "moedict", "status": "ok", "note": "新聞拼作 contong", "examples": [{ "ami": "contong no Amirika", "zh": "美國總統" }], "articles": ["Singapore"] },
+    { "zh": "港口", "ami": "minato", "gloss": "港口，海港", "variants": [], "source": "moedict", "status": "ok", "note": "", "articles": ["Singapore"] },
+    { "zh": "機場", "ami": "hikocyo", "gloss": "飛機場（日語借詞）", "variants": ["pahikokian"], "source": "moedict:吳明義", "status": "ok", "note": "原 hikoki 是飛機，已更正；同義 pahikokian", "articles": ["Singapore"] },
+    { "zh": "氣候", "ami": "hekal", "ami_xiuguluan": "romi'ad", "gloss": "岸邊 ❌", "gloss_xiuguluan": "白天、白晝", "variants": [], "source": "moedict", "status": "err", "note": "兩者皆不準，請老師提供正確說法", "articles": ["Singapore"] },
+    { "zh": "地理", "ami": "katatelekan", "ami_xiuguluan": "sakanga'ay no 'orip", "gloss": "條約、規則 ❌", "gloss_xiuguluan": "好的緣故＋生命", "variants": [], "source": "moedict", "status": "err", "note": "請老師提供正確說法", "articles": ["Singapore"] },
+    { "zh": "經濟", "ami": "kicay", "gloss": "經濟（日語借詞）", "variants": [], "source": "moedict:蔡中涵", "status": "ok", "note": "原 pinangan 是習慣/癖性，已更正", "examples": [{ "ami": "Mangatay ko kicay adihay ko katayalan", "zh": "經濟好轉時容易找到工作" }], "articles": ["Singapore"] },
+    { "zh": "交通", "ami": "rakat", "ami_xiuguluan": "sakafana' no sifo", "gloss": "步行、走路", "gloss_xiuguluan": "待確認", "variants": ["Ciaw-Tong-Po（交通部，華語借詞）"], "source": "moedict", "status": "warn", "note": "rakat 是走路≠交通；新聞「交通部」用 Ciaw-Tong-Po，待老師定 native 說法", "articles": ["Singapore"] },
+    { "zh": "文化", "ami": "serangawan", "gloss": "文化、風俗（新聞慣用）", "variants": ["punka"], "source": "corpus+moedict", "status": "ok", "note": "主用 serangawan（新聞語料與草稿皆用，native）；萌典另收 punka（日語借詞 bunka）。原 kapolongan 是公共的，已更正", "examples": [{ "ami": "i serangawan ato syakay no Amirika", "zh": "（在）美國的文化與社會" }], "articles": ["Singapore"] },
+    { "zh": "四小龍", "ami": "selal", "gloss": "同年、同輩份 ❌", "variants": [], "source": "moedict", "status": "err", "note": "建議保留中文「亞洲四小龍」或老師另創說法", "articles": ["Singapore"] },
+    { "zh": "馬來西亞", "ami": "Malaysiya", "gloss": "馬來西亞（英語借詞）", "variants": ["malasiya"], "source": "moedict:蔡中涵", "status": "ok", "note": "萌典有收錄；原音譯 malasiya 已更正", "articles": ["Singapore"] },
+    { "zh": "英國", "ami": "Ingkolis", "gloss": "英國、英語（英語借詞）", "variants": ["ingko"], "source": "moedict:蔡中涵", "status": "ok", "note": "Ingkolis 同時是英國/英語，可解決「英語」說法；原 ingko 已更正", "articles": ["Singapore"] },
+    { "zh": "政府", "ami": "syifu", "gloss": "政府", "variants": ["Si-fo", "syifo", "ceng fo"], "source": "moedict:原民會線上辭典", "status": "ok", "note": "原音譯 cengfo 已更正；新聞拼作 Si-fo/syifo（同源）", "examples": [{ "ami": "O syifo ko mikowanay to kitakit", "zh": "國家是由政府來管理" }, { "ami": "Si-fo no Amirika", "zh": "美國政府" }], "articles": ["Singapore"] },
+    { "zh": "教育", "ami": "pasifanaʼ", "gloss": "教育、教學", "variants": ["sifanaʼ"], "source": "moedict（含秀姑巒）", "status": "ok", "note": "原音譯 sifana 已更正；亦作教導、傳授", "articles": ["Singapore"] },
+
+    { "zh": "社會", "ami": "syakay", "gloss": "社會（日語借詞 shakai）", "variants": [], "source": "corpus", "status": "ok", "note": "語料佐證", "examples": [{ "ami": "serangawan ato syakay no Amirika", "zh": "美國的文化與社會" }], "articles": [] },
+    { "zh": "部落", "ami": "niyaro'", "gloss": "部落、村莊", "variants": ["niyaroʼ"], "source": "corpus", "status": "ok", "note": "語料高頻", "articles": [] },
+    { "zh": "美國", "ami": "Amirika", "gloss": "美國", "variants": ["Amilika"], "source": "corpus", "status": "ok", "note": "兩種拼法皆見於新聞", "articles": [] },
+    { "zh": "國家", "ami": "kitakit", "gloss": "國家", "variants": [], "source": "corpus", "status": "ok", "note": "語料高頻", "articles": [] },
+    { "zh": "原住民族", "ami": "Yin-cu-min-cu", "gloss": "原住民族（華語借詞）", "variants": ["Yin-cu-min（原住民）"], "source": "corpus", "status": "ok", "note": "新聞用華語借詞", "articles": [] }
+  ]
+}

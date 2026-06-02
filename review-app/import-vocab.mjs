@@ -1,3 +1,5 @@
+// ⚠️ 已棄用：詞庫已移至 glossary/terms.json，請改用 build-vocab.mjs。
+// 保留此檔僅供歷史參考，請勿再編輯（編輯不會反映到生成流程）。
 import { initializeApp } from 'firebase-admin/app';
 import { getFirestore } from 'firebase-admin/firestore';
 
@@ -16,7 +18,7 @@ const vocab = [
   { zh: '地理',     ami_coast: 'katatelekan', dict_coast: '條約、規則 ❌',    ami_xiuguluan: "sakanga'ay no 'orip", dict_xiuguluan: '好的緣故＋生命', status: 'err', note: '請老師提供正確說法' },
   { zh: '經濟',     ami_coast: 'kicay',       dict_coast: '經濟（日語借詞）',   ami_xiuguluan: 'kicay',     dict_xiuguluan: '經濟',   status: 'ok',   note: '萌典 kicay＝經濟（日語借詞，蔡中涵大辭典）；原 pinangan 是習慣/癖性，已更正' },
   { zh: '交通',     ami_coast: 'rakat',       dict_coast: '步行、走路',       ami_xiuguluan: "sakafana' no sifo", dict_xiuguluan: '待確認', status: 'warn', note: '請老師確認正確說法' },
-  { zh: '文化',     ami_coast: 'punka',       dict_coast: '文化（蔡中涵大辭典）', ami_xiuguluan: 'punka',     dict_xiuguluan: '文化',   status: 'ok',   note: '萌典 punka＝文化（例：Citodongay to punka a lomaʼ＝文化部）；原 kapolongan 是公共的，已更正' },
+  { zh: '文化',     ami_coast: 'serangawan',  dict_coast: '文化、風俗（新聞慣用）', ami_xiuguluan: 'serangawan', dict_xiuguluan: '文化', status: 'ok', note: '主用 serangawan（新聞語料與草稿皆用，native）；萌典另收 punka（日語借詞 bunka）。原 kapolongan 是公共的，已更正' },
   { zh: '四小龍',   ami_coast: 'selal',       dict_coast: '同年、同輩份 ❌',  ami_xiuguluan: '—',          dict_xiuguluan: '—',      status: 'err',  note: '建議保留中文或老師另創說法' },
   { zh: '馬來西亞', ami_coast: 'Malaysiya',   dict_coast: '馬來西亞（英語借詞）', ami_xiuguluan: 'Malaysiya', dict_xiuguluan: '馬來西亞', status: 'ok', note: '萌典有收錄 Malaysiya；原音譯 malasiya 已更正' },
   { zh: '英國',     ami_coast: 'Ingkolis',    dict_coast: '英國、英語（英語借詞）', ami_xiuguluan: 'Ingkolis', dict_xiuguluan: '英國、英語', status: 'ok', note: '萌典 Ingkolis＝英國/英語；亦可解決「英語」說法，原 ingko 已更正' },
