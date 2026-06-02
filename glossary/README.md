@@ -53,4 +53,18 @@ grep -n "文化\|政府" glossary/corpus/*.md
 
 > 查詞流程：先 grep `terms.json` + `corpus/`（已知的最快）→ 再查萌典／klokah → 查到就回寫 `terms.json` 累積。
 
+### 已收錄語料
+
+| 檔案 | 內容 | 授權 |
+|------|------|------|
+| `corpus/news-ilrdf-2021-2022.md`、`-b.md` | 18 則族語新聞（秀姑巒），時事文體 | 使用者提供 |
+| `corpus/klokah-cu-amis-vocab.md` | klokah 文化篇 30 課 ×（海岸＋秀姑巒）詞彙＋例句，百科/文化文體 | CC BY-NC-SA 4.0 |
+
+> ⚠️ klokah 例句／全文為 **CC BY-NC-SA**：可作校對參考，但**勿原文貼入 ami 維基**（維基為 CC BY-SA，NC 不相容）。詞彙對照（詞＝中文）為事實，可自由使用。
+
+### 再抓 klokah 文化篇的方法
+
+資料端點（免登入）：`https://web.klokah.tw/extension/cu_data/get_data.php?did=<方言id>`
+回傳整套 30 課 JSON（含 `article_ab/article_ch` 平行全文、`word` 詞表＋例句）。方言 id：**南勢=1、秀姑巒=2、海岸=3、馬蘭=4、恆春=5**。
+
 > 數字／日期書寫慣例見 [`../translations/翻譯規範.md`](../translations/翻譯規範.md)。
