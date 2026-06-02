@@ -60,6 +60,10 @@ grep -n "文化\|政府" glossary/corpus/*.md
 | `corpus/news-ilrdf-2021-2022.md`、`-b.md` | 18 則族語新聞（秀姑巒），時事文體 | 使用者提供 |
 | `corpus/klokah-cu-amis-vocab.md` | klokah 文化篇 30 課 ×（海岸＋秀姑巒）詞彙＋例句，百科/文化文體 | CC BY-NC-SA 4.0 |
 | `corpus/klokah-readingtext-vocab.md` | klokah 閱讀文本 6 篇 ×（海岸＋秀姑巒）詞彙＋例句（全文未開放，僅詞表） | CC BY-NC-SA 4.0 |
+| `corpus/klokah-wordlist.csv` | **klokah 學習詞表**：2188 筆 ×（海岸＋秀姑巒），36 類別、分級（初/中/中高/高級）。最完整的結構化詞彙來源 | CC BY-NC-SA 4.0 |
+| `sources/*.xlsx` | 上者的官方原始 Excel（保留供溯源） | CC BY-NC-SA 4.0 |
+
+> grep 詞表範例：`grep -E "交通|地理" glossary/corpus/klokah-wordlist.csv`
 
 > ⚠️ klokah 例句／全文為 **CC BY-NC-SA**：可作校對參考，但**勿原文貼入 ami 維基**（維基為 CC BY-SA，NC 不相容）。詞彙對照（詞＝中文）為事實，可自由使用。
 
@@ -67,5 +71,12 @@ grep -n "文化\|政府" glossary/corpus/*.md
 
 資料端點（免登入）：`https://web.klokah.tw/extension/cu_data/get_data.php?did=<方言id>`
 回傳整套 30 課 JSON（含 `article_ab/article_ch` 平行全文、`word` 詞表＋例句）。方言 id：**南勢=1、秀姑巒=2、海岸=3、馬蘭=4、恆春=5**。
+（閱讀文本同理：`readingtext_data/get_data.php?did=`，但全文未開放、僅詞表。）
+
+### 再抓 klokah 學習詞表（最完整）
+
+`/vocabulary/` 頁面有「下載EXCEL」直連，網址格式：
+`https://klokah-file.com/130/2026學習詞表-<03海岸/02秀姑巒>阿美語.xlsx`
+轉 CSV：`python` + `openpyxl` 讀取，欄位為 中文／族語／備註／級別，並以「類別」列分組（見 sources 轉檔流程）。
 
 > 數字／日期書寫慣例見 [`../translations/翻譯規範.md`](../translations/翻譯規範.md)。
