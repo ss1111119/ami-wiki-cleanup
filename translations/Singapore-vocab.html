@@ -63,21 +63,20 @@
 <main>
 
   <div class="summary-cards">
-    <div class="summary-card"><div class="n n-ok">8</div><div class="l">✅ 字典有收錄、翻譯正確</div></div>
-    <div class="summary-card"><div class="n n-warn">9</div><div class="l">⚠️ 有收錄、但意思偏差</div></div>
-    <div class="summary-card"><div class="n n-err">5</div><div class="l">❌ 字典未收錄（AI 音譯）</div></div>
+    <div class="summary-card"><div class="n n-ok">16</div><div class="l">✅ 字典有收錄、翻譯正確</div></div>
+    <div class="summary-card"><div class="n n-warn">5</div><div class="l">⚠️ 有收錄、但意思偏差／不對</div></div>
+    <div class="summary-card"><div class="n n-err">1</div><div class="l">❌ 字典未收錄（AI 創詞）</div></div>
   </div>
 
   <div class="alert alert-red">
-    <strong>🔴 老師校對時請優先確認這 6 個詞彙：</strong>
+    <strong>🔴 老師校對時請優先確認這 4 個詞彙：</strong>
     <ol>
       <li><code>hekal</code>（AI 用於「氣候」）→ 萌典定義是「岸邊」，完全不對</li>
       <li><code>katatelekan</code>（AI 用於「地理」）→ 萌典定義是「條約、規則」，不對</li>
-      <li><code>pinangan</code>（AI 用於「經濟」）→ 萌典定義是「標誌、習慣」，不對</li>
       <li><code>selal</code>（AI 用於「四小龍」）→ 萌典定義是「同年、同輩份」，不對</li>
       <li><code>singkapolu</code> → 萌典收錄為 <code>singkapol</code>，應統一拼法</li>
-      <li><code>hikoki</code>（AI 用於「機場」）→ 萌典定義是「飛機」，機場說法需確認</li>
     </ol>
+    <p style="margin-top:8px;font-size:0.82rem;color:#1a472a">✅ 機場：已查到 <code>hikocyo</code>（飛機場），原 <code>hikoki</code>（飛機）已更正。<br>✅ 經濟：已查到 <code>kicay</code>（經濟，日語借詞），原 <code>pinangan</code>（習慣/癖性）已更正。</p>
   </div>
 
   <!-- 正確詞彙 -->
@@ -113,9 +112,9 @@
         </tr>
         <tr>
           <td>機場</td>
-          <td><code>hikoki</code></td>
-          <td><strong>飛機</strong></td>
-          <td><span class="badge warn">意思偏差</span><div class="note">hikoki 是飛機，機場說法待確認（papataʼan no hikoki？）</div></td>
+          <td><code>hikoki</code> → <code>hikocyo</code></td>
+          <td><strong>飛機 → 飛機場</strong></td>
+          <td><span class="badge ok">已更正</span><div class="note">萌典查到 <a href="https://new-amis.moedict.tw/terms/hikocyo" target="_blank"><code>hikocyo</code></a>＝飛機場（日語借詞），同義 <code>pahikokian</code>。原 hikoki 是飛機，已更正。</div></td>
         </tr>
         <tr>
           <td>交通</td>
@@ -131,9 +130,9 @@
         </tr>
         <tr>
           <td>文化</td>
-          <td><code>kapolongan</code></td>
-          <td><strong>公共的、公有的、團體性的</strong></td>
-          <td><span class="badge warn">意思偏差</span><div class="note">請老師確認是否可用於「文化」語境</div></td>
+          <td><code>kapolongan</code> → <code>punka</code></td>
+          <td><strong>公共的 → 文化</strong></td>
+          <td><span class="badge ok">已更正</span><div class="note">萌典查到 <a href="https://new-amis.moedict.tw/terms/punka" target="_blank"><code>punka</code></a>＝文化（蔡中涵大辭典，例：Citodongay to punka a lomaʼ＝文化部）。</div></td>
         </tr>
         <tr>
           <td>地理</td>
@@ -143,9 +142,9 @@
         </tr>
         <tr>
           <td>經濟</td>
-          <td><code>pinangan</code></td>
-          <td><strong>標誌、符號、習慣、癖性</strong></td>
-          <td><span class="badge err">完全不對</span><div class="note">請老師提供「經濟」的正確說法</div></td>
+          <td><code>pinangan</code> → <code>kicay</code></td>
+          <td><strong>習慣、癖性 → 經濟</strong></td>
+          <td><span class="badge ok">已更正</span><div class="note">萌典查到 <a href="https://new-amis.moedict.tw/terms/kicay" target="_blank"><code>kicay</code></a>＝經濟（日語借詞，蔡中涵大辭典）。原 pinangan 是習慣/癖性，已更正。</div></td>
         </tr>
         <tr>
           <td>四小龍</td>
@@ -194,11 +193,11 @@
         </tr>
         <tr>
           <td>經濟</td>
-          <td><code>pinangan</code></td>
-          <td><span style="color:#c0392b">習慣、癖性</span> ❌</td>
-          <td><code>sakatayal no lalan</code></td>
-          <td>工具＋道路 ⚠️</td>
-          <td>秀姑巒有「謀生之道」意味，請老師確認</td>
+          <td><code>pinangan</code> → <code>kicay</code></td>
+          <td><span style="color:#1a472a">經濟（已更正）</span> ✅</td>
+          <td><code>kicay</code></td>
+          <td>經濟 ✅</td>
+          <td>萌典 <code>kicay</code>＝經濟（日語借詞），兩方言通用</td>
         </tr>
         <tr>
           <td>交通</td>
@@ -210,11 +209,11 @@
         </tr>
         <tr>
           <td>文化</td>
-          <td><code>kapolongan</code></td>
-          <td>公共的、公有的 ⚠️</td>
-          <td>—</td>
-          <td>—</td>
-          <td>請老師確認 kapolongan 是否可用</td>
+          <td><code>kapolongan</code> → <code>punka</code></td>
+          <td>文化（已更正）✅</td>
+          <td><code>punka</code></td>
+          <td>文化 ✅</td>
+          <td>萌典 <code>punka</code>＝文化，兩方言通用</td>
         </tr>
       </tbody>
     </table>
@@ -226,15 +225,15 @@
   <!-- 未收錄 -->
   <div class="card">
     <h2 class="red">❌ 字典未收錄（AI 自行音譯）</h2>
-    <p style="font-size:0.875rem;color:#555;margin-bottom:14px">以下詞彙萌典未收錄，為 AI 自行音譯或創詞，老師可自行決定是否保留或修改。</p>
+    <p style="font-size:0.875rem;color:#555;margin-bottom:14px">原列為「未收錄」的詞，多數已在萌典查到正確說法（下表綠色），僅「花園城市」仍為 AI 創詞。</p>
     <table>
-      <thead><tr><th>中文</th><th>AI 使用詞</th><th>說明</th></tr></thead>
+      <thead><tr><th>中文</th><th>AI 原音譯 → 萌典正解</th><th>說明</th></tr></thead>
       <tbody>
-        <tr><td>馬來西亞</td><td><code>malasiya</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
-        <tr><td>英國</td><td><code>ingko</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
-        <tr><td>政府</td><td><code>cengfo</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
-        <tr><td>教育</td><td><code>sifana</code></td><td><span class="badge missing">音譯</span> 字典未收錄</td></tr>
-        <tr><td>花園城市</td><td><code>pakohanaan</code></td><td><span class="badge missing">AI 創詞</span> 字典未收錄</td></tr>
+        <tr><td>馬來西亞</td><td><code>malasiya</code> → <code>Malaysiya</code></td><td><span class="badge ok">已找到</span> 萌典 <a href="https://new-amis.moedict.tw/terms/Malaysiya" target="_blank">Malaysiya</a>（英語借詞）</td></tr>
+        <tr><td>英國／英語</td><td><code>ingko</code> → <code>Ingkolis</code></td><td><span class="badge ok">已找到</span> 萌典 <a href="https://new-amis.moedict.tw/terms/Ingkolis" target="_blank">Ingkolis</a>＝英國、英語</td></tr>
+        <tr><td>政府</td><td><code>cengfo</code> → <code>syifu</code></td><td><span class="badge ok">已找到</span> 萌典 <a href="https://new-amis.moedict.tw/terms/syifu" target="_blank">syifu</a>＝政府</td></tr>
+        <tr><td>教育</td><td><code>sifana</code> → <code>pasifanaʼ</code></td><td><span class="badge ok">已找到</span> 萌典 <a href="https://new-amis.moedict.tw/terms/pasifana'" target="_blank">pasifanaʼ</a>＝教育、教學</td></tr>
+        <tr><td>花園城市</td><td><code>pakohanaan</code></td><td><span class="badge missing">AI 創詞</span> 字典未收錄，老師可決定保留或另創</td></tr>
       </tbody>
     </table>
   </div>
