@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>阿美語 Wikipedia 翻譯校對平台</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="login-page">
+  <div class="login-box">
+    <h1>阿美語 Wikipedia<br>翻譯校對平台</h1>
+    <p class="subtitle">'Amis Wikipedia Review Platform</p>
+    <div id="loginError" class="error-msg" style="display:none"></div>
+    <button id="googleBtn" class="google-btn">
+      <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" width="20" height="20" alt="Google">
+      使用 Google 帳號登入
+    </button>
+    <p class="login-note">僅限授權帳號使用</p>
+  </div>
+
+  <script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
+    import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js';
+    import { FIREBASE_CONFIG } from './config.js';
+
+    // 只允許這些帳號登入
+    const ALLOWED_EMAILS = [
+      'ss1111119@gmail.com',
+      'kacaw201492@gmail.com'
+    ];
+
+    const app = initializeApp(FIREBASE_CONFIG);
+    const auth = getAuth(app);
+    const provider = new GoogleAuthProvider();
+
+    onAuthStateChanged(auth, user => {
+      if (user && ALLOWED_EMAILS.includes(user.email)) {
+        window.location.href = 'list.html';
+      }
+    });
+
+    document.getElementById('googleBtn').addEventListener('click', async () => {
+      const btn = document.getElementById('googleBtn');
+      const errEl = document.getElementById('loginError');
+      btn.disabled = true;
+      errEl.style.display = 'none';
+      try {
+        const result = await signInWithPopup(auth, provider);
+        if (!ALLOWED_EMAILS.includes(result.user.email)) {
+          await auth.signOut();
+          errEl.textContent = `此帳號（${result.user.email}）沒有存取權限。`;
+          errEl.style.display = 'block';
+          btn.disabled = false;
+        }
+      } catch (e) {
+        if (e.code !== 'auth/popup-closed-by-user') {
+          errEl.textContent = '登入失敗，請再試一次。';
+          errEl.style.display = 'block';
+        }
+        btn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>

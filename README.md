@@ -103,6 +103,7 @@ ami Wikipedia 裡 45 位總統中，37 位只是重定向到 `[[Amilika]]`（美
 - AI 翻譯：[族語基礎翻譯系統](https://ai-labs.ilrdf.org.tw/kari-seejiq-tnpusu-ai-hmjil/)（支援海岸、秀姑巒等方言）
 - 詞彙查核：[阿美語萌典](https://new-amis.moedict.tw/)
 - 校對平台：[ami-wiki-review.web.app](https://ami-wiki-review.web.app)（老師用 Gmail 登入）
+- 翻譯規範：[translations/翻譯規範.md](translations/翻譯規範.md)（⚠️ 數字一律用阿拉伯數字等約定）
 
 ---
 

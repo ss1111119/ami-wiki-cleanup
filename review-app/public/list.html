@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>待校對清單 — 翻譯校對平台</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="app-header">
+    <span class="logo">阿美語 Wikipedia 校對平台</span>
+    <div class="header-right">
+      <span id="userEmail"></span>
+      <button id="logoutBtn" class="btn-sm">登出</button>
+    </div>
+  </header>
+
+  <main class="list-main">
+    <div class="list-header">
+      <h2>翻譯條目清單</h2>
+      <div class="filter-tabs">
+        <button class="tab active" data-status="all">全部</button>
+        <button class="tab" data-status="pending">待校對</button>
+        <button class="tab" data-status="in_review">校對中</button>
+        <button class="tab" data-status="approved">已完成</button>
+      </div>
+    </div>
+
+    <div id="articleList" class="article-list">
+      <div class="loading">載入中...</div>
+    </div>
+  </main>
+
+  <script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
+    import { getAuth, onAuthStateChanged, signOut } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js';
+    import { getFirestore, collection, getDocs, query, orderBy } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js';
+    import { FIREBASE_CONFIG } from './config.js';
+
+    const app = initializeApp(FIREBASE_CONFIG);
+    const auth = getAuth(app);
+    const db = getFirestore(app);
+
+    onAuthStateChanged(auth, async user => {
+      if (!user) { window.location.href = 'index.html'; return; }
+      document.getElementById('userEmail').textContent = user.email;
+      loadArticles('all');
+    });
+
+    document.getElementById('logoutBtn').addEventListener('click', () => signOut(auth));
+
+    let currentFilter = 'all';
+
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        currentFilter = tab.dataset.status;
+        loadArticles(currentFilter);
+      });
+    });
+
+    async function loadArticles(statusFilter) {
+      const listEl = document.getElementById('articleList');
+      listEl.innerHTML = '<div class="loading">載入中...</div>';
+      try {
+        const q = query(collection(db, 'translations'), orderBy('created_at', 'desc'));
+        const snap = await getDocs(q);
+        const articles = [];
+        snap.forEach(doc => articles.push({ id: doc.id, ...doc.data() }));
+
+        const filtered = statusFilter === 'all' ? articles : articles.filter(a => a.status === statusFilter);
+
+        if (filtered.length === 0) {
+          listEl.innerHTML = '<div class="empty">目前沒有條目</div>';
+          return;
+        }
+
+        listEl.innerHTML = filtered.map(a => `
+          <a href="editor.html?id=${a.id}" class="article-card">
+            <div class="card-title">${a.ami_title}</div>
+            <div class="card-sub">${a.zh_title || ''}</div>
+            <div class="card-meta">
+              <span class="status status-${a.status}">${statusLabel(a.status)}</span>
+              <span class="sections">${a.section_count || 0} 段</span>
+            </div>
+          </a>
+        `).join('');
+      } catch(e) {
+        listEl.innerHTML = `<div class="error-msg">載入失敗：${e.message}</div>`;
+      }
+    }
+
+    function statusLabel(s) {
+      return { pending: '待校對', in_review: '校對中', approved: '已完成' }[s] || s;
+    }
+  </script>
+</body>
+</html>

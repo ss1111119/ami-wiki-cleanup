@@ -1,0 +1,161 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
+  background: #f5f5f2;
+  color: #222;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* ── Login ── */
+.login-page {
+  display: flex; align-items: center; justify-content: center;
+  min-height: 100vh; background: #1a472a;
+}
+.login-box {
+  background: white; border-radius: 12px; padding: 40px 36px;
+  width: 100%; max-width: 380px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+}
+.login-box h1 { font-size: 1.3rem; color: #1a472a; margin-bottom: 6px; text-align: center; }
+.subtitle { text-align: center; color: #888; font-size: 0.85rem; margin-bottom: 28px; }
+.field { margin-bottom: 16px; }
+.field label { display: block; font-size: 0.85rem; color: #555; margin-bottom: 6px; font-weight: 600; }
+.field input {
+  width: 100%; padding: 10px 14px; border: 1px solid #ddd;
+  border-radius: 6px; font-size: 0.95rem; outline: none;
+}
+.field input:focus { border-color: #1a472a; }
+.google-btn {
+  width: 100%; padding: 12px 16px; background: white; color: #444;
+  border: 1px solid #ddd; border-radius: 6px; font-size: 0.95rem;
+  cursor: pointer; display: flex; align-items: center; justify-content: center;
+  gap: 10px; margin-top: 8px; font-weight: 500;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.google-btn:hover { background: #f8f8f8; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
+.google-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+.login-note { text-align: center; font-size: 0.78rem; color: #bbb; margin-top: 14px; }
+.error-msg { color: #e74c3c; font-size: 0.85rem; padding: 8px; background: #fef0f0; border-radius: 4px; margin-bottom: 12px; }
+
+/* ── Header ── */
+.app-header {
+  background: #1a472a; color: white; padding: 0 20px;
+  height: 52px; display: flex; align-items: center; gap: 16px;
+  position: sticky; top: 0; z-index: 100;
+}
+.logo { font-weight: 700; font-size: 0.95rem; flex: 1; }
+.back-link { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 0.9rem; }
+.back-link:hover { color: white; }
+.header-right { display: flex; align-items: center; gap: 12px; font-size: 0.85rem; }
+#userEmail { opacity: 0.7; }
+.btn-sm { background: rgba(255,255,255,0.15); color: white; border: none; padding: 5px 12px; border-radius: 4px; cursor: pointer; font-size: 0.82rem; }
+.btn-sm:hover { background: rgba(255,255,255,0.25); }
+
+/* ── List ── */
+.list-main { max-width: 860px; margin: 0 auto; padding: 28px 20px; }
+.list-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; flex-wrap: wrap; gap: 12px; }
+.list-header h2 { font-size: 1.1rem; color: #1a472a; }
+.filter-tabs { display: flex; gap: 6px; }
+.tab { padding: 6px 14px; border-radius: 20px; border: 1px solid #c8ddc8; background: white; color: #1a472a; font-size: 0.82rem; cursor: pointer; }
+.tab.active, .tab:hover { background: #1a472a; color: white; border-color: #1a472a; }
+.article-list { display: grid; gap: 12px; }
+.article-card {
+  background: white; border-radius: 10px; border: 1px solid #e8e8e4;
+  padding: 18px 22px; text-decoration: none; color: inherit;
+  display: block; transition: box-shadow 0.15s;
+}
+.article-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+.card-title { font-weight: 700; font-size: 1rem; color: #1a472a; margin-bottom: 4px; }
+.card-sub { font-size: 0.85rem; color: #888; margin-bottom: 10px; }
+.card-meta { display: flex; gap: 12px; align-items: center; }
+.status { display: inline-block; padding: 2px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; }
+.status-pending { background: #fff3cd; color: #856404; }
+.status-in_review { background: #cce5ff; color: #004085; }
+.status-approved { background: #d4edda; color: #155724; }
+.sections { font-size: 0.82rem; color: #888; }
+.loading, .empty { text-align: center; padding: 40px; color: #aaa; }
+
+/* ── Editor ── */
+.editor-toolbar {
+  background: white; border-bottom: 1px solid #e8e8e4;
+  padding: 10px 20px; display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  flex-wrap: wrap;
+}
+.article-info { display: flex; gap: 12px; }
+.wiki-link { color: #1a472a; font-size: 0.85rem; text-decoration: none; }
+.wiki-link:hover { text-decoration: underline; }
+.status-control { font-size: 0.85rem; color: #555; display: flex; align-items: center; gap: 8px; }
+.status-control select { padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; font-size: 0.85rem; }
+.editor-guide {
+  background: #e8f5e9; border-left: 4px solid #1a472a;
+  padding: 10px 20px; font-size: 0.85rem; color: #2d5a3d; margin: 0;
+}
+.editor-warn {
+  background: #fff3cd; border-left: 4px solid #e0a800;
+  padding: 10px 20px; font-size: 0.85rem; color: #7a5a00; line-height: 1.6;
+}
+.editor-warn code { background: #fde8a8; padding: 1px 5px; border-radius: 3px; font-family: monospace; }
+.sections-container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+.section-block {
+  background: white; border-radius: 10px; border: 1px solid #e8e8e4;
+  padding: 24px; margin-bottom: 20px;
+}
+.section-title { font-weight: 700; font-size: 1rem; color: #1a472a; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid #e8f0e8; }
+.section-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+@media (max-width: 700px) { .section-grid { grid-template-columns: 1fr; } }
+.col-label { font-size: 0.78rem; font-weight: 700; color: #888; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+.zh-text { font-size: 0.9rem; color: #333; line-height: 1.8; background: #fafafa; border-radius: 6px; padding: 12px; min-height: 120px; }
+.ami-textarea, .note-textarea {
+  width: 100%; border: 1px solid #ddd; border-radius: 6px;
+  padding: 12px; font-size: 0.9rem; font-family: inherit;
+  line-height: 1.8; resize: vertical; outline: none;
+}
+.ami-textarea:focus, .note-textarea:focus { border-color: #1a472a; }
+.note-textarea { font-size: 0.82rem; color: #666; }
+.ai-ref { margin-top: 12px; }
+.ai-ref summary { font-size: 0.82rem; color: #888; cursor: pointer; padding: 4px 0; }
+.ai-text { font-size: 0.82rem; color: #888; background: #f9f9f9; padding: 10px; border-radius: 4px; margin-top: 6px; line-height: 1.7; }
+/* ── Vocab Panel ── */
+.vocab-panel { max-width: 1200px; margin: 0 auto 0; padding: 0 20px; }
+.vocab-header {
+  background: #e8f5e9; border: 1px solid #a8d5b5; border-radius: 8px;
+  padding: 10px 16px; cursor: pointer; font-size: 0.875rem; font-weight: 600;
+  color: #1a472a; display: flex; justify-content: space-between; user-select: none;
+}
+.vocab-header:hover { background: #d4edda; }
+#vocabBody { background: white; border: 1px solid #a8d5b5; border-top: none; border-radius: 0 0 8px 8px; overflow: hidden; }
+#vocabBody.hidden { display: none; }
+.vocab-content { padding: 16px; overflow-x: auto; }
+.vocab-content .vocab-note { font-size: 0.78rem; color: #666; margin-bottom: 10px; line-height: 1.6; }
+.vocab-content .vocab-note strong { color: #856404; }
+.vocab-content table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+.vocab-content th { background: #f0f5f1; color: #1a472a; padding: 7px 12px; text-align: left; font-weight: 600; }
+.vocab-content td { padding: 7px 12px; border-bottom: 1px solid #f0f0ec; vertical-align: top; }
+.vocab-content tr:last-child td { border-bottom: none; }
+/* 狀態欄徽章：四種狀態統一為色塊膠囊，避免 missing 變成純文字 */
+.vocab-content .vb {
+  display: inline-block; white-space: nowrap;
+  border-radius: 3px; padding: 1px 6px; font-size: 0.75rem; font-weight: 600;
+}
+.vocab-content .vb.ok      { color: #155724; background: #d4edda; }
+.vocab-content .vb.warn    { color: #856404; background: #fff3cd; }
+.vocab-content .vb.err     { color: #721c24; background: #f8d7da; }
+.vocab-content .vb.missing { color: #555;    background: #ececec; }
+.vocab-content .vb-dash    { color: #bbb; }
+.vocab-content code  { background: #f0f0ec; padding: 1px 5px; border-radius: 3px; font-family: monospace; word-break: keep-all; }
+
+/* 欄寬與換行：中文與狀態維持不換行，阿美語長詞可斷行 */
+.vocab-table { table-layout: fixed; }
+.vocab-table .vc-zh     { width: 12%; white-space: nowrap; font-weight: 600; }
+.vocab-table .vc-ami    { width: 14%; }
+.vocab-table .vc-dict   { width: 15%; font-size: 0.8rem; color: #555; }
+.vocab-table .vc-status { width: 8%;  white-space: nowrap; }
+.vocab-table .vc-note   { width: 22%; font-size: 0.8rem; color: #c0392b; }
+.vocab-table .vc-ami code { white-space: normal; word-break: break-word; }
+
+.save-bar { position: sticky; bottom: 0; background: white; border-top: 1px solid #e8e8e4; padding: 14px 20px; display: flex; justify-content: center; }
+.btn-save { background: #1a472a; color: white; border: none; padding: 12px 40px; border-radius: 6px; font-size: 1rem; cursor: pointer; font-weight: 600; }
+.btn-save:hover { background: #2d6a4f; }
+.btn-save:disabled { opacity: 0.6; cursor: not-allowed; }
+.save-status { font-size: 0.85rem; }
