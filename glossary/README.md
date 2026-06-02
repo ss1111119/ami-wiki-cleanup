@@ -59,6 +59,7 @@ grep -n "文化\|政府" glossary/corpus/*.md
 |------|------|------|
 | `corpus/news-ilrdf-2021-2022.md`、`-b.md` | 18 則族語新聞（秀姑巒），時事文體 | 使用者提供 |
 | `corpus/klokah-cu-amis-vocab.md` | klokah 文化篇 30 課 ×（海岸＋秀姑巒）詞彙＋例句，百科/文化文體 | CC BY-NC-SA 4.0 |
+| `corpus/klokah-readingtext-vocab.md` | klokah 閱讀文本 6 篇 ×（海岸＋秀姑巒）詞彙＋例句（全文未開放，僅詞表） | CC BY-NC-SA 4.0 |
 
 > ⚠️ klokah 例句／全文為 **CC BY-NC-SA**：可作校對參考，但**勿原文貼入 ami 維基**（維基為 CC BY-SA，NC 不相容）。詞彙對照（詞＝中文）為事實，可自由使用。
 
