@@ -45,4 +45,12 @@
 grep -n "文化\|政府" glossary/corpus/*.md
 ```
 
+## 參考資源（查詞優先序）
+
+1. **阿美語萌典** <https://new-amis.moedict.tw/> — 多部辭典匯集（蔡中涵、吳明義…），單一辭典非按方言分版。查詞網址：`new-amis.moedict.tw/terms/<word>`
+2. **klokah 族語E樂園**（原民會官方）<https://web.klokah.tw/> — 單詞查詢、**分方言學習詞表**、句型篇、情境會話、**族語新聞**（可作平行語料）。權威、可補萌典。
+3. **本地語料** `corpus/` — 已存的平行新聞，grep 最快。
+
+> 查詞流程：先 grep `terms.json` + `corpus/`（已知的最快）→ 再查萌典／klokah → 查到就回寫 `terms.json` 累積。
+
 > 數字／日期書寫慣例見 [`../translations/翻譯規範.md`](../translations/翻譯規範.md)。

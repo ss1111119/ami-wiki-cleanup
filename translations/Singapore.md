@@ -108,7 +108,7 @@
 **AI 翻譯（阿美語，逐句重翻＋數字修正，待校對）**
 > o kasasiromaroma no finacadan, kasasiromaroman no serangawan a kitakit ko sinkapol, o holam, malay, ingto ato romaroma a finacadan ko misaʼopoay. o sowal no mikowanay i, o no Padaka, o no Holam, o no Malaya ato no Tamil a sowal 4 ko kasasiromaroma. maedeng lima no sepatay ko tamdaw no Singkapol i nipatirengan no ceng fo a lomaʼ a maroʼ. tada katataʼak ko tamdaw no sinkapol, o saka 3 a katataʼakay ko tamdaw a kitakit tona hekal, deng o monaco ato aw mon ko dodo sanay.
 
-**校對備註：** 「四種」改 4、「第三高」改 saka 3。⚠️「英語」AI 譯為「Padaka」疑誤，請確認正確說法。「五分之四」保留阿美語分數寫法 lima no sepat，是否改阿拉伯數字請老師決定。
+**校對備註：** 「四種」改 4、「第三高」改 saka 3。✅「英語」AI 用 Padaka，已由族語新聞語料確認 Padaka＝英語（no Padaka a sowal），正確。「五分之四」保留阿美語分數寫法 lima no sepat，是否改阿拉伯數字請老師決定。
 
 ---
 
@@ -151,7 +151,7 @@
 | 東南亞國家聯盟 | liyon no kitakit no lidaw | 意思是否足夠？ |
 | 李光耀 | ci li kwanyaw | 音譯是否合適？ |
 | 亞洲四小龍 | Aciya sepatay a kangdaway / kangic | 兩段不一致，請統一 |
-| 英語 | Padaka？ | 疑誤，請確認 |
+| 英語 | Padaka / Ingkolis | ✅ 語料確認 Padaka＝英語 |
 
 ---
 

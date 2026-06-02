@@ -5,7 +5,7 @@
     { "zh": "日本", "ami": "ripon", "gloss": "日本，日本國", "variants": [], "source": "moedict", "status": "ok", "note": "", "articles": ["Singapore"] },
     { "zh": "語言", "ami": "sowal", "gloss": "話，話語，語言", "variants": [], "source": "moedict", "status": "ok", "note": "", "articles": ["Singapore"] },
     { "zh": "歷史", "ami": "likisi", "gloss": "歷史（日語借詞）", "variants": [], "source": "moedict", "status": "ok", "note": "", "examples": [{ "ami": "mahapinangay i likisi ko tadamaanay a niyatayal naira", "zh": "他們在歷史上有許多貢獻" }, { "ami": "toya pidefong a likisi", "zh": "過去的殖民歷史" }], "articles": ["Singapore"] },
-    { "zh": "總統", "ami": "congtong", "gloss": "總統", "variants": ["contong"], "source": "moedict", "status": "ok", "note": "新聞拼作 contong", "examples": [{ "ami": "contong no Amirika", "zh": "美國總統" }], "articles": ["Singapore"] },
+    { "zh": "總統", "ami": "congtong", "gloss": "總統", "variants": ["contong", "Hongti（元首，他國總統新聞另見）"], "source": "moedict", "status": "ok", "note": "新聞拼作 contong；他國元首/總統另見 Hongti", "examples": [{ "ami": "contong no Amirika", "zh": "美國總統" }, { "ami": "Hongti no Ukelan", "zh": "烏克蘭總統" }], "articles": ["Singapore"] },
     { "zh": "港口", "ami": "minato", "gloss": "港口，海港", "variants": [], "source": "moedict", "status": "ok", "note": "", "articles": ["Singapore"] },
     { "zh": "機場", "ami": "hikocyo", "gloss": "飛機場（日語借詞）", "variants": ["pahikokian"], "source": "moedict:吳明義", "status": "ok", "note": "原 hikoki 是飛機，已更正；同義 pahikokian", "articles": ["Singapore"] },
     { "zh": "氣候", "ami": "hekal", "ami_xiuguluan": "romi'ad", "gloss": "岸邊 ❌", "gloss_xiuguluan": "白天、白晝", "variants": [], "source": "moedict", "status": "err", "note": "兩者皆不準，請老師提供正確說法", "articles": ["Singapore"] },
@@ -23,6 +23,13 @@
     { "zh": "部落", "ami": "niyaro'", "gloss": "部落、村莊", "variants": ["niyaroʼ"], "source": "corpus", "status": "ok", "note": "語料高頻", "articles": [] },
     { "zh": "美國", "ami": "Amirika", "gloss": "美國", "variants": ["Amilika"], "source": "corpus", "status": "ok", "note": "兩種拼法皆見於新聞", "articles": [] },
     { "zh": "國家", "ami": "kitakit", "gloss": "國家", "variants": [], "source": "corpus", "status": "ok", "note": "語料高頻", "articles": [] },
-    { "zh": "原住民族", "ami": "Yin-cu-min-cu", "gloss": "原住民族（華語借詞）", "variants": ["Yin-cu-min（原住民）"], "source": "corpus", "status": "ok", "note": "新聞用華語借詞", "articles": [] }
+    { "zh": "原住民族", "ami": "Yin-cu-min-cu", "gloss": "原住民族（華語借詞）", "variants": ["Yin-cu-min（原住民）"], "source": "corpus", "status": "ok", "note": "新聞用華語借詞", "articles": [] },
+    { "zh": "英語", "ami": "Padaka", "gloss": "英語", "variants": ["Ingkolis", "no Padaka a sowal"], "source": "corpus+moedict", "status": "ok", "note": "新聞「no Padaka a sowal」＝英語，故文化段 AI 用 Padaka 正確；萌典 Ingkolis 亦含英語", "examples": [{ "ami": "mapalalenay ko no Kwaping ato no Padaka a sowal", "zh": "華語和英語並行發展" }], "articles": [] },
+    { "zh": "華語", "ami": "Kwaping", "gloss": "華語、國語", "variants": [], "source": "corpus", "status": "ok", "note": "語料佐證", "articles": [] },
+    { "zh": "聯合國", "ami": "Linheku", "gloss": "聯合國", "variants": [], "source": "corpus", "status": "ok", "note": "草稿曾用 holicko，建議改 Linheku", "examples": [{ "ami": "milongoc to Linheku", "zh": "呼籲聯合國" }], "articles": [] },
+    { "zh": "土地", "ami": "sera", "gloss": "土地、地", "variants": [], "source": "corpus", "status": "ok", "note": "kakarayan ato sera＝天與地", "articles": [] },
+    { "zh": "藝術", "ami": "i-su", "gloss": "藝術（華語借詞）", "variants": ["fenek（藝/才能）"], "source": "corpus", "status": "ok", "note": "藝術家＝cifenekay to i-su", "articles": [] },
+    { "zh": "歲時祭儀", "ami": "ilisin", "gloss": "歲時祭儀、豐年祭", "variants": ["kailisin"], "source": "corpus", "status": "ok", "note": "文化核心詞", "articles": [] },
+    { "zh": "錢／元", "ami": "pida", "gloss": "錢；（計數）元", "variants": [], "source": "corpus", "status": "ok", "note": "金額例：3000 no pida＝3000元", "articles": [] }
   ]
 }
