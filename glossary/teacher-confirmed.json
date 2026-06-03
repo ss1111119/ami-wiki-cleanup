@@ -1,0 +1,38 @@
+{
+  "terms": [
+    {
+      "zh": "政府",
+      "ami": "seyfo",
+      "note": "統一用 seyfo,不用 ceng fo",
+      "by": "teacher",
+      "date": "2026-06-03"
+    }
+  ],
+  "avoid": [
+    {
+      "ami": "ceng fo",
+      "reason": "政府改用 seyfo",
+      "use": "seyfo"
+    },
+    {
+      "ami": "langdaway",
+      "reason": "綠蛇/青竹絲,勿用於『綠化』",
+      "use": "makofakof"
+    },
+    {
+      "ami": "Ciwi",
+      "reason": "避免使用音譯 Ciwi",
+      "use": "Pangcah"
+    }
+  ],
+  "rules": [
+    {
+      "rule": "數字規範: 數字統一使用阿拉伯數字，例如 10 ko mihecaan",
+      "example": "10 ko mihecaan"
+    },
+    {
+      "rule": "避免重複: 刪除多餘的重複單詞或短語",
+      "example": "避免出現重複詞彙"
+    }
+  ]
+}

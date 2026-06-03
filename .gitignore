@@ -2,6 +2,7 @@
 openspec/.vector-search.db*
 node_modules/
 .firebase/
+*.log
 
 # 萌典 g0v 大型資料檔（CC0，但可重抓、體積大；保留 dict/*.mjs 工具）
 dict/*.json
