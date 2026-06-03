@@ -2,3 +2,15 @@
 openspec/.vector-search.db*
 node_modules/
 .firebase/
+
+# 萌典 g0v 大型資料檔（CC0，但可重抓、體積大；保留 dict/*.mjs 工具）
+dict/*.json
+
+# klokah 抓取原始語料（CC BY-NC-SA／合理使用，不上傳；只保留爬蟲腳本 .py）
+200族語e樂園/**/*.csv
+200族語e樂園/**/*.xlsx
+200族語e樂園/**/*.json
+200族語e樂園/**/*.ipynb
+200族語e樂園/**/*.jpg
+200族語e樂園/**/*.png
+200族語e樂園/**/desktop.ini
