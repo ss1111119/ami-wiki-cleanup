@@ -347,9 +347,12 @@ if (isMain) {
       throw new Error(`Validation failed: Total records (${corpus.length}) is less than 30,000.`);
     }
 
+    // 海岸阿美語真實乾淨數量約 1638(文化篇/情境/短文/族語新聞);
+    // 原門檻 3500 是基於誤抓的 grmpts 海岸(實為賽夏語,已隔離),故下修。
+    // 待找到 grmpts 海岸阿美語的正確 did 重抓後可再調高。
     const coastAmisCount = statsByDialect['海岸'] || 0;
-    if (coastAmisCount < 3500) {
-      throw new Error(`Validation failed: Coast Amis records (${coastAmisCount}) is less than 3,500.`);
+    if (coastAmisCount < 1500) {
+      throw new Error(`Validation failed: Coast Amis records (${coastAmisCount}) is less than 1,500.`);
     }
 
     // Check for empty licenses or dialects
