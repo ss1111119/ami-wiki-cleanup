@@ -8,6 +8,25 @@
       "date": "2026-06-03"
     }
   ],
+  "candidates": [
+    { "zh": "聯盟", "ami": "katatelekan", "alt": "makaketo", "source": "蔡中涵大辭典", "note": "約定/聯盟/條約;makaketo=同盟的" },
+    { "zh": "投降", "ami": "doʼedo", "alt": "pasitira", "source": "蔡中涵大辭典", "note": "服從/投降" },
+    { "zh": "選舉", "ami": "miritos", "source": "新版萌典", "note": "投票/選舉" },
+    { "zh": "統治", "ami": "mikowan", "source": "蔡中涵大辭典", "note": "管轄/統治" },
+    { "zh": "袋鼠", "ami": "kangkaro", "source": "新版萌典", "note": "英語借詞" },
+    { "zh": "潮濕", "ami": "cepaʼ", "source": "新版萌典", "note": "濕/潮濕" },
+    { "zh": "螃蟹", "ami": "kahemid", "source": "新版萌典", "note": "大毛蟹" },
+    { "zh": "椰子", "ami": "ʼafinong", "source": "新版萌典", "note": "椰子果" },
+    { "zh": "蝦", "ami": "ʼafar", "source": "萌典", "note": "蝦的總稱" },
+    { "zh": "麵", "ami": "walay", "source": "萌典", "note": "麵線/麵條" },
+    { "zh": "大學", "ami": "daykako", "source": "新版萌典", "note": "日語借詞" },
+    { "zh": "獅子", "ami": "layong", "source": "萌典", "note": "獅城可作 niyaroʼ no layong" },
+    { "zh": "花園", "ami": "sahanaan", "source": "萌典", "note": "花園/花圃" },
+    { "zh": "綠化", "ami": "makofakof", "source": "萌典", "note": "茂盛/繁茂" },
+    { "zh": "港口", "ami": "pataminaan", "alt": "minato", "source": "萌典", "note": "native pataminaan;minato 為日語借詞" },
+    { "zh": "機場", "ami": "pahikokian", "source": "新版萌典", "note": "hikoki=飛機(借詞)" }
+  ],
+  "_candidates_note": "candidates 為萌典查證之候選詞,非老師確認;供翻譯時以【中文→候選?】標記建議,經老師確認後才升為 terms。",
   "avoid": [
     {
       "ami": "ceng fo",

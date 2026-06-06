@@ -128,6 +128,18 @@ body {
 .d-ctrl .d-accept:hover { background: #e7f6ec; }
 .d-ctrl .d-reject { color: #c0392b; border-color: #f0c8c2; }
 .d-ctrl .d-reject:hover { background: #fdecea; }
+
+/* 逐句對照（一行中文一行族語） */
+.pair-legend { font-size: 0.72rem; color: #999; margin-bottom: 10px; font-weight: 700; }
+.sent-pair { margin-bottom: 12px; border-left: 3px solid #e8f0e8; padding-left: 10px; }
+.sp-zh { font-size: 0.9rem; color: #333; line-height: 1.7; background: #fafafa; border-radius: 6px 6px 0 0; padding: 8px 10px; }
+.sp-ami {
+  width: 100%; border: 1px solid #cfe0cf; border-top: none; border-radius: 0 0 6px 6px;
+  padding: 8px 10px; font-size: 0.9rem; font-family: inherit; line-height: 1.7;
+  resize: vertical; outline: none; color: #1a472a; box-sizing: border-box;
+}
+.sp-ami:focus { border-color: #1a472a; background: #f7fbf7; }
+
 .section-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 @media (max-width: 700px) { .section-grid { grid-template-columns: 1fr; } }
 .col-label { font-size: 0.78rem; font-weight: 700; color: #888; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }

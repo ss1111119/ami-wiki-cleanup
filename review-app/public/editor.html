@@ -190,10 +190,29 @@
       st.current = newOps.filter(o => o.t !== 'del').map(o => o.s).join('');
     }
 
+    // 句子切分:中文以「。」、阿美語以句末標點切
+    const splitZh = (t) => (t || '').split('。').map((x) => x.trim()).filter(Boolean).map((x) => x + '。');
+    const splitAmi = (t) => (t || '').split(/(?<=[.。])\s+/).map((x) => x.trim()).filter(Boolean);
+
+    // 逐句對照:一行中文一行族語(族語可編輯)
+    function renderPairs(sectionId) {
+      const st = sectionState.get(sectionId);
+      const zh = splitZh(st.zh), ami = splitAmi(st.current);
+      const n = Math.max(zh.length, ami.length);
+      let html = '<div class="pair-legend">一行中文、一行族語，逐句對照。修改下方族語會自動更新。</div>';
+      for (let i = 0; i < n; i++) {
+        html += `<div class="sent-pair">
+          <div class="sp-zh">${escHtml(zh[i] || '—')}</div>
+          <textarea class="sp-ami" data-idx="${i}" rows="2">${escHtml(ami[i] || '')}</textarea>
+        </div>`;
+      }
+      return html;
+    }
+
     function buildSectionEl(sectionId, s) {
       const current = s.ami_reviewed || s.ami_ai || '';
       const baseline = (s.ami_baseline != null && s.ami_baseline !== '') ? s.ami_baseline : current;
-      sectionState.set(sectionId, { baseline, current });
+      sectionState.set(sectionId, { baseline, current, zh: s.zh_text || '' });
 
       const div = document.createElement('div');
       div.className = 'section-block';
@@ -203,6 +222,7 @@
           <span>${escHtml(s.title || '段落')}</span>
           <span class="mode-toggle">
             <button type="button" data-mode="edit" class="active">✏️ 編輯</button>
+            <button type="button" data-mode="pair">📑 逐句對照</button>
             <button type="button" data-mode="review">👁 修訂檢視</button>
           </span>
         </div>
@@ -216,6 +236,7 @@
             <div class="ami-edit-pane">
               <textarea class="ami-textarea" data-field="ami_reviewed" rows="6">${escHtml(current)}</textarea>
             </div>
+            <div class="ami-pair-pane" style="display:none"></div>
             <div class="ami-review-pane" style="display:none">
               <div class="diff-view"></div>
             </div>
@@ -246,16 +267,20 @@
         const mode = modeBtn.dataset.mode;
         block.querySelectorAll('.mode-toggle button').forEach(b => b.classList.toggle('active', b === modeBtn));
         const editPane = block.querySelector('.ami-edit-pane');
+        const pairPane = block.querySelector('.ami-pair-pane');
         const reviewPane = block.querySelector('.ami-review-pane');
         const ta = block.querySelector('.ami-textarea');
+        // 離開任何模式前，先把目前內容同步進 state.current
+        if (editPane.style.display !== 'none') sectionState.get(sectionId).current = ta.value;
+        editPane.style.display = 'none'; pairPane.style.display = 'none'; reviewPane.style.display = 'none';
         if (mode === 'review') {
-          sectionState.get(sectionId).current = ta.value;
           block.querySelector('.diff-view').innerHTML = renderDiff(sectionId);
-          editPane.style.display = 'none';
           reviewPane.style.display = 'block';
+        } else if (mode === 'pair') {
+          pairPane.innerHTML = renderPairs(sectionId);
+          pairPane.style.display = 'block';
         } else {
           ta.value = sectionState.get(sectionId).current;
-          reviewPane.style.display = 'none';
           editPane.style.display = 'block';
         }
         return;
@@ -267,6 +292,18 @@
         block.querySelector('.diff-view').innerHTML = renderDiff(sectionId);
         block.querySelector('.ami-textarea').value = sectionState.get(sectionId).current;
       }
+    });
+
+    // 逐句對照：編輯任一族語句 → 重組整段 → 同步回 state 與整段 textarea
+    document.getElementById('sectionsContainer').addEventListener('input', (e) => {
+      const sp = e.target.closest('.sp-ami');
+      if (!sp) return;
+      const block = e.target.closest('.section-block');
+      const sectionId = block.dataset.sectionId;
+      const joined = [...block.querySelectorAll('.sp-ami')].map(x => x.value.trim()).filter(Boolean).join(' ');
+      sectionState.get(sectionId).current = joined;
+      const ta = block.querySelector('.ami-textarea');
+      if (ta) ta.value = joined;
     });
 
     function renderVocab(vocab) {
