@@ -38,19 +38,24 @@
     ⚠️ <strong>數字請用阿拉伯數字：</strong>AI 常把數字（年份、面積、百分比等）拼成阿美語數詞，<u>且數值經常翻錯</u>（例：63 被拼成 16）。請對照中文原文，把數字改回正確的阿拉伯數字，如 <code>1819</code>、<code>735 sq km</code>、<code>90%</code>。
   </div>
 
-  <!-- 詞彙對照表（摺疊） -->
-  <div id="vocabPanel" class="vocab-panel" style="display:none">
-    <div class="vocab-header" onclick="document.getElementById('vocabBody').classList.toggle('hidden')">
-      📖 詞彙對照表（點擊展開／收合）
-      <span id="vocabToggle">▾</span>
-    </div>
-    <div id="vocabBody">
-      <div id="vocabContent" class="vocab-content">載入中...</div>
-    </div>
-  </div>
+  <!-- 編輯器主排版與搜尋邊欄 -->
+  <div class="editor-main-layout">
+    <div class="editor-content-area">
+      <!-- 詞彙對照表（摺疊） -->
+      <div id="vocabPanel" class="vocab-panel" style="display:none">
+        <div class="vocab-header" onclick="document.getElementById('vocabBody').classList.toggle('hidden')">
+          📖 詞彙對照表（點擊展開／收合）
+          <span id="vocabToggle">▾</span>
+        </div>
+        <div id="vocabBody">
+          <div id="vocabContent" class="vocab-content">載入中...</div>
+        </div>
+      </div>
 
-  <div id="sectionsContainer" class="sections-container">
-    <div class="loading">載入中...</div>
+      <div id="sectionsContainer" class="sections-container">
+        <div class="loading">載入中...</div>
+      </div>
+    </div>
   </div>
 
   <div class="save-bar">
@@ -112,12 +117,95 @@
       }
     }
 
+    // ── 逐詞追蹤修訂 ──
+    const sectionState = new Map(); // sectionId -> { baseline, current }
+
+    function tokenize(t) { return (t || '').match(/\s+|[^\s]+/g) || []; }
+
+    // 逐詞 LCS diff，回傳 ops 序列：{t:'eq'|'del'|'ins', s}
+    function diffOps(aStr, bStr) {
+      const a = tokenize(aStr), b = tokenize(bStr);
+      const n = a.length, m = b.length;
+      const dp = Array.from({ length: n + 1 }, () => new Int32Array(m + 1));
+      for (let i = n - 1; i >= 0; i--)
+        for (let j = m - 1; j >= 0; j--)
+          dp[i][j] = a[i] === b[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+      const ops = []; let i = 0, j = 0;
+      while (i < n && j < m) {
+        if (a[i] === b[j]) { ops.push({ t: 'eq', s: a[i] }); i++; j++; }
+        else if (dp[i + 1][j] >= dp[i][j + 1]) { ops.push({ t: 'del', s: a[i] }); i++; }
+        else { ops.push({ t: 'ins', s: b[j] }); j++; }
+      }
+      while (i < n) ops.push({ t: 'del', s: a[i++] });
+      while (j < m) ops.push({ t: 'ins', s: b[j++] });
+      return ops;
+    }
+
+    // 把 ops 分組：eq 為 context，連續 del/ins 為一個 change
+    function groupChanges(ops) {
+      const groups = []; let cur = null;
+      for (const op of ops) {
+        if (op.t === 'eq') { if (cur) { groups.push(cur); cur = null; } groups.push({ change: false, ops: [op] }); }
+        else { if (!cur) cur = { change: true, ops: [] }; cur.ops.push(op); }
+      }
+      if (cur) groups.push(cur);
+      return groups;
+    }
+
+    function renderDiff(sectionId) {
+      const st = sectionState.get(sectionId);
+      const groups = groupChanges(diffOps(st.baseline, st.current));
+      let ci = -1, body = '', hasChange = false;
+      for (const g of groups) {
+        if (!g.change) { body += `<span class="d-eq">${escHtml(g.ops.map(o => o.s).join(''))}</span>`; continue; }
+        hasChange = true; ci++;
+        const del = g.ops.filter(o => o.t === 'del').map(o => o.s).join('');
+        const ins = g.ops.filter(o => o.t === 'ins').map(o => o.s).join('');
+        body += `<span class="d-change" data-ci="${ci}">`;
+        if (del) body += `<del class="d-del">${escHtml(del)}</del>`;
+        if (ins) body += `<ins class="d-ins">${escHtml(ins)}</ins>`;
+        body += `<span class="d-ctrl"><button type="button" class="d-accept" data-ci="${ci}" title="接受此修改">✓</button><button type="button" class="d-reject" data-ci="${ci}" title="拒絕、還原底稿">✗</button></span></span>`;
+      }
+      const head = hasChange
+        ? `<div class="d-legend"><del>底稿刪除</del> <ins>老師新增</ins>　每處可 ✓接受／✗拒絕</div>`
+        : `<div class="d-legend d-nochange">尚無修訂（與底稿相同）。切到「編輯」修改後，這裡會顯示改了什麼。</div>`;
+      return head + body;
+    }
+
+    // 接受=採用老師版（current）；拒絕=還原底稿（baseline）
+    function resolveChange(sectionId, ci, accept) {
+      const st = sectionState.get(sectionId);
+      const groups = groupChanges(diffOps(st.baseline, st.current));
+      let idx = -1; const newOps = [];
+      for (const g of groups) {
+        if (!g.change) { newOps.push(...g.ops); continue; }
+        idx++;
+        if (idx !== ci) { newOps.push(...g.ops); continue; }
+        for (const op of g.ops) {
+          if (accept) { if (op.t === 'ins') newOps.push({ t: 'eq', s: op.s }); }
+          else { if (op.t === 'del') newOps.push({ t: 'eq', s: op.s }); }
+        }
+      }
+      st.baseline = newOps.filter(o => o.t !== 'ins').map(o => o.s).join('');
+      st.current = newOps.filter(o => o.t !== 'del').map(o => o.s).join('');
+    }
+
     function buildSectionEl(sectionId, s) {
+      const current = s.ami_reviewed || s.ami_ai || '';
+      const baseline = (s.ami_baseline != null && s.ami_baseline !== '') ? s.ami_baseline : current;
+      sectionState.set(sectionId, { baseline, current });
+
       const div = document.createElement('div');
       div.className = 'section-block';
       div.dataset.sectionId = sectionId;
       div.innerHTML = `
-        <div class="section-title">${s.title || '段落'}</div>
+        <div class="section-title">
+          <span>${escHtml(s.title || '段落')}</span>
+          <span class="mode-toggle">
+            <button type="button" data-mode="edit" class="active">✏️ 編輯</button>
+            <button type="button" data-mode="review">👁 修訂檢視</button>
+          </span>
+        </div>
         <div class="section-grid">
           <div class="col-zh">
             <div class="col-label">中文原文</div>
@@ -125,7 +213,12 @@
           </div>
           <div class="col-ami">
             <div class="col-label">阿美語翻譯（可直接修改）</div>
-            <textarea class="ami-textarea" data-field="ami_reviewed" rows="6">${escHtml(s.ami_reviewed || s.ami_ai || '')}</textarea>
+            <div class="ami-edit-pane">
+              <textarea class="ami-textarea" data-field="ami_reviewed" rows="6">${escHtml(current)}</textarea>
+            </div>
+            <div class="ami-review-pane" style="display:none">
+              <div class="diff-view"></div>
+            </div>
             <div class="col-label" style="margin-top:10px">校對備註</div>
             <textarea class="note-textarea" data-field="comments" rows="2" placeholder="記錄修改原因或不確定之處…">${escHtml(s.comments || '')}</textarea>
           </div>
@@ -137,8 +230,44 @@
           </details>
         </div>
       `;
+      const ta = div.querySelector('.ami-textarea');
+      ta.addEventListener('input', () => { sectionState.get(sectionId).current = ta.value; });
       return div;
     }
+
+    // 委派處理：模式切換 + 接受/拒絕
+    document.getElementById('sectionsContainer').addEventListener('click', (e) => {
+      const block = e.target.closest('.section-block');
+      if (!block) return;
+      const sectionId = block.dataset.sectionId;
+
+      const modeBtn = e.target.closest('.mode-toggle button');
+      if (modeBtn) {
+        const mode = modeBtn.dataset.mode;
+        block.querySelectorAll('.mode-toggle button').forEach(b => b.classList.toggle('active', b === modeBtn));
+        const editPane = block.querySelector('.ami-edit-pane');
+        const reviewPane = block.querySelector('.ami-review-pane');
+        const ta = block.querySelector('.ami-textarea');
+        if (mode === 'review') {
+          sectionState.get(sectionId).current = ta.value;
+          block.querySelector('.diff-view').innerHTML = renderDiff(sectionId);
+          editPane.style.display = 'none';
+          reviewPane.style.display = 'block';
+        } else {
+          ta.value = sectionState.get(sectionId).current;
+          reviewPane.style.display = 'none';
+          editPane.style.display = 'block';
+        }
+        return;
+      }
+
+      const btn = e.target.closest('.d-accept, .d-reject');
+      if (btn) {
+        resolveChange(sectionId, parseInt(btn.dataset.ci, 10), btn.classList.contains('d-accept'));
+        block.querySelector('.diff-view').innerHTML = renderDiff(sectionId);
+        block.querySelector('.ami-textarea').value = sectionState.get(sectionId).current;
+      }
+    });
 
     function renderVocab(vocab) {
       const statusMap = {
@@ -203,11 +332,15 @@
         const promises = [];
         blocks.forEach(block => {
           const sectionId = block.dataset.sectionId;
-          const amiText = block.querySelector('[data-field="ami_reviewed"]').value;
+          const st = sectionState.get(sectionId);
+          // 編輯模式時以 textarea 最新值為準
+          if (block.querySelector('.ami-edit-pane').style.display !== 'none') {
+            st.current = block.querySelector('.ami-textarea').value;
+          }
           const comments = block.querySelector('[data-field="comments"]').value;
           promises.push(updateDoc(
             doc(db, 'translations', articleId, 'sections', sectionId),
-            { ami_reviewed: amiText, comments, reviewed_by: currentUser.email, reviewed_at: serverTimestamp() }
+            { ami_reviewed: st.current, ami_baseline: st.baseline, comments, reviewed_by: currentUser.email, reviewed_at: serverTimestamp() }
           ));
         });
         await Promise.all(promises);

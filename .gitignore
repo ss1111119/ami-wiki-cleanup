@@ -20,3 +20,12 @@ glossary/edit-candidates.json
 200族語e樂園/**/*.jpg
 200族語e樂園/**/*.png
 200族語e樂園/**/desktop.ini
+
+# 新版萌典 DB 備份（141MB,二進位,可另存;只用不入庫）
+amis-moedict-new-db-backup/
+
+# 編輯器/代理工具本機設定夾
+.agents/
+.antigravitycli/
+.claude/
+**/desktop.ini

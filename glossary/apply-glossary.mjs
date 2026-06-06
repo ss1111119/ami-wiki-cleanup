@@ -72,7 +72,11 @@ export function applyGlossary(text, glossary) {
     applied.push(`[數字規範] 偵測到拼音數字: ${detectedNumWords.join(', ')}。請確認是否需轉換為阿拉伯數字（如 10 ko mihecaan）。`);
   }
 
-  return { processed, applied };
+  // 4. 殘留中文標記檢查（「查無標中文」規則之發布守門）
+  // 偵測 【...】 形式的中文佔位標記；發布前必須由老師填譯清除。
+  const placeholders = [...processed.matchAll(/【[^】]*】/g)].map((m) => m[0]);
+
+  return { processed, applied, placeholders };
 }
 
 // Execution block if run directly
@@ -82,12 +86,15 @@ const isMain = process.argv[1] && fs.realpathSync(process.argv[1]) === fs.realpa
 
 if (isMain) {
   const args = process.argv.slice(2);
-  if (args.length === 0) {
-    console.log('Usage: node glossary/apply-glossary.mjs "<text_or_filepath>"');
+  const publishCheck = args.includes('--publish-check');
+  const positional = args.filter((a) => !a.startsWith('--'));
+  if (positional.length === 0) {
+    console.log('Usage: node glossary/apply-glossary.mjs "<text_or_filepath>" [--publish-check]');
+    console.log('  --publish-check: 若殘留【中文標記】則以非 0 結束（發布守門）');
     process.exit(0);
   }
 
-  let input = args[0];
+  let input = positional[0];
   // Check if it is a file path
   if (fs.existsSync(input)) {
     input = fs.readFileSync(input, 'utf8');
@@ -115,6 +122,19 @@ if (isMain) {
       result.applied.forEach(item => {
         console.log(`  ✓ ${item}`);
       });
+    }
+
+    // 殘留中文標記檢查（發布守門）
+    console.log('\n--- 殘留中文標記檢查（查無標中文）---');
+    if (result.placeholders.length === 0) {
+      console.log('  ✓ 無殘留【中文標記】，符合發布條件。');
+    } else {
+      console.log(`  ⚠️ 殘留 ${result.placeholders.length} 個中文標記，發布前須由老師填譯清除：`);
+      result.placeholders.forEach((p) => console.log(`     ${p}`));
+      if (publishCheck) {
+        console.log('  ✗ --publish-check：因殘留中文標記，判定「不可發布」。');
+        process.exit(2);
+      }
     }
     console.log();
 
