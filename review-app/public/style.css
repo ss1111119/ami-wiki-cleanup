@@ -142,6 +142,10 @@ body {
 
 .section-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 @media (max-width: 700px) { .section-grid { grid-template-columns: 1fr; } }
+/* 隱藏中文原文:阿美語編輯區佔滿整行 */
+body.hide-zh .col-zh { display: none; }
+body.hide-zh .section-grid { grid-template-columns: 1fr; }
+body.hide-zh .ami-textarea { min-height: 220px; }
 .col-label { font-size: 0.78rem; font-weight: 700; color: #888; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
 .zh-text { font-size: 0.9rem; color: #333; line-height: 1.8; background: #fafafa; border-radius: 6px; padding: 12px; min-height: 120px; }
 .ami-textarea, .note-textarea {

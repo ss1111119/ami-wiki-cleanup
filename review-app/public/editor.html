@@ -22,6 +22,7 @@
       <a id="zhWikiLink" href="#" target="_blank" class="wiki-link">中文維基 ↗</a>
     </div>
     <div class="status-control">
+      <button id="toggleZhBtn" class="btn-sm" type="button">隱藏中文原文</button>
       狀態：
       <select id="statusSelect">
         <option value="pending">待校對</option>
@@ -347,6 +348,12 @@
 
     document.getElementById('saveAllBtn').addEventListener('click', saveAll);
     document.getElementById('statusSelect').addEventListener('change', saveStatus);
+
+    // 隱藏/顯示中文原文(隱藏後阿美語編輯區佔滿整行)
+    document.getElementById('toggleZhBtn').addEventListener('click', (e) => {
+      const hidden = document.body.classList.toggle('hide-zh');
+      e.target.textContent = hidden ? '顯示中文原文' : '隱藏中文原文';
+    });
 
     async function saveStatus() {
       try {
