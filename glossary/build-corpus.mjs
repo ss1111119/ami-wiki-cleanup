@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { DatabaseSync } from 'node:sqlite';
 
 // 1. Core utility functions
 export function cleanAmisText(text) {
@@ -295,37 +296,30 @@ if (isMain) {
       }
     }
 
-    // C. Parse Moedict JSON
-    const dictDir = path.join(rootDir, 'dict');
-    const moedictFiles = ['dict-amis-safolu.json', 'dict-amis.json'];
-    for (const filename of moedictFiles) {
-      const filePath = path.join(dictDir, filename);
-      if (fs.existsSync(filePath)) {
-        console.log(`Parsing dictionary file: ${filename}...`);
-        const entries = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-        
-        for (const entry of entries) {
-          if (!entry.heteronyms) continue;
-          for (const het of entry.heteronyms) {
-            if (!het.definitions) continue;
-            for (const def of het.definitions) {
-              if (!def.example) continue;
-              for (const ex of def.example) {
-                const parsed = parseMoeDictExample(ex);
-                if (parsed && parsed.amis && parsed.chinese) {
-                  addRecord({
-                    amis: parsed.amis,
-                    chinese: parsed.chinese,
-                    source: 'moedict',
-                    license: 'CC0',
-                    dialect: '秀姑巒'
-                  });
-                }
-              }
-            }
-          }
+    // C. Parse Moedict 例句 —— 改讀新版萌典 SQLite DB(~84k 例句,11 部辭典,優於舊 g0v JSON 的 32k)
+    const moedictDb = path.join(rootDir, 'amis-moedict-new-db-backup', 'amis-moedict-202512.sqlite3');
+    if (fs.existsSync(moedictDb)) {
+      console.log('Parsing Moedict examples from SQLite DB...');
+      const mdb = new DatabaseSync(moedictDb, { readOnly: true });
+      const rows = mdb.prepare(`
+        SELECT e.content_amis AS amis, e.content_zh AS zh, di.dialect AS dialect
+        FROM examples e
+        JOIN descriptions d ON d.id = e.description_id
+        JOIN terms t ON t.id = d.term_id
+        JOIN dictionaries di ON di.id = t.dictionary_id
+        WHERE e.content_amis <> '' AND e.content_zh <> ''
+      `).all();
+      for (const r of rows) {
+        // content_amis 含 ` 與 ~ 標記;清掉即得族語
+        const amis = (r.amis || '').replace(/[`~]/g, '').trim();
+        const chinese = (r.zh || '').trim();
+        if (amis && chinese) {
+          addRecord({ amis, chinese, source: 'moedict', license: 'CC0', dialect: r.dialect || '通用' });
         }
       }
+      mdb.close();
+    } else {
+      console.warn('⚠️ 找不到新版萌典 SQLite,跳過萌典例句');
     }
 
     // D. Validation
