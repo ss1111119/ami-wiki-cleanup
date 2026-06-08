@@ -161,10 +161,15 @@ if (isMain) {
     // Stats trackers
     const statsBySource = {};
     const statsByDialect = {};
+    const seen = new Set(); // 去重:同一組(族語+中文)只留首次出現(先加入者優先)
+    const dedupKey = (a, c) => (a || '').replace(/[`~\s'ʼ’.,!?。，！？]/g, '').toLowerCase() + '|' + (c || '').replace(/\s/g, '');
 
     function addRecord(record) {
       if (!record.amis || !record.chinese) return;
-      
+      const k = dedupKey(record.amis, record.chinese);
+      if (seen.has(k)) return;
+      seen.add(k);
+
       corpus.push(record);
 
       // Increment stats
@@ -320,6 +325,27 @@ if (isMain) {
       mdb.close();
     } else {
       console.warn('⚠️ 找不到新版萌典 SQLite,跳過萌典例句');
+    }
+
+    // C2. g0v 萌典 JSON —— 補上 SQLite(2025/12)沒有的較新例句(g0v github 約 2026/6,約 8% 獨有)
+    const g0vDir = path.join(rootDir, 'dict');
+    for (const filename of ['dict-amis-safolu.json', 'dict-amis.json']) {
+      const fp = path.join(g0vDir, filename);
+      if (!fs.existsSync(fp)) continue;
+      const entries = JSON.parse(fs.readFileSync(fp, 'utf8'));
+      for (const entry of entries) {
+        for (const het of (entry.heteronyms || [])) {
+          for (const def of (het.definitions || [])) {
+            for (const ex of (def.example || [])) {
+              const parsed = parseMoeDictExample(ex);
+              if (parsed && parsed.amis && parsed.chinese) {
+                // 去重會自動擋掉與 SQLite 重複的(~92%),只補進 g0v 獨有的
+                addRecord({ amis: parsed.amis, chinese: parsed.chinese, source: 'moedict-g0v', license: 'CC0', dialect: '通用' });
+              }
+            }
+          }
+        }
+      }
     }
 
     // D. Validation
