@@ -1,0 +1,1652 @@
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "有很多事叫我心身疲乏。", "output": "Adihay ko karorayan no faloco' ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我先走。", "output": "Ilasol kako a minokay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的孩子正在努力地學習。", "output": "Misa'icelay ko wawa niyam a mitilid."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我幫廚師切菜。", "output": "Mipadang kako to misacacakay micikcik to dateng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們中午要吃的飯和肉煮熟了。", "output": "Misacacakan ko sakalahok niyam a titi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapinapnapaw no tadakolongay to rengos.", "output": "黃牛想啃草。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我沒有浪費時間的想法。", "output": "Awaay ko sapilaosedaw ako to romi'ad."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makonacay ko fanges noya waco.", "output": "那隻狗的皮毛光禿禿的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把青年人召集起來，我們就要出發了！", "output": "Sakakoyolen ko kapah lalomuwad to kita !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這個山坡不好犁，我們特地使用鋤頭挖好了。", "output": "Ca kanga'ay a kangkangen kona 'apilis,pitawhan ita nga'ay to."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "到春節那天晚上，我們一整夜地玩耍，通宵達旦不睡覺。", "output": "Ano pafilongan toya dadaya, salafiisa a misalama,pakelatsa to lafii cowa kafuti'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個人怎麼踢我呢？", "output": "Cokar sa kola tamdaw takowanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "karifateng", "output": "蜘蛛網。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cacoroken a miliso'.", "output": "要輪流拜訪的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "媽媽在芥菜裡放鹽。", "output": "Micilahay ciina to kolang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mamaanay iro tomangic cingra?", "output": "他到底為什麼哭了？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "打仗的青年。", "output": "Milooday a kapah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這根松木準備做橫樑。", "output": "Hafalat koni a caleng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micengaway ko wawa ako to mata.", "output": "我的孩子睜開眼睛了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiporotaw ira tora walay.", "output": "他想掐斷那根線。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給菜放醬油的工具。", "output": "Sapipatawyo to dateng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "依靠丈夫。", "output": "Micangray to fainay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko mipaso'elinan iso saw?", "output": "你相信什麼？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她舞跳得很柔。", "output": "Lomaingay ko kero ningra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O cima ko ma^edengay a tadi'ecan iso anini?", "output": "你現在能夠依靠誰？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "款待客人。", "output": "Paholol to lafang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "蜘蛛是用腳爬行嗎。", "output": "O o'o ko sapilalad no falalotongay han?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "翻動小米用的(器具)。", "output": "Sapiwadwad to lamlo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "叫人去擦你的椅子。", "output": "Mipapisifin to 'axenan iso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "誰感謝你呢！", "output": "O cima ko mikansiyaay kisowanan saw!"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "一個人。", "output": "Cecay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "在大衣上釘紐扣。", "output": "Misakofit i kiping."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mangotaay ko 'alo.", "output": "河水渾濁起來了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把土填上去弄平了。", "output": "Selenen ningra ko sera a miropay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tifeken i kamamit ko 'icep ni mamo.", "output": "在鐵罐上弄碎阿嬤的檳榔。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在裝大米。", "output": "Miparoay cinira to felac."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifila'ay a tamdaw.", "output": "摘荖葉的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你淋雨耕作的田在哪裡呢？", "output": "I sakacowaay ko miki'oradan iso a maomah saw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "磨刀師傅。", "output": "Mirenacay a sayxo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "亂放東西。", "output": "Milaklak to maamaan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Paofinen ako kiso to tilid anini.", "output": "我今天給你寄書。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Omipatafakan ako a lafang.", "output": "我請抽煙的客人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cofelisen ko patayniay to dateng.", "output": "向送菜來的人回禮道謝。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們要同情貧窮人。", "output": "Kasina'ada ko namo to pakoyoc a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "a tamdaw.", "output": "Tahalitengay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tahalitengay", "output": "a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子想剝開貝殼。", "output": "Sapifecirakaw no wawa to tolak no cekiw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我摘的是熟木瓜。", "output": "Marohemay ko mikowa'an ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko sapihomong namo?", "output": "你們捕撈海參用什麼工具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "大鍋裡的水沸騰了。", "output": "Marokrokay ko nanom i dadangahan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Enengen sahalamhamsa cinira to sapikalicaw to tamina.", "output": "看他坐船的願望是那樣迫切。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micongdis ko lotong pasitini i takowanan a patalaw.", "output": "猴子向我露出獠牙嚇我。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我閉上眼睛。", "output": "Mifotek kako to mata."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "半袋麥子。", "output": "Mafataday a lofoc a ^emi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasaso'oten ko waco.", "output": "把狗拴住。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cikasi'elac a tamdaw.", "output": "好色之徒。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小姐送回家八次了。", "output": "Sakinafalo ko kaying a nipanokay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matefingay iso ko doka' ako.", "output": "我的傷口被你碰著了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "a misalama.", "output": "Nanay ira kiso tayni."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Nanay ira kiso tayni.", "output": "a misalama."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "哥哥想剁牛肉。", "output": "Sapisetekaw no kaka to titi no kolong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他要侵佔他人土地。", "output": "Micalap cingra to omah no tao."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "天空一片漆黑。", "output": "Sato^mansa ko kakarayan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko sapidangoy namo?", "output": "你們游泳用什麼工具？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko sapisaodo' iso saw?", "output": "你用什麼做珠寶呢？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milikowatay kami to pimalian.", "output": "我們在測量球場。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他嗜煙。", "output": "Ma^efid cingra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "守衛的人。", "output": "Midipangay a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiteno'aw ako to picemed ira.", "output": "我想阻止他進去。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikerah to nanom.", "output": "把水弄乾涸。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapihoka' to faloco'.", "output": "放鬆心情的方式。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "當時呀，風大，浪高。", "output": "Oyahan fali ta'angy , oyahan tapelik 'akawang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "熊撲抓狐貍。", "output": "Kakorarohen no tomay ko koyo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "因站太久了所以腳都發酸。", "output": "Halafin tato ko katomileng saka fiyal saan ko o'o'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cima ko mipadi'oay to safa iso?", "output": "是誰逗你的弟弟？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我媽媽正在切蘿蔔。", "output": "Micikcik to saitaw ci ina ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "美國想攻打阿富汗。", "output": "Sapiloodaw no Amirika to Afohan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "沾芥茉。", "output": "O wasapi ko cacino'en."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "kaka^mangan", "output": "少年時代。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "部落規範被遵守。", "output": "Mado^edoay ko likec no niyaro."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們老師穿新鞋。", "output": "Fa'loh ko cukap no singsi niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kalamkam cingra a dademak.", "output": "他工作勤快。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihomongan niyam toya riyal.", "output": "我們在那個海裡捕撈過海參。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "anocima sa kako!", "output": "Ya！ widang！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ya！ widang！", "output": "anocima sa kako!"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我家後面有龍眼園子。", "output": "Iraay ko sakingkingan i aikoran no loma' ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "準備做陶器的黏土調好了。", "output": "Misadita'an ko hasaatomo a dita'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "醫生要把我的背按摩一下。", "output": "Mi'emi'en no ising ko kolol ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miharatengay kako to sapili'ay niyam.", "output": "我在思考我們和解的方式。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pateratera'han naira koya remes i lalan.", "output": "他們特地把血滴灑一路。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ira i talo'an ko hahakafuti'an haw?", "output": "工寮有地方睡嗎？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakatawaen i kaikoran no tokos.", "output": "在山後種植蓖麻。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Aka palatohen kako.", "output": "不要我訴說。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tareden ko kawil no pitaw.", "output": "給鋤頭把兒嵌入楔子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mahalhal ita taha anini a romi'ad.", "output": "我們期盼來今天的日子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Iraay ko 'a'adopen i demedmetan.", "output": "叢林裡有野獸。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tata'ang ko Cowing to masalilay ako.", "output": "我網到大條的鯉魚。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipatengilan a kimad.", "output": "所聽到的故事。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們要攻戰敵人。", "output": "O ada ko lala'isen ita."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們所款待的人。", "output": "Mihololan naira a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們在此摔倒 .", "output": "Itiniay ko kapolinan niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Itiniay ko kapolinan niyam.", "output": "我們在此摔倒 ."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matatikedaay cangra Taypak.", "output": "他們在台北相遇了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matayalay ko singsi niyam, aka caraen cingra!", "output": "我們的老師很忙，請不要打擾他！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們沒什麼深交。", "output": "Caay ka kakafana' kami."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caay ka kakafana' kami.", "output": "我們沒什麼深交。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "放書。", "output": "Pateli to tilid."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maherekay to nafiroan to inacila.", "output": "終於做完了昨天苦幹的工作。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的事情決斷了。", "output": "Mipasetekan ko dademak niyam."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你衣服有膠水。", "output": "Ira ko da'eteng i riko' iso."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Talahenotay a paliding.", "output": "陷入泥沼的車子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikaloloan a makaditay fokes.", "output": "她洗髒的頭髮。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caka nga'ay a mainget ko mala fakiay.", "output": "當叔叔的不可生氣。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們參加了他們的組織活動。", "output": "Makihatiyaay kami toya kapot nangra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "卜卦用的麻雀。", "output": "Sapisifat a facacili."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikangkang toni a omah.", "output": "犁耕這塊田地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我派那些青年去侵佔獵場了。", "output": "Mipapipecohay kako tora kapah to pi'adopan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "/soni no rarohod a matngil.", "output": "Alafengfengsa to i kemod no ufang ko honi"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Alafengfengsa to i kemod no ufang ko honi", "output": "/soni no rarohod a matngil."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是他朝著屋裡看的。", "output": "Cinira ko mipasilaloma'ay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的朋友被人招待了。", "output": "Mapapiholoay ko widang iso."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapapiholoay ko widang iso.", "output": "你的朋友被人招待了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我太太體壯。", "output": "Ki'emer ko tireng no fafahi ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "挖水溝。", "output": "Mikarkar to kali."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她想扔掉爛菜。", "output": "Sapifalahaw ira to maponi'ay a dateng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他用彈弓射鳥。", "output": "O pacingko ko sapiketeng ningra to 'ayam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipakalawac to 'axenan.", "output": "放在椅子邊邊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在教唆我去駡別人了。", "output": "Mipakalatay cinira takowanan to tao."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'aca to kiradom hasapariko' to wawa.", "output": "買布準備給孩子做衣服。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你認識他嗎?", "output": "Mafana' kiso cingraan han?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "借農具。", "output": "Micaliw to sakamaomah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "搶食物用的器具。", "output": "Sapipasolit to kakaenen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipalakecaw naira ci Latengan.", "output": "他們想引渡 Lateng(拉丹)。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "午後(指下午3~4小時)。", "output": "Piliyawan no cidal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Lekairair ko dafong nangra.", "output": "他們應有盡有。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mameriay no lokedaw ko takolil.", "output": "兔子被豹子一口吞下去了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipalokiyolan ko koliciw ira a pasikawili.", "output": "他的自行車向左拐彎了。。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "轉彎的車子。", "output": "Mipalokiyolan a paliding."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikeric ko nanom to sera.", "output": "水沖刷土地。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kamay ko sapilitod niyam to poni no panay.", "output": "我們用手摘稻穗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "海水蕩漾。", "output": "Cowaco' ko nanom i riyal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipaorayay kako ciniraan.", "output": "我給他被褥了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikoyod to sawfan ko 'alomanay a kapah tayra i roma a niyaro' a maomah.", "output": "許多小夥子帶被子去別的村子勞動。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "山羊拴在那裡了。", "output": "Mapaketingay ko siri itira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Idahi to mamang ko mako to na Poraw.", "output": "生產的結果我的收益稍好。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我父親在採集箭筍。", "output": "Midah'eciay ko wama ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給我們分配食物的是爺爺。", "output": "O faki ko mikilacay to kakaenan niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tado mowadsa cinira a mapawpaw.", "output": "他突然拱出水面漂浮起來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisetok to tosiya.", "output": "剎車用的(器具)。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "請相信我的話！", "output": "Paso'elinen ko sowal ako !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你要讓瞎子的眼睛睜開！", "output": "O papacengawen iso ko mata no mapohaway !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misairairayan niyam.", "output": "我們曾經虛張聲勢。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko misairairayan iso saw?", "output": "你自誇驕傲什麼呢？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pikeden ko 'iric !", "output": "把鐵絲彎曲下來！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Aadadaay ko tiyad ningra.", "output": "他肚子在痛了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "分配肉食。", "output": "Mipalilam to titi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miforac to wadis.", "output": "刷牙。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'intel to 'ada.", "output": "仇視敵人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O paro no niyam 'i mamoetep ko tamdaw.", "output": "我們全家呢，有十口人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "頂在頭上的籃子。", "output": "Mipaifongohan a cayna."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把苧麻割了。", "output": "Keleten ko keliw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kitenok a misa'osi.", "output": "從中間算。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipalalan ko finaolan.", "output": "鄉親們要修路。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'ikayan a toron.", "output": "做成塊狀的糯米糕。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用糯米飯把那個孩子的嘴堵住。", "output": "Pamo'eden to hemay ko ngoyos na kaemangay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maharek a mikangkang, helongen ko kangkang.", "output": "地犁好了，把犁卸下來吧。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "馬蹄鐵。", "output": "Marad no sakecoh."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Patelechan ira to mitinooyan a farohefohay.", "output": "他特地圍上用毛線紡織的腰布。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipananomaw ako to omah.", "output": "我想灌田。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakikamay a kowang.", "output": "手槍。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要丈量的田地。", "output": "Lalalaten a omah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "牛是啃草地的。", "output": "O kolong ko mingetngetay to rengos."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們要唾棄那個壞人。", "output": "Tatopida' en niyam kora tatiihay a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ira ko sapikoliyol niyam caniraan a lalan.", "output": "我們有繞過他們的路。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子想舔糖果。", "output": "Sapitinacaw no wawa to 'odax."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她想信任你。", "output": "sapipaso'linaw ira kisowanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mico'eco canira a micomod.", "output": "他們硬擠進來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'imeray a tamdaw.", "output": "謹守的人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O mipaconohan ira a tamdaw.", "output": "他所歸咎的人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipaconohay to cinira takowanan to raraw.", "output": "他在往我這裡推卸錯誤了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "馬跨過圍牆出去。", "output": "no efa kora 'adif a masadak."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O fafariwen a liomah.", "output": "要砍伐草木的土地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "煙斗放在石頭上。", "output": "Mateli i fafokelohan ko 'onto."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O sakasiwaay koni a pataminaan.", "output": "這是第九個渡船的碼頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "蟋蟀不叫了。", "output": "Tomerep to ko fatakinay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "被晾曬在外面的被褥。", "output": "Midahpayan i paputal a sawfan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O ci mama ko misa' oray to sioy.", "output": "是爸爸在煉製鐵鍋。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個部落是他們打算要復仇的對像。", "output": "Caco'ayen nangra koya niyaro'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "帆布當做屋頂用。", "output": "Hafadahongen ko ka^epa."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "-> mihelam。", "output": "helam"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "helam", "output": "-> mihelam。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他的家關著。", "output": "Ma^edefay ko loma' ningra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tahaniniay kako ca pakaaraw cingraan.", "output": "我直到今天沒見過他。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisaca^cakaw ira to epang.", "output": "她想烤麵包。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "sa ko harateng naira.", "output": "“Samaanen nga' ciwawa?”"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "“Samaanen nga' ciwawa?”", "output": "sa ko harateng naira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "所搬動的椅子。", "output": "Mi'isiran a 'axenan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "從新港可以瞭望蘭嶼。", "output": "Makecoray ko fotod nani singko."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我幫太太剪布料。", "output": "Patadoen ako ko fafahi a miciyol to kiradom."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakasakay ko siri to dateng.", "output": "羊在踐踏青菜了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misisitan ako ko 'oning no eto.", "output": "我把桌子上的污點擦掉了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Papinaay ko misa'alomanan namo a tamdaw?", "output": "你們增加多少人？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihenger to ofang no tangila.", "output": "在耳上穿孔。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "悄悄地說話。", "output": "Mihawhaw a somowal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "翻動家裡的東西。", "output": "Minikiw to dafong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們到約翰先生的家。", "output": "I loma' ni Hani ko kahicera ita."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這堆稻子將被牛撞倒。", "output": "Hahafetoden no kolong a taling no panay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子想做魚竿釣魚。", "output": "Sapisa'aliwacaw no wawa pa'aliwac to futing."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kafahalan a mi'neng.", "output": "看起來有陌生之感。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tahafikoday kako.", "output": "我絆倒了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micolo' to kakaenen.", "output": "運糧食。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "印製圈點花布。", "output": "Misapenopeno' to kiradom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給我照相。", "output": "Mipasasing takowanan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那位小姐的坐姿雙腳開開的很不雅觀。", "output": "Fecirak sa ko kamaro' noya kaying, caay ka sanengseng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Karafokeloh ko omah namo.", "output": "你們的田地很多石頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們每早常軟身。", "output": "Mararid cangra to dafakdafak a mikonayat to tireng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "“", "output": "Kesemsa ko mamo a milicay toya kaying :"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kesemsa ko mamo a milicay toya kaying :", "output": "“"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micelcel a micemod i tamdawdawan.", "output": "擠進人群裡。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Karafanohay a waco.", "output": "長毛狗，毛犬。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "大石被我們推開了。", "output": "Macekerohay niyam ko ta'angayay a fokeloh."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Temili'ay a kiping.", "output": "潔白的上衣。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想給那張桌櫃打捆。", "output": "Sapipatowasoaw ira tora cokoy."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "眼皮摺兒。", "output": "Keled no mata."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我爸當部落的顧問。", "output": "O komong no niyaro' ko wama ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Apapitanay ko nipalomaan a falisan anini a mihecaan.", "output": "今年種下的高粱結果累累。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要點上的火。", "output": "Tatotomen a namal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ko'edaway to miming ko misa'aliwalan iso.", "output": "你做的釣魚竿有點長。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我要通過什麼工具走近你們那裡？", "output": "O maan ko sapingata ako itira tamowanan?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "經過前面。", "output": "paka'ayaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko kanono'an iso saw !", "output": "這有什麼值得你炫耀的！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "橘子掉下來了。", "output": "Mafonolay ko mami'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他用手抓年糕(糯米糕)吃了。", "output": "Mikamayan ira ko toron a komaen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tikokay kowawa i tana a misalawa.", "output": "孩子要在毛毯上翻筋斗玩耍。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "攜帶行李的工具。", "output": "Sapihawikid to lalosidan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Adihay ko da'ci i palapalaan niyam.", "output": "我們園裡很多箭筍。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "編一團一團的毛線。", "output": "Misaporoporod to fodoy."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "波蘿蜜結果累累。", "output": "Karaheciay kona polomi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiofang to moco'.", "output": "給牆打洞的工具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Papisaolateken ira kami a komaen.", "output": "他叫我們誇大地吃。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "剜肉。", "output": "Mikiyor to titi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milingoday ko lalangaw to 'epang i kafekang no 'eto.", "output": "蒼蠅在簇擁著桌子上的麵包。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapatalaw no tatiihay kami.", "output": "我們被壞人恐嚇。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O cima ko mipaka'araway to lonan?", "output": "誰看見輪船了？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Paketingen ko calay i paliding.", "output": "將拉繩掛在牛車上。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hayhayen ko masengeray a sawfan.", "output": "把潮濕的棉被晾乾。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapafayang ko fadil.", "output": "竹筏掛上帆桅。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "自由自在、毫無拘束地想。", "output": "Pakoniyahen a miharateng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Awaay ko kakeli'en a fudawan i loma' niyam.", "output": "我家沒有要掉落的銅器。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caay ko mamafikaw konini a 'ric.", "output": "這鐵絲是無法灣曲的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "栽種稻子。", "output": "Mi'anip to panay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "野豬拱的是土。", "output": "O sera ko mimowadan no fafoy."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們每人拿三個饅頭準備做乾糧。", "output": "Alatolo kita a miala to manto a hatafo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "香煙的煙兒。", "output": "'Acefol no tamako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "奧運的消息傳開了。", "output": "Mipatenakan ko Olimpik a demak."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們憑借什麼繼續呢？", "output": "O maan ko sapipararocok namo?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ciromaay ko faloco'.", "output": "偏心。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "送朋友。", "output": "Misera to widang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她贈送我們小米飯團當午餐。", "output": "Patafoen ira kami to lamlo sakalahok."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他那些話聽起來叫人感到可笑。", "output": "Masakatawaan koya sowal ningra a tengilen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mangodo to a somowal.", "output": "不好意思說了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ora mipaketemay to 'okak a waco.", "output": "那隻咬斷骨頭的狗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "人工造雨的設備。", "output": "Misa'oraday a kikay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "開水燙傷了我。", "output": "Micedetay ko fadisaw takowanan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把突出來的拔掉。", "output": "Fangaden ko hafed."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O tatororen kora kasoy.", "output": "要把那些木柴添上去。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那位小姐在打量你。", "output": "Mihapinangay kora kaying kisowanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tayniay ko lafang.", "output": "客人來了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makaraay ko pananoman a ma^emin.", "output": "水田都耙平了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitongih to lingko.", "output": "咬一下塊蘋果的方式。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個小伙子要在湖裡划船。", "output": "Sakadoten nora kapah ko tamina i fafanawan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipalitaay kako tora 'a'adopen ira.", "output": "我在辨認他獵獲的野獸。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Manga'ay a sapakaen to diyong ko koliya'.", "output": "麻繩菜可以餵豬。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "因為我是祭司，所以有責任主祭。", "output": "O cikawasay kako oni ko sakacitodong ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我被叫去給他的稻田灌水了。", "output": "Mapapinanomay kako to sapanayan ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要被做成大衣的布。", "output": "Sasakafangen a kiradom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "不等他了，我想開始了。", "output": "Ca to katalaen cinira,sakatekaaw ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipowakay cinira to sadatengan.", "output": "他在犁菜地。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Satorisen to no wawa kora padakopak.", "output": "孩子把那張紙劃線了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用大鍋煮湯。", "output": "O dangah ko pitangtangan to kohaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在出暗處用蓑衣隱藏自己。", "output": "O pangsoy ko sapikicocom ira to tireng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sa'alifethan ira a misolot patalasekal koya tamdaw.", "output": "他一用力就把那個人拉到岸上來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要舀出來的米。", "output": "Cacihoken a felac."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Calohsa ko faloco' ako.", "output": "我心急如焚。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "ka^edah。", "output": "acedah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "acedah", "output": "ka^edah。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是我哥哥搖頭表示不同意這件事情的。", "output": "Ci kaka ako ko mi'inga'ingay toya demak."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Falawfaw ko romi'ad anini.", "output": "今天天氣暖和。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是哥哥讓我們種果樹的。", "output": "O kaka ko mipapipalomaay kamiyanan to losay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Papinaay ko mipapipalomaan ira to tefos a tamdaw?", "output": "他安排種甘蔗的人有多少？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那匹馬想跳過籬笆牆。", "output": "Sapitakodaw nora efa to 'adipel."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Talapalaay a wawa.", "output": "到野外的孩子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ko'daw ko fafac no na 'aol.", "output": "這根竹子的竹距很長。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想砍削那些樹枝。", "output": "Sapikeca'aw ako tora ca'ang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Teki'en koya fokeloh, matengilay ko nga'ayay a radiw.", "output": "敲一敲那塊石頭，會聽到了好聽的歌聲。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "跳落傘。", "output": "Sapikefo' a saong."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapikefo' a saong.", "output": "跳落傘。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hinanoyen ko masay.", "output": "我們用野籐盪鞦韆。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasimawen ko malitengay.", "output": "要照顧老人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ira i cudad ko tilid ato coka.", "output": "書上有文字和圖畫。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miketos to panay.", "output": "選摘稻穗。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'olawan a sapad.", "output": "熏黑的木板。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "有一位長輩。", "output": "Cecayay ko mato'asay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鍍一層銀子。", "output": "Mipata'edip to 'ekim."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miceroh to nanom no tosiya.", "output": "車子加水。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapaketingay ko waco i talo'an o hahedalen.", "output": "狗被綁在工寮裏要把牠鬆開。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我去關緊水龍頭。", "output": "Mierec kako to tatapangan no nanom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "染布成綠色用的。", "output": "Sapisakangdaw to kiradom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想換我工作。", "output": "Sapipakotayaw cingra takowanan to dademaken."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misimaw to cangra to omah.", "output": "他們在守護田地。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kalomowad to ko namo, ta^engaday to ko romi'ad.", "output": "你們起床吧，天已經亮了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "。Sakacaaw", "output": "sakacaaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sakacaaw", "output": "。Sakacaaw"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "好難找你們的座位。", "output": "masakafokilan amikilim to kamaro'an namo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "電燈的開關。", "output": "Sapitepek to tingki."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們想安慰我們的朋友。", "output": "Sapihinomaw niyam to widang niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mafitowak ko kayakay.", "output": "橋樑裂開。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "父親想做圍子圍住花卉。", "output": "Sapidimelaw ni wama to hana."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "I Malaysiya ko kayafayafan niyam a malacafay a malasufitay.", "output": "我與他在馬來西亞並肩當兵。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這機器是朗讀阿美語的用具。", "output": "Oni a kikay sapi'asip to no 'Amis a sowal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipesi' to fokeloh.", "output": "碾碎石頭用的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我只考一次。", "output": "Kinacecayay kako a misking."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sinoetay kako.", "output": "我流汗了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他干擾我的工作了。", "output": "Miparacan ira ko katayal ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "弄髒衣服。", "output": "Pakadit to riko'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Padimok to fonus.", "output": "把長刀套上鐵箍。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasicowa ko fawahan saw? pasitimolen ko fawahan.", "output": "門要朝向哪裡？門要向南邊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "想睡覺。", "output": "sakafuti'ananay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pamoecelen a mitoris.", "output": "一定取直劃線。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "。", "output": "'alimedas"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'alimedas", "output": "。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "甘蔗渣。", "output": "Rakad no tefos."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Nga'ayay ko romi'ad ato sera, oya to ko sakaciranap.", "output": "氣候和土壤好，所以檳榔初長得好。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapiketeday kako ciniraan to titi.", "output": "我交代他去割肉了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micefongan niwina ko dateng i dangah.", "output": "母親把青菜投入鍋裡了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我按他的交代把豬肉切下來了。", "output": "Mipapiketedan ira kako to titi no diyong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們討論許多有關阿美族的生活。", "output": "Adihay ko nika lalicay niyam to pakayniay i 'orip no 'Amis."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "剎住自行車用的。", "output": "Sapi'emec to koliciw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "因沒有工作而嘆息起來。", "output": "Ceda'ahsa to kaawa no katayalan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們幾點吃午飯的？", "output": "Hakowa ko toki malahok kamo?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hapinangen ko konis a mifakciw.", "output": "看清測量的線。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tayra kami toya salawinawina a mipalafang.", "output": "我們去親戚家做客。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小孩在鞦韆上不停地搖擺。", "output": "Misa'oca'ocay ko wawa i tananoyan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他於是遵照老婆婆的話特地挖了口井。", "output": "Hatinihan ningra toya sowal noya mamo a misatefon."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要燒燼的木頭。", "output": "'A'afoen a kilang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malananomay ko so^eda.", "output": "冰雪溶化為水了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我每個深夜要回去。", "output": "Minokay kako to lafiifii."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihatosaay cinira to fonus a miala.", "output": "他一次拿兩把刀。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你從這裏開始越過去那座山林的後面。", "output": "Pakini kiso milakowit tora i kaikor nona tokos."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "菜都被荊棘擠了。", "output": "Ma'co no kadamat ko lengaw no dateng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "在麻袋裡裝稻穀。", "output": "Miparo to panay i pawti."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想轉身站著。", "output": "Sapisiwitaw ako to tireng ako a tomireng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我要等待 Totoy(多堆)。", "output": "Ci Totoy ko tatalaen ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我把那塊木板做成別的東西了。", "output": "Misaromaan ako kora sapad."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你怎麼隨隨便便說呢？", "output": "Mana saolateksa a somowal kiso saw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我去告訴他關於我操辦事情的方法。", "output": "Nipasowal kako ciniraan to sapipakoyang ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci safa ako ko mihangingitay to 'odax.", "output": "一點一點吃糖的是我的弟弟。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Raringringen a kodasing.", "output": "Raringringen a"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Raringringen a", "output": "Raringringen a kodasing."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我要到上面。", "output": "Talafekang kako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "所信仰的耶穌。", "output": "Misakeristo'an a Yiso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的水有沈澱物。", "output": "Cipota' ko nanom niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Itini to kako pacafay to fa'inay ako.", "output": "我要在此陪伴我的丈夫。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那些稻子要從中央開始割。", "output": "Kitenoken a miritrit koya panay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "廢物，垃圾。", "output": "kinafalah"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "便桶。", "output": "Sapiisi' a paetang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想撢落衣服上的灰塵。", "output": "Sapitihtihaw ako to tahefod i riko' ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sa'arawrawsa ko folad i kakarayan.", "output": "天上月亮圓圓的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鄉親在抬著石頭。", "output": "Malaliliday ko finawlan to fokeloh."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "弄斷筷子。", "output": "Miposot to 'alapit."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sainanenghan ira a mipariri' ci Salatawan.", "output": "她精心飼養"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapinoka to walay.", "output": "捻線的器具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "抓飯的工具。", "output": "Sapikamay to holo."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapikamay to holo.", "output": "抓飯的工具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihawang to ci'ci'.", "output": "跨過水溝。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我用過機器工作。", "output": "Mikikayan ako a dademak."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasakadangen a fodawan.", "output": "要打手鐲的銅器。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她要求鑲金牙。", "output": "Pawadisen ci nira to 'ekim."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cilangkes ko holo.", "output": "飯摻有砂子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他不可能會來。", "output": "Kahisa cingra a tayni！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這就是今天大海為什麼發(很)鹹及發綠的原因。", "output": "Onian ko sakakahecid no riyal ato sakakandaw no riyal anini."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapilolangaw no safa.", "output": "妹妹想採豬食。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把酒喝乾。", "output": "Mi'owak to 'epah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "喝酒的人正在吵嚷。", "output": "Mikalanangan ko mili'epahay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們會受到 Tafalong 部落的監護。", "output": "Madawa no Tafalong kamo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把畚箕當倒垃圾的地方。", "output": "Kalatafalahan kona caki."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你家的地板那麼光滑蹭亮。", "output": "Sarimadacsa ko paenan no loma' iso."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misaparoparodan niyam a maemin.", "output": "我們都把灶做好了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "同情窮人。", "output": "Sani'ada to macahiway."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "漢人都相信人人都會輪迴。", "output": "Mihecaay ko tamdawdaw a maemin sany ko sowal no payrang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Limeken kora wawa i kaikor ni wina ningra.", "output": "把那個小孩藏在他母親的後面。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tapedohen kako haw !", "output": "給我吹氣除邪吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misaliyangay canira to singsi.", "output": "他們正在違抗老師。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "違抗者，抵制者。", "output": "Misaliyangay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我特別把我的行為傳授給他。", "output": "Pasifana'han ako ci nira to demak ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasifana'han ako ci nira to demak ako.", "output": "我特別把我的行為傳授給他。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子睡得很沈很沈的。", "output": "Sareda'sa ko wawa a mafuti'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把我的電腦干擾了。", "output": "Micaraan ira ko konpiwta ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們妨礙了我的睡眠。", "output": "O kafuti' ako ko micaraan naira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "弟弟我揹著。", "output": "Mafafaay ako ko safa ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapililiw kako caniraan to lomaloma'.", "output": "我叫(人)挨家挨戶拜訪。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這把槍的準星是哪一個？", "output": "Isakacowa ko sapipatoro' nona kowang?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "豹子的鼻子就把我聞了聞。", "output": "Sahanehanekhan no ngoso' no lokedaw kako."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "。", "output": "caki"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "caki", "output": "。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們夫妻正在吵架。", "output": "Malapo'iay cangra a malaramod."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kinasiwa kako a pakimad to cecay a fulad.", "output": "我一個月演講九次。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Lalengawan no 'alo.", "output": "河的源頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "狗熊撲倒麋鹿。", "output": "Mihangorngor ko tomay to malonem."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapialaan ako ci Kacaw to kowang.", "output": "我交代過 Kacaw(卡兆)去拿搶了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasolinga'en cinira a matayal.", "output": "讓他做好工作。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O tatokoden ako ko safawahan iso.", "output": "我就要踹他家的門。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子拉完屎了，擦一下屁股吧！", "output": "Maharek to ko wawa a tomai', 'ilosen ho !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikapkapay canira to to'eman a romakat.", "output": "他們摸黑著走路。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipatahekaay kami to widang niyam.", "output": "我們在設宴招待我們的朋友。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想沖洗那架機器。", "output": "Sapipafololo'aw ira tora kikay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把我的田地灌溉一下。", "output": "Pananomen ko omah ako !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Acedahay a titi.", "output": "辣肉。指凶狠的，心狠手辣的(人)。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Engang sa ko tangic noya kaying a mararom.", "output": "那位小姐傷心的哭著。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "快要下雨了，他們於是把院子裡的稻穀蓋起來。", "output": "Mama'orad to, lafonghan nangra ko panay i paputal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "喜歡打球。", "output": "Miolah a mimali."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikadafoay a kapah.", "output": "入贅的青年。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "骨頭被打碎了。", "output": "Mafolfol to ko 'okak."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "加鹽的菜。", "output": "Misakahecidan a dateng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "刹住的汽車。", "output": "Mi'emecan a tosiya."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micefangan naira koya sa'opo.", "output": "他們參入了那個聚會。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那孩子想說鳥語。", "output": "Sapisano'ayamaw nora wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們圍觀那被車撞的人。", "output": "Lingoden koya masontoray no tosiya a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Rarakaten a lalan.", "output": "要走的路。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "劈剝削樹木的人", "output": "Mido'icasay to kilang a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiriyad to tayal.", "output": "接續工作用的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "I'ayaw a mihecaan.", "output": "前年，前些年。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'aporaway canira to kodasing.", "output": "他們正在堆花生。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kamid ko sapisifin.", "output": "要用碎布擦拭。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Paka ngala' no fawahan a pasipapotal a mihining tora tamdaw.", "output": "透過門縫向外窺視那個人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我經受他的折磨。", "output": "Mapasemsem ningra kako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "(tamdaw no)", "output": "Limaay a lefot ko"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Limaay a lefot ko", "output": "(tamdaw no)"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那隻狗被投進河裡。", "output": "Mapakefoh i 'alo koya waco."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipadengan a tingki.", "output": "熄滅的電燈。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ano hacowa ko kalahecian no pitilid iso?", "output": "你何時會完成學業？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cipota'ay ko tefon.", "output": "水井有沈澱物。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O sakacipinang ita a misa'osi to romi'ad ko toki.", "output": "時鐘是我們計算時間的工具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我每天晚上學習。", "output": "Mitilid kako to dadayadaya."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是你誹謗他的。", "output": "O kiso ko milokesay ciniraan a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitisekan ako ko fadohang no lokedaw.", "output": "我把豹子的胸膛刺透了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把你的毛巾曬在這根竹竿上。", "output": "Paypayen ko sasifin itini tona layal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這頭牛餓得哞哞叫。", "output": "Ngowi'sa kora kolong to cahiw nira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我眨著眼睛眨著。", "output": "Misakeni'keni'an ako ko mata."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這把斧頭父親已磨過了。", "output": "Micadiwan ni wama koni a caklis."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在磨刀了。", "output": "Micadiway kako to funus."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用力工作。", "output": "Kacicedi' a matayal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "加熱用的爐灶。", "output": "Sapisafa^edet a parod."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把我的粥加熱一下吧！", "output": "Safaedeten ko hemay ako hena !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipasolitan niyam ko kapah a midangoy.", "output": "我們讓年青人比賽游泳。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "趕緊的完成工作。", "output": "Midopoh to tayal a milaheci."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把倒下的柱子豎立起來。", "output": "Patirengen ko matelepay a hecek."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mirecepan a kiping.", "output": "弄濕的上衣。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mirecepan a micelem.", "output": "潛水潛得很深。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kidemolay a papah.", "output": "茂密的葉子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifakec to funus i fakaan.", "output": "在腰間繫刀。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misadatok kiso han?", "output": "你會做口琴嗎？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Panay(巴奈)在邀請我了。", "output": "Mihintaay ci Panay takowanan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "當我遇見他母親時想到自己的母親內心感到難過。", "output": "Yo paka'araw kako to ina ningra i, a pakaharateng to wina masomad ko faloco' ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci Omah ko kakawihen ningra.", "output": "他要跟 Omah 打招呼。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要完成的任務。", "output": "Rarekoen a tayal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O laliyoten ko faloco' iso.", "output": "你的心要轉變。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "火堆燃盡。", "output": "Malanto to ko longlong."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Lata'ang cingra to nika cingangan no wawa ningra.", "output": "他因孩子成名而驕傲。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Dasa'en ita anohatini !", "output": "我們現在就舉行祭祀吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我怕東西被偷走，我就把它捆得特別結實。", "output": "Matalaw kako katakawan no maamaan, sakodaithan ako ko maamaan a mifalod."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小馬蜂釘的真痛。", "output": "Adada ko cepit no cacenal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misarokoan no kapah ko niyaro'.", "output": "年輕人曾經保衛過部落。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "所靜坐的凳子。", "output": "Misarokoan a 'axenan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我搥打的是他。", "output": "O cinira ko mikemoan ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那裡人聲嘈雜，好像賣百貨的市場一樣。", "output": "Sacaciyawsa ko tamdamdaw itira,hatora pipaliwalan a raawaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miki'ading i aikor no kilang.", "output": "躲避在樹後面。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "讓他們向北邊方向打獵。", "output": "Pasi'amisen canira a mi'adop."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她梳的辮子很漂亮。", "output": "Makapahay ko miropini'an ira a 'opir."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要捉的青蛙。", "output": "Cacepeten a takora'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把我口袋裡的東西都掏了。", "output": "Mingiwngiwan ira ko maamaan ako i 'alofo a maemin."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko sapifitangal namo?", "output": "你們摘瓜用什麼工具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci tahadoy a midangoy.", "output": "要帶浮囊去游泳。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "sapipaino'aw no wina to wawa.", "output": "母親想給孩子洗澡。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在後面坐。", "output": "I rarikor ci nira a maro'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "美觀的自行車。", "output": "Tanestesay a koliciw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "短鉛筆。", "output": "Mamoko'ay a impic."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "煉製鋤頭。", "output": "Misa'or to pitaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipayo to adadaay a tamdaw.", "output": "給病人治療。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipaliyas tora tamdaw.", "output": "支開那個人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "按交代做事。", "output": "Mireko toni a tayal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的事情完成了。", "output": "Maharekay ko demak ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikangkangay ko wama.", "output": "爸爸在犁地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的田地像山丘一樣高低不平。", "output": "Masataporo ko omah niyam."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想統計一下所購買的東西。", "output": "Sapipolongaw ako to ni'acaan a maamaan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Deng kiso ko kaolahan ako.", "output": "我只愛妳一個。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pananamen ira kami to radiw.", "output": "他讓我們練習歌唱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我沒留級。", "output": "Caayka hepoc kako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "叫病人伸展一下腿部。", "output": "Pafiyacen ko adadaay to oo'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipawacay a tatinakoan.", "output": "物證，證據。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatekaen a demak.", "output": "即將開始做的工作。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "胡子草易長在田裡。", "output": "Maolah a malengaw ko da'etomay i omah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這是累積銅鐵的器具。", "output": "O sapidi'ec to tangpia koni."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kiwahen ko sera a mikilim.", "output": "他把土扒開找(東西)。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "一元。", "output": "Cecay a rimood."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cecay a rimood.", "output": "一元。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們曾經找到了建立家園的地方。", "output": "Mipakaxeraan naira ko katomirengan no loma'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kalimkimay ko wadis ako.", "output": "我牙酸。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "集會所完工了請舉行慶典活動。", "output": "Kaang'ang to kalaheci no sefi."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想割斷那根拴牛繩。", "output": "Sapiketonaw ako tora sakaered no kolong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想辭去這份工作。", "output": "Sapihawadaw ako toni a demak."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci manis ko kulong.", "output": "牛有鼻環。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是 我太太。", "output": "O fafahi ako ci Akiko. Akiko"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "pinaro", "output": "in"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "in", "output": "pinaro"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "sinafel", "output": "in"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "in", "output": "sinafel"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "'inorong", "output": "in"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "in", "output": "'inorong"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "pina'orip", "output": "in"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "in", "output": "pina'orip"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "tina'i", "output": "in"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "in", "output": "tina'i"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "finariwan", "output": "in"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "in", "output": "finariwan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tapakad sa cangra a micemod i roma'.", "output": "他們一擁而上的進屋。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O raricaricen kora dateng.", "output": "要把這菜揉成鹹菜。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakomaingsa koya tatosaay a pakoyoc to cahiw nangra.", "output": "為挨餓，兩個孤兒越來越虛弱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個人睜開眼睛活過來。", "output": "Cengawsa ko mata naya 'tamdaw a ma'orip."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這是要砍下的楓香樹。", "output": "O sasengeren koni."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "misawawa(wawa)", "output": "misawarawaraay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misawarawaraay", "output": "misawawa(wawa)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miharakatay a tamdaw.", "output": "加快速度的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "交給火種。", "output": "Mitorod to langto."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Da ini kako.", "output": "來吧，我在這裡。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "外面來人了，所以狗叫。", "output": "Iraay ko tamdaw i aotal oya ko saka'owang no waco."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapaliwalay ni Kacaw ko omah ningra. Kacaw", "output": "將他的田地出售了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ketemen ningra ko sema a kinapatay.", "output": "他咬斷舌頭自盡。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakimokimor sa a matayal ko wama.", "output": "爸爸忙的團團轉。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們會打敗我們。", "output": "Makacafi' kamo tamiyanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tepochan ningra ko tefos.", "output": "他一刀把甘蔗砍斷。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他要砍桑樹。", "output": "O 'a'adidemen ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把布染黃。", "output": "Sakaliyalawen ko kiradam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipatalafekang to mali.", "output": "把球送上去。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "＝> ka'ilolan。", "output": "'ilolan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'ilolan", "output": "＝> ka'ilolan。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ora wawa ko mi'aporaway to si'elac.", "output": "是那些孩子在堆石子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們把竹子當柱子。", "output": "Haheceken niyam ko 'aol."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子爬上那一棵樹了。", "output": "Mikalican no wawa kora kilang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們搭乘的飛機。", "output": "Mikalican niyam a hikoki."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Citapang ko nanom.", "output": "水有源頭。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipatolon a tikami.", "output": "委託函。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那是你要參觀的花園。", "output": "O a'nengen iso kora a pahanaan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "蒼蠅聚集垂涎著糖果。", "output": "Milingling ko lalangaw to odah.."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hacowa ko kararaya' noya 'alimdas?", "output": "那條錦蛇有多長？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "眨眼睛。", "output": "Papelak to mata."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatongtongen ira ko pikongkongan.", "output": "他要把鼓敲打起來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鉤海鰻的用具。", "output": "Sapipacemot to rowak."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他教唆小孩去咬人。", "output": "Mipakalat cinira to wawa ira to tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mahecaday ko faloco' nangra , mararamod cangra.", "output": "他們心心相印了，就可以結為夫妻。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O toto' ko sapicahok niyam to nanom.", "output": "我們舀水用葫蘆瓢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們一定多造路！", "output": "Adihayen niyam a misalalan!"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "什麼時候做耳環呢？", "output": "Hacowa sacapayen haw?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sa'opir to fokes.", "output": "髮夾、髮卡。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "月光皎潔。", "output": "Matedi' ko fulad."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個人想到了什麼，在那裏踱來踱去的。", "output": "O maan ko maharatengay noya tamdaw, satadiwadiwaysa itira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matatodong koni a riko' takowanan.", "output": "這件衣服對我正合適。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Patamelacen ko cokoy !", "output": "把櫃子擦乾淨吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "稻子快熟了(太熟了)。", "output": "Mangata to ma^ecak ko panay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "茂密的樹林擁擠不堪。", "output": "Dadi'edi'ecsa ko kodemolay a lotok."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要射偏那隻熊(不射中熊)。", "output": "O tatelacen kora tomay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisalo'afang to malitengay.", "output": "攙扶老人用的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "堅持到第二天早晨的工人。", "output": "Tahadafakay a koli."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tongingictongingichan ningra koya siraw a komaen.", "output": "他一小口一小口地把醃肉撕著吃。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sacitosiyaen ko makapahay !", "output": "造輛漂亮的車吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Icekoysa ci ina a makesem.", "output": "媽媽低頭發愁。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipatidosay kako to matelangay a paliding.", "output": "我更新舊車了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakedofay canira to kilang a misatamina.", "output": "他們正在刳木造船。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hengheng no riyal.", "output": "海浪聲。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "回心轉意、悔悟。", "output": "Patatikol ko faloco'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sa'amamokoten no 'oner ko tireng ira.", "output": "蛇把自己的身軀蜷曲起來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maasi ko kacedah.", "output": "過辣的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masetek ko fongoh.", "output": "頭會被斬下來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要攪拌用來蓋房子的水泥。", "output": "Micolin to sapisaloma' a amoto."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapininiraw no posi taira tora 'edo.", "output": "貓想逐步地靠近那隻老鼠。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把照片粘貼好！", "output": "Sanga'ayen ko sasing a mipaketing !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們任意砍樹。", "output": "Saolateken niyam ko kilang a mifaliw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milifet to lifet no sakatayal.", "output": "就職考試。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ma'orad to,tayra koya maomahay a maemin i kalaeno no kilang a mikilidong.", "output": "下雨了，農民都去樹下避雨。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci 'ekim ko wadis ni Kacaw.", "output": "卡兆先生鑲金牙。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "傾盆大雨我們要涉水渡河。", "output": "Ta'angay ko 'orad, lakec han niyam ko 'alo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "如果沒有菜，就單吃飯。", "output": "Ano awa ko dateng samedachan ko holo a komaen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們迫切要去。", "output": "Makalim kami a tayra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他走路假裝跛腳。", "output": "Misapi'ipi'iw cinira a romakat."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipatoor to siri.", "output": "追縱山羊用的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子要期盼他父親。", "output": "O sasinatalaen no wawa koya wama ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老鼠要掉進洞裡。", "output": "Tahakeleng ko 'edo i ofang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的居住的地宅有縫。", "output": "Mangala' ko kamaro'an iso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "供人描摹模仿的本子。", "output": "Sapido'edo a tilid."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mangalay cinira to tama' niyam.", "output": "他十分想要我們的獵獲物。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pina ko mihecaan iso?", "output": "你幾歲？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "捆茅草。", "output": "Milolong to eli'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那些衫木做成木板了。", "output": "Misasapadan kora fidengal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "時間到了，請回去了！", "output": "Maraoday ko romi'ad , pinokay to !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們想干擾我的工作。", "output": "Sapiparacaw naira to demak ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我姐姐叫那位小姐作陪了。", "output": "Mipacafayan ni kaka ako kora kaying."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O cima ko mipacafayan iso ciniraan?", "output": "你是叫誰她陪伴他呢？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipacafayay ci kaka takowanan kisowanan.", "output": "哥哥叫我跟你做伴。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是他叫我陪伴客人的。", "output": "O cinira ko mipacafayay takowanan to lafang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我用那條繩子繞圈子。", "output": "Ora kaered ko sapilokiyol ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakadefitaw no wama takowanan.", "output": "父親想對我發怒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masangodongodoay kora kaying.", "output": "那位小姐羞答答的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipatapalay ko kincac ciniraan.", "output": "員警在叫嚷恐嚇他了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Liwalen ako ko tosiya i taowan.", "output": "我把汽車賣給人家。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cikotoay ko tangal ningra.", "output": "他頭上長蝨子了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "往北邊一點建工寮。", "output": "Kina'amisen a patireng to talo'an."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miroparopan ako ko sarenaf to sapad.", "output": "我把油漆抹板子了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasadak to sela'.", "output": "呼氣。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "撫摸病人的是巫師。", "output": "O cikawasay ko mikapaay to adadaay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小孩們在玩粘土。", "output": "Misalama to dita' ko ka'mangay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想梳理一下那位老人的鬍子。", "output": "Sapiropini'aw ako to ngisngis noya mato'asay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Saseni'en a nanom.", "output": "即將被倒出去的水。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Itiya ho.", "output": "古時候，很久以前。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Karacica' koni a facidol.", "output": "這株麵包樹常流汁。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "加油的汽車。", "output": "Mipasimalan a tosiya."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是那個小子撞倒車子。", "output": "Ora kapah ko mihapipicay to paliding."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakangcomiay a sayxo.", "output": "做罐頭的師傅。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakalomaocaw nora kapah i 'awtalan.", "output": "小伙子想在院子裡聚會。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把肥料撒放地裡。", "output": "Silsilen ko koyasi i omah."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Canira lalima ko milimekay i dihif.", "output": "躲藏在山洞裡的是他們五個人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Adihayay ko satalacayen niyam anini a mihecaan.", "output": "我們今年種了好多鳳梨。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milimekan ira ko lalaoma'.", "output": "他躲藏在裡屋了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "馬把自己的蹄子縮回來。", "output": "Fekoten no 'efa ko sakecoh nira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipacafer to lafang a paso.", "output": "供家人中間停留的汽車。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "發射弓箭的人。", "output": "Mifetiray to pana' a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給神燒香。", "output": "Mipaexiw to kawas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fafadicen ko fadahong no loma'.", "output": "房屋的茅草屋頂要換了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Talaen ho iso kako i piko' no lalan, malahakelong kita tayra i pitilidan.", "output": "你在路道彎等我一下，我們一起上學去。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milokiyol i 'a'ayawaan.", "output": "在前面拐彎。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "不要為難好人。", "output": "Aka rokicen ko nga'ayay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "撢灰塵的工具。", "output": "Sapifaretik to tahefod."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Talawali a romakat.", "output": "往東走。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "一直哭。", "output": "tanotangic."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miposisiray kora wawa i sasoedaan.", "output": "那個孩子在雪地上滑行。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那壞蛋蹬腿死了。", "output": "Maco'iyal a mapatay kora mari'angay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miponini' to oo'.", "output": "捏腿。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cifedi'an", "output": "部落名稱。今台灣花蓮縣鳳林鎮山興地區。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapicilahaw kako to dateng.", "output": "我想給菜放鹽。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "再等些時候，那些小米全熟了。", "output": "Cilacilaen ho ta ma'def a marahrah koya lamlo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把書本夾帶。", "output": "Takini'en ningra ko tilid."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Lo^etengay a tali.", "output": "有黏性的芋頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是他在沉澱杯裡的東西。", "output": "O cinira ko mipahalineknekay to i takiday."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把豬宰了吧！", "output": "Tayingen ko diyong !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那孩子在捏。", "output": "Komimitay kora wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "朋友呀，不要怕比賽！", "output": "O widang aka katalaw a 'iseden  !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milonolay canira to capox a mi'anip.", "output": "插秧時，他們及時供應秧苗了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipatelian ako ko ta'angayay a 'eto i laloma'.", "output": "我把大桌子放在屋裡了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "整理東西。", "output": "Mipalosimet to maamaan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "五把火槍。", "output": "Limaay a kowang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kakohkoh konini.", "output": "這是眼鏡蛇。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "銀行願貸款。", "output": "Pacaliw ko kinko to payso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我泡在熱水裡洗澡。", "output": "Midefongay kako i fadisaw a maino'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我與軟弱的人作伴。", "output": "Cicafay kako to mahomikay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用米升盛米。", "output": "O ficing ko sapi'atal to felac."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把蛇皮剝下來！", "output": "Todadacen ko fanges no 'oner !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這是耙攏穀子的工具。", "output": "O sakarih to safak koni."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "楷模", "output": "Rarangian a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "張望的猴子。", "output": "Misacingacingaay a lotong."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misacingacingaay a lotong.", "output": "張望的猴子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "熄燈的拉繩。", "output": "Sapipadeng a walay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miritrit ci ina to inglo i omah.", "output": "媽媽在田裡割陸稻。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我做的口琴最好。", "output": "Sanga'ayay ko misadatokan ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micafer i loma' ni Panay a pahanhan.", "output": "在 Panay 家逗留休息一下。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O tafok ato sera ko mikiwakiwan noni a kikay.", "output": "這架機器攪拌的是沙子和土。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小姐帶手環了。", "output": "Mifatelay ko kaying."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O no tao ko mikingkingan ira.", "output": "他敲的鐘是別人的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakalikodaaw no kayiing.", "output": "姑娘們想跳舞。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maloloay ko kiping ako.", "output": "我的上衣是紫色的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "知道你的心意。", "output": "Mapalita ko faloco'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miforacan a wadis.", "output": "刷過的牙齒。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人在院外呆坐著曬日光浴。", "output": "Tomenekay ko malitengay i papotal a mikicidal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "廚房很多蟑螂。", "output": "Adihay ko dadapis i kofaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ca Safolo ko cered niyam.", "output": "沙扶洛是我們的同窗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的手冰冷。", "output": "Ki'etec ko kamay iso."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "②", "output": "mikaenan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mikaenan", "output": "②"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micekelay kora tamdaw to fongoh.", "output": "那個人低頭了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makaratama' ci mama to 'a'adopen.", "output": "爸爸擅獵野獸。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Palahaden ira koya pakoyocay a wawa.", "output": "她決心把孤兒養大。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她有孩子了吧？", "output": "Ciwawa cingra haw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我弟弟谷拉斯先生當選手了。", "output": "Malasingsiway ko safa ako ci Kolas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malahecaday cangra.", "output": "他們相同了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malaoc i sefi.", "output": "在集會所集會。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是我弟弟每天早晨撕日曆。", "output": "O safa ako ko micinasay to koyomi to papacepacem."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Satamakoen kora tafak.", "output": "把那些煙絲做香煙。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們要超過你們！", "output": "Cafi'en niyam kamo!"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們要把那塊土地挖成池子。", "output": "Sasafita'oen niyam kora saseraan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "即將彈射的箭。", "output": "Tateriken a pana'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想敲打的頭。", "output": "Sapiapekaw ira to fongoh ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasonganen ako ko riko' ira.", "output": "我就要把他的衣服脫下來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Lali'open ko laway iso !", "output": "洗洗你的臉吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "分類整理書籍用的。", "output": "Sapisilsil to tilid."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "誰在水裡潛水？", "output": "Cima komicemekay a tamdaw ?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "哥哥在耙稻田了。", "output": "Milatakay ci kaka to sapanayan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milalad ko kalitang i dimel.", "output": "長豆蔓延在籬笆。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasowalen kako to sapipapero !", "output": "請告訴我述職的儀式吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們做菜圃用犁。", "output": "O kangkang ko sapisadefak niyam."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的碗弄碎了。", "output": "Mafolfolay ko kaysing iso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我瞄準著飛鳥了。", "output": "Mipatoro'ay kako to ma'eferay a 'ayam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Idaen ako tora hecek a maro'.", "output": "我要靠著那根柱子坐下來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O 'a'acamen ako.", "output": "我就要去砍蘆葦。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Oni a 'a'acamen.", "output": "要砍取的蘆葦。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要用芎麻捻成繩子。", "output": "O saycaro ko kaka'ereden."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "進屋裡。", "output": "Micemod i laloma'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的晚餐是魚。", "output": "o futing ko sakalafi niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatowisen a dapiac.", "output": "要挑起來的石板。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "被指派侵佔那座山林。", "output": "Mapapipecoh ci Kacaw toya lalotokan. Kacaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cinira ko micorahay to focol.", "output": "他是燒烤弓箭的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "兩塊麵包。", "output": "Tosa a 'apelad ko 'epang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Dadakawen no wawa a kolong.", "output": "小孩要騎的牛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "腳踏車是小孩子要騎的。", "output": "Dadakawen no wawa ko kuliciw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "跨過水圳。", "output": "Mi'awas to kali."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們正在山坡地上播種小米。", "output": "Mifolesakay canira to lamelo i 'apilis."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakamid to ko costa.", "output": "利用廢料補襪子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakapahan a kaying.", "output": "打扮漂亮的小姐。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasaedaedahhan no kankofu a somowal ko adaday.", "output": "護士很輕聲的對病人說話。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipaitekeday cinira tora demak.", "output": "他獨攬那些工作了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tosa a polo' a loma' ko miraoday toya tokos a maro'.", "output": "靠近那個山的住家有二十家。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miraodan a 'alo.", "output": "所接近的河。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipa^eferaw ako tora topi.", "output": "我想放飛那隻鴿子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mata^elifay to toloay limaay a romi'ad.", "output": "超過三天五天了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那隻猴子想勾桃子。", "output": "Sapirawisaw nora lotong to lopas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mato'asto ko tireng kalatawal.", "output": "老了更健忘。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miciyasan ako ko nanom.", "output": "我把水噴灑出去了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "如同黑夜。", "output": "hatodadaya"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikolahotan ira kako.", "output": "他把我抓傷了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我所鉤取的果子。", "output": "O mirawisan ako a heci."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapi'anip to capox.", "output": "插秧用的工具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "高興，興奮。", "output": "mahemek."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用來鞏固我們之間的是什麼呢？", "output": "O maan ko sapisakodayit kitaanan saw?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapi'orong to lalodisan ako.", "output": "叫人去搬運我的行李。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikicongacongay cinira takowanan.", "output": "他在求我庇護了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想跟蹤那些賊人。", "output": "Sapirorodaw ako toya mi'afasay a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipa'am'amaw ako toya malitengay.", "output": "我想給那位老人送粥。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Papipasataen ko tawki iso !", "output": "叫你們老闆去交稅！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisaloma' a tanengnengan.", "output": "建築房屋的藍圖。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我讓人叫醒他們了。", "output": "Mipapipalalay kako caniraan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Patalaen ko faloco' iso.", "output": "你要有思想準備。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們給左鄰右舍送豬了。", "output": "Mipadiyongan niyam ko fiyafiyaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他當面批評起來了。", "output": "Patadkessa ci nira a somowal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapihimaw to adadaay.", "output": "請人看護病人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "挑逗姑娘的青年。", "output": "Ora mi'aningay to kaying a kapah."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malitengayto ko wama , aka lolayen cingra !", "output": "父親老了，不要拖累他！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifaretikan a lakaw.", "output": "所丟棄的垃圾。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milongoc to payso.", "output": "要錢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你會被煙嗆住。", "output": "Mada'at no 'acefel kiso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們約定日期。", "output": "Matatlek cangra to romi'ad."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mararima ko faloco' ningra.", "output": "他內心很沮喪。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我把桶蓋做成圓形的了。", "output": "Misa'arawrawan ako ko satahaf no paetang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pina to ko misakolongan ira?", "output": "他殺幾頭牛了？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Talalikoren kora sofitay.", "output": "叫士兵後退。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O 'a'efiden a tamako.", "output": "抽半截的香煙。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他造領導的謠了。", "output": "Milikafan ira ko kakeridan ira."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "aka pakinalien to kaltengay a ironong cingra.", "output": "ironong"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ironong", "output": "aka pakinalien to kaltengay a ironong cingra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makeced ko lifawa.", "output": "消腫。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapi'olid to kaying niyam.", "output": "請人給我家小姐做媒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Papitala caniraan.", "output": "叫他們等候。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在桃園。", "output": "Misamokong kako i toyen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "貓公山以往是我們的祖先之地，因此那裡有神明。", "output": "O tato'asan niyam ko cilangasan itiya ho, oya ko sakacikawas itira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "在帽子上插上羽毛裝飾。", "output": "Mico'nekan a opih i kafong."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapisawad to dademak ira.", "output": "叫人辭了他的工作。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milesafenan ako ko mitilidan no singsi a maemin.", "output": "我把老師寫的東西收集好了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把貓毛給脫落。", "output": "Lonohen ko fanoh no posi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasakalahoken ko konga ato tali.", "output": "要把蕃薯和芋頭做成午餐。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiadefaw to sasingaran.", "output": "她想關窗。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'odaxay a sayxo.", "output": "做糖的師傅。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "被老師聚攏在一起的孩子。", "output": "O mipalahakelongan no singsi a wawa."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiwangawang to ciwciw.", "output": "驅趕小雞用的(器物)。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想摘瓜給孩子吃。", "output": "Sapifitangalaw ako to kakaenen no wawa."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapifitangalaw ako to kakaenen no wawa.", "output": "我想摘瓜給孩子吃。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那位睡覺的人張開眼醒來。", "output": "Micengaw to mata kora mafuti'ay a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitongtongaw niyam to emi.", "output": "我們想給麥子脫粒。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想回她的信。", "output": "Sapipatilidaw ako to tikami ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "菜被蜘蛛網蓋滿。", "output": "Matahpo no karifateng ko dateng."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的腿腫起來。", "output": "Malofawa ko cepi' ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要被超越的人。", "output": "Tatifacen a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "假日，假期。", "output": "pa'aliwacan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "水田，放水的地方。", "output": "pananoman."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Feret han ningra ko cakelis.", "output": "他把斧頭丟過去。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個鬼怪想施魔法了。", "output": "Oya 'arikaya sapiredekaw ira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kafuti'ho namo isawni i , iraayto kako a tayni.", "output": "你們剛睡覺時，我就已經來了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miniwaniway ko fafahiyan i omah anini.", "output": "今天婦女到水田裡除草。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O widang ako nasa ko harateng ako.", "output": "我想我曾經認為(他)是我的朋友呢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "撿拾木屑用的。", "output": "Sapipodpod to lata'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipodpod to lata'.", "output": "撿拾木屑用的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把竹子做床台。", "output": "Salilalen ko 'aol."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Safalokfoksa ko tahatekoday to tilo a futing.", "output": "Safalokfoksa marokrok koya mifadisawan a nanom."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Safalokfoksa marokrok koya mifadisawan a nanom.", "output": "Safalokfoksa ko tahatekoday to tilo a futing."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milikaw to walay.", "output": "繞線圈。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "次日，第二天。", "output": "Cila a romi'ad."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "醃肉。", "output": "Kiroen ko titi."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我明天去接替卡照的班。", "output": "Celolen ako ci Kacaw anocila."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "今天天氣好，我想照相。", "output": "Nga'ayay ko romi'ad anini, sapipasasingaw ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapakaysingay ako koya lafang i ^eto.", "output": "我讓那位客人把碗放在桌子上了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitawal a iyo.", "output": "健忘藥。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matatodongay kona kafong , pa'acaen hena !", "output": "這頂帽子正好，買下看看！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "正確的話。", "output": "Matatodongay a sowal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "捆箱子用的。", "output": "Sapilikakawa to lipa."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misalipaan ira koni tosaay, sapateli to riko'.", "output": "我把這兩個箱子做出來放置衣服用。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我做的箱子只有一個。", "output": "Cecay aca ko misalipaan ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fanoh no siri.", "output": "羊毛。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipatangsol caniraan.", "output": "促使他們馬上行動的方式。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我今天不會讓你跑掉的。", "output": "Cowa ko sasahapelawen ako kiso anini."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisakamoko' to kilang.", "output": "縮短木頭用的(器具)。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我把那項工作做完了。", "output": "Milahecian ako koya tayal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cowa ko misakakinihay to wawa ko wama.", "output": "父親決不會偏袒小孩。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他有愛多嘴的友人。", "output": "Ciwidang cingra to cikasemaay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的公司很穩固。", "output": "Tanektek ko katayalan niyam."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要讓心中的苦悶得到解脫。", "output": "Sasekayen ko roray no faroco'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "請你們動身吧！時間很久了。", "output": "Kahomawad kamo !halafinto ko romi'ad."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他能跑。", "output": "Mipakacikay cinira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O Taiwan a tamdaw kako.", "output": "我是臺灣人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihamham to lafang.", "output": "款待客人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mawingawingay to wikol ko waco amilitemoh takowanan.", "output": "狗尾巴搖動著迎接我。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "kalatatawalan", "output": "被人所遺忘(事情)。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malitoday ko lamelo.", "output": "小米收成了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O canglah ko kalalefekan no facal.", "output": "秋天是田地乾裂的時間。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapikorih to 'ofang no 'edo.", "output": "扒開老鼠洞的工具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "現在他在何處？", "output": "Icowa cingra i matini?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們用詭計欺騙那些猴子。", "output": "Sefiren niyam kora lotong a misafana'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "獵人摸黑回家。", "output": "Kapkapen noya mi'adopay ko to^man a minokay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kapkapen to niyam ko ko samado no panay.", "output": "我們把稻田的雜草除去。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你用什麼坐在地板上？", "output": "O maan ko sapihacinar iso?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "ca'efas ko nanom.", "output": "水溢出了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "加快步伐去。", "output": "Harakaten a tayra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miliwalay kora patiyamay to kiradom.", "output": "那個商店在賣布。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們和鄰居正在互助犁地。", "output": "Mapapaliway kami ato fiyaw niyam a mikangkang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapingasifaw ako to nanom.", "output": "我想兌水。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'emo to doway.", "output": "研磨糯米做米糕。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在買阿美語的書。", "output": "Mipaka'acaay kako to tilid no 'Amis."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "坐下來歇息一下。", "output": "Mipacarcar a maro'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想支撐那根橫樑。", "output": "Sapitoka'aw ako tora falat."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "抖動漁竿。", "output": "Mitefir to 'aliwal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我給你的價錢是幾塊錢？", "output": "Pina a rimood ko sapa'aca ako kisowanan?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cecay a rekad ko papalidingen.", "output": "要運載的(東西)有整整一車皮。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那七個老人。", "output": "Ora papitoay a mato'asay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ora sofitay ko mihokhokay.", "output": "是那些士兵在埋伏。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鳥抖動翅膀。", "output": "Mipikpik ko 'ayam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masakalahekelan a romi'ad.", "output": "令人愉快的日子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ikakaay to no ikakarayan ko kanga'ay noya romi'ad nangra.", "output": "他們的好日子勝過於天上了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Celi'en no tawki kako.", "output": "老闆對我叫喊叱責。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Laliyawen a mitopa.", "output": "要重新蓋章。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapikamayaw niyam to holo.", "output": "我們想抓飯吃。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misafelan ira ko dateng.", "output": "她把菜煮好了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把我的孩子的照片放大。", "output": "Sata'angayen koni a sasing no wawa ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakalongalongaw noya lamlo niyam.", "output": "希望我們的小米茂盛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我明天要休假。", "output": "Mihifang kako anocila."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "帽子被風吹掉。", "output": "Ma'iyof no fali ko kafong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "被我痛打過懶惰的少年。", "output": "O mifengesan ako a matokaaya ka'emangay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想把肉切成小片。", "output": "Sapikeritaw ira to titi."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "怎麼不呢？(我會去的)。", "output": "Mana ca saw?"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "sapisafolafolaaw(fola)", "output": "sapisafolafola"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapisafolafola", "output": "sapisafolafolaaw(fola)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipafayang to tamina.", "output": "給船升帆。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "引水的水溝。", "output": "pido'doan no nanom a cici'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hacowa ko talolong no kemod noni a fanaw.", "output": "這湖不知有多深。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "參加年齡階級。", "output": "Micamel i kapot."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikakahongan niyam.", "output": "我們捕捉飛魚了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "狗抓捕的東西。", "output": "O kakorahoten no waco."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是老闆派我來的。", "output": "O tawki ko miocoray takowanan a tayni."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在捲毯子。", "output": "Miloloday kako to tana."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "早上的被褥是媽媽捲的。", "output": "Ci ina ko miloloday to sawfan i papacem."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "敲打要蓋房子的石子。", "output": "O mipekpekay to sapisaloma' a fokeloh?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "線繞成圈兒。", "output": "Malikaw ko walay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人想袖手。", "output": "Sapidekoaw no malitengay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "年輕人扛得動原木。", "output": "Paka'orongay ko kapah to datong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "車上裝載的東西很零亂。", "output": "Mafawfaw ko pinaro no paliding."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ira ko felalotong i talo'an.", "output": "工寮裡有蜘蛛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "嘴裡含著糖。", "output": "Mimo'ed to 'odax."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipaloma ko tao to celes.", "output": "別人種糯稻。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipahecaday a tamdaw.", "output": "比試別人的人，比試者，比較者。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "加快節奏的工作。", "output": "Misararimokan a demak."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "loloh。", "output": "rorox"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rorox", "output": "loloh。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O fintang ko sapisefsef to nanom.", "output": "用臉盆倒水。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他不懂得偏愛他的孩子。", "output": "Ca kafana' cinira to sapisapadek toya wawa ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我打算代替下他要做的事情。", "output": "Sapipatadoaw ako to dademaken ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他一動也不動地坐在椅子上。", "output": "Temenekay cingra i 'axenan a maro'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Iraay ko sasing ako, alaen a mipanokay hataenengan iso.", "output": "我有相片，你拿回家去供觀賞用吧。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "抹上肥皂的背部。", "output": "Mipasafonan a kolol."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們期盼你的到來。", "output": "Hinatalaay cangra to sakatayni iso."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Macikangay ko 'a'ayaw no tamina , nga' macikay koengel a 'iwasen.", "output": "船的前面翹了起來，這樣駕駛起很輕快。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mirangiay a tamdaw.", "output": "模仿者。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapilalo to felac.", "output": "浸米的用具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ora kakaenen ko sapipariri' to malitengay.", "output": "那些食品是贍養老人的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihatatanaman a radiw.", "output": "練習的歌曲。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapaseta' kako to mikakameleng no lalan.", "output": "由於道路滑溜我重重的跌了一跤。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "I kasi'nawan o kanikawan to kasoy.", "output": "在冬季缺少柴火的時候。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用套獸圈獵捕野獸。", "output": "Mitalakal to 'a'adopen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "桃子熟透了。", "output": "Malonoay ko lopas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sacangawen ko makapahay a cangaw !", "output": "要做個(戴著)漂亮的項鏈吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kacitamorong to laput a minokay.", "output": "回家時要扛著地瓜葉回來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人想在院外曬太陽。", "output": "Sapipacidalaw no malitengay i papotal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "提行李用的。", "output": "Sapi^awit to lalosidan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "(雙方)搶球。", "output": "Mala'afas to mali."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitengil kami to sowal no malitengay, sainanengen dademak a mitilid.", "output": "我們聽從老人的教誨，到學校努力地工作學習。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisodsodaw ako to payso no loma'.", "output": "我想逐步付給房款。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他為自己的無能而氣餒。", "output": "Caay ka ci'icel ko faloco' ningra o katoledan ningra konini."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "用網捕魚。", "output": "Misafang to futing."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipala'ed to loma'.", "output": "隔開房子用的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O pisekingan a romi'ad anini.", "output": "今天是考試的日子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "姊姊想烘乾衣服。", "output": "Sapitapayaw no kaka to riko'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiforikataw ira to saong.", "output": "他想撐開傘。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "聽起來好懂。", "output": "kahemaw a tengilen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miparo'otay a tamdaw.", "output": "送行者。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Rawisen ko mali !", "output": "把球拿下來！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我弟弟潛水撿到海膽。", "output": "Maala no safa ako ko faday."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "舉手。", "output": "Patalafekang to kamay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "做斗量的師傅。", "output": "Misasatoay a sayxo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "，", "output": "Maharek a malahok"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maharek a malahok", "output": "，"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikawit to salil.", "output": "鉤織魚網。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'otekokay kora malitengay itira.", "output": "老人在那裡一聲不響地坐著。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "兩人合蓋一條被。", "output": "Cacayat to sawfan a mafuti."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifotfot ko mitiliday to rengos i pimalian.", "output": "學生在球場上拔草。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipacaholakay a tamdaw.", "output": "放魚籠的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他給三個孩子分送花生。", "output": "Palilamen ira ko tatoloay a wawa to kodasing."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifalah to lakaw.", "output": "丟垃圾。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tahikoray a tamdaw.", "output": "遲到的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "冰融化。", "output": "Malasinol ko koli."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我正在打扮我的孩子。", "output": "Misakapahay kako to wawa ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makedalay ko niyaro' niyam , awa to ko mimimimiming aca a nanom.", "output": "我們村正遭受大，一滴水也沒有。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Citpongay ko kafer noya kapah.", "output": "tapad, calaped."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "tapad, calaped.", "output": "Citpongay ko kafer noya kapah."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matana niyam ko kafes i 'alo.", "output": "我們在河溪抓到小蝦。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "姐姐按要求把布編織好了。", "output": "Mipapitinooyan ci kaka to kiradom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這塊鹹肉發霉了。", "output": "Tapokaway kora timpa'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tapokaway a titi.", "output": "發霉的肉。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kala ladiw han nangra ko nikaromakat.", "output": "他們在行走過程中一邊唱歌。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子愛吃糖。", "output": "Hali'odax ko wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "不要讓雞、鴨進秧田！", "output": "Aka papicemoden ko koko' ato maymay i sacapoxan !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那小孩忘了揩屁股。", "output": "Mapawan koya wawa a mi'isol."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "(longlong)", "output": "mipalonglongan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "mipalonglongan", "output": "(longlong)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mici'iwi'iwian a kapot.", "output": "派系複雜的團體。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misalimela to tireng.", "output": "愛惜身體。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milafot to kaered.", "output": "拉斷繩子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那件衣服的顏色是紫色的。", "output": "Ko'etimay ko cngel nora riko'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "別打擾別人。", "output": "Aka picara to tao."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sienaway anini,sakacita'dipaw ako to riko'.", "output": "今天冷，我想穿夾層衣服。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他的孩子想流口水。", "output": "Sakacingalayaw na wawa ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給車加油。", "output": "Mipasimal to paliding."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們的心不可分成兩半兒的。", "output": "Caayka nga'ay a lakatosaen ko faloco' namo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他夜間打著火把的亮光以捕田螺。", "output": "Mipalonglongay cinira to toko i dadaya."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們在煮鹿肉。", "output": "Mitangtangay kami tu titi' no mancel."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "公豬閹了。", "output": "Maliti'ay ko 'otoyan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把這鐵條做鐲子。", "output": "Sakadangen ira kora marad."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kacacepcep ko masasiolahay a tamdaw.", "output": "戀愛的人相吻。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kamelengay ko lalan.", "output": "路滑。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masalolongay ko kalas.", "output": "蘆葦捆成卷兒了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Niwaniwen ko dangah.", "output": "把鍋涮一涮。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ta'angayay to ko wawa ako, oni ko sakacipaketo ira.", "output": "我的孩子已經大了，因此穿褲子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipa'odaxaw ako i kofi.", "output": "我想在咖啡裡放糖。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "今年我會被提拔。", "output": "Mapapipacakat kako anini a mihecaan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Lawac no omah.", "output": "田邊，田界。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "今年我們把目標跨越。", "output": "hawaren niyam anini a mihecaan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tengtenghan no kolong kora paliding.", "output": "牛就把那輛車拉拽。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小孩子向媽媽表現幼稚來撒嬌。", "output": "Misamolamola'an no wawa ci ina."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們覺得這具燈火太閃亮了。", "output": "Fafalatfaten kami tona likat nonini a dawdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kasimaanay cingra to dafong ako.", "output": "他對我財產抱無所謂的態度。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'apeladan no safa ko sota'.", "output": "弟弟妹妹把泥巴捏成一塊了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個人長大頭兒。", "output": "Makafongoh kora tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makafongoh kora tamdaw.", "output": "那個人長大頭兒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Icowaay ho koroma to hahaopaen niyam a mifaliw.", "output": "還有什麼地方可以讓我們擴及來砍伐的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifafaay ci kaka to safa.", "output": "哥哥揹著弟弟。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micengelay a sayxo.", "output": "在染色的師傅。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "就這樣把田地白白地荒廢 , 很不好。", "output": "Saloyahan ko omah, ca kanga'ay !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "媽媽想讓我弟妹睡覺。", "output": "Sapipakafuti'aw ni ina to safa ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ta'angayay ko taplik no riyal, mafelin ko tamina.", "output": "海浪這樣大，會翻船的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micemodan no kolong koya dadatengan.", "output": "牛進了那個菜園。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他做的燈具不太高。", "output": "Ca katada 'akawang ko misadawdawan ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他憑什麼到處走動呢？", "output": "O maan ko sapirakarakat ira icowacowa?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "還沒丈量的土地須丈量。", "output": "O fafakeciwen ko caayho ka fakeciw a omah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "O mica'edongana kaa'.", "output": "Mica'edongan ako ko talo'odan i li'el no kolong."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mica'edongan ako ko talo'odan i li'el no kolong.", "output": "O mica'edongana kaa'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'amamokotan a tireng.", "output": "蜷曲的身體。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O manto ko sakaranam niyam to romi'ami'ad.", "output": "每天早餐吃的是饅頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老闆想降低房價。", "output": "Sapisasereraw no tawki to 'aca no loma'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milifokan ako ko padakopak i paenan a maemin.", "output": "我把地板上的紙都撿了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我站在這風口上，感到手冰涼的。", "output": "Tanaeta'en ko kayam ako a tomireng i kafali'an."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "水果被壓時果汁就噴出來。", "output": "Tenec sako salang no losay a pececen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那塊布太薄。", "output": "Tada kihepicay kora kiradom."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matoris ko padakopak.", "output": "紙張劃上線條。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifarsiwan to penen.", "output": "用山蘆竹橫向甩過。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Emangic kami to nananomen.", "output": "我們懇求著要水喝。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kotoen ho kako !", "output": "給我捉一捉蝨子吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Paconeken ira to kahengangay a hana koya ma'opiray a fokes ira.", "output": "她給梳成辮子的頭髮插上紅花。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O ada ko hahadefeken niyam.", "output": "我們要把敵人全部消滅。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們摘扁豆吧！", "output": "Tefi'en ita !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hinapec kako to sowal ningra.", "output": "我懷疑他的話。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "裝在麻袋裡的大米被我顛簸起來。", "output": "Mapasakeroay ako ko miparoan i pawti a felac."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把松樹一刀砍斷了。", "output": "Capo'en ningra ko caleng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maharek to kako a misakawkaw.", "output": "我做好鐮刀了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipasifekangay kako a mafuti'.", "output": "我臉朝上睡了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把睡房隔開了。", "output": "Palala' ela ' eday to kofuti' an."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她的眼力不好，因此戴眼睛。", "output": "Ca to kanga'ay ko mata ira, oya ko sakacidadingoan ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "沖水的人。", "output": "Milikiday a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Anohacowa kiso a tayni anocila ?", "output": "你明天什麼時候來？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fafirang saan a mararamod.", "output": "夫妻吵架。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ano mitolik padi'ecen to moecelay.", "output": "如果編織東西，一定要把線兒弄整齊成直線。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他是有經驗的木匠。", "output": "O matanengay cingra to tayal no misakilangay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要個拐彎才會到達他們的園地。", "output": "Kakoliyolen ta maraod ko omah nangra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihaparpar ko wawa i paenan a maro'.", "output": "屁股蹲地坐在地板上。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cidofot a misalama.", "output": "攜佩袋出遊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "扭緊。", "output": "Liyocen ko pikedec."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "從事褪毛的的人。", "output": "Milonohay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的還子都很愛父親。", "output": "Halimama ma^emin ko wawa ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "聽到青蛙在田裡的叫聲。", "output": "Matengil ko soni no takora' i omah koka' saan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matengil ko soni no takora' i omah koka' saan.", "output": "聽到青蛙在田裡的叫聲。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifelinay kiso ta kowanan.", "output": "你反駁我的話。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Daditditen a komaen ko toron.", "output": "糯米糕要一點一點的吃。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miromotan kora lalan.", "output": "那條路弄窄了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapingidip a ofang.", "output": "窺視孔。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "不要再踢他，他起不來了。", "output": "Hamaan tokoden aca cingra, ca to kalomowad cingra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "請早早起床！", "output": "Karatar a lomowad !"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "過夜的客人有八個人。", "output": "Fafaloay ko milafinay a lafang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko 'a'atapaen ira saw?", "output": "他要夾什麼東西呢？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "潔淨的環境。", "output": "Makoracay a paputal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiepod to lalosidan a paliding.", "output": "卸貨車。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "sapipapi'arawaw no kakeridan tamoanan.", "output": "sapipapi'arawaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapipapi'arawaw", "output": "sapipapi'arawaw no kakeridan tamoanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihapopoay ci safa to tipid.", "output": "妹妹捧著盤子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "經過哪裡去的？", "output": "Pakacowaay a tayra?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasowal to mihimedan a sowal.", "output": "供出犯下的罪行。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "讓我的孩子找配偶。", "output": "Paramoden ko wawa ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人的肚子脹起來，可能有病。", "output": "Ma'ax'axay ko tiyad no malitengay , adada to alatek."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fasawen ko fa'det no loma'.", "output": "把房子裡的熱度冷卻一下。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "。", "output": "cisera'ay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cisera'ay", "output": "。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Marakad ! matengil no wina.", "output": "停止哭泣！會被媽媽聽見的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Alikien kora safalod a mihedal!", "output": "快點把捆繩解開！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "六位阿美族兄弟受委託寫這本書。", "output": "Mapatorod ko a^enemay a salikaka no 'Amis a mitilid toni a cudad."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "運動場上劃上線了。", "output": "Matorisay ko piontokan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們在河邊看見眼鏡蛇。", "output": "Ma'araw niyam i 'alo ko kakohkohay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O so'aw ni mama saka kero' saan ko pinanom ningra.", "output": "爸爸太渴了所以喝水時咕嘟出聲。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapihafekod to tosiya a 'otoc.", "output": "撞倒汽車的木樁。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在一片一片地撕紙了。", "output": "Mipicpicay cinira to padakopak."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我把煮好的菜放辣椒了。", "output": "Mipalingkiwan ako ko mitangtangan a dateng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisahafayaw ira to lamlo.", "output": "他想儲備小米。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "mifuting.", "output": "捕魚。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把火勢加旺。", "output": "Tololen ko namal!"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你想做什麼用呢？", "output": "Sapisamaanaw iso saw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把這根竹子矯正直了。", "output": "Salofen kona 'aol a misamo^cel."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在叫他的弟弟捆樹枝了。", "output": "Mipasaso'otay cinira cisafaan ira to ca'ang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "浮出外面。", "output": "talahekal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci Kacaw ko aocoren ako a tamdaw.Kacaw", "output": "是我要派去的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "員警保護了五個人。", "output": "Lalimaay ko mipa'adingan no kincac a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'aol kami to hahatakaren.", "output": "我們去砍竹子準備做床。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他希望有錢。", "output": "Sakacipidaaw ira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakacipidaaw ira.", "output": "他希望有錢。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hacikayen ita a tayra i picodadan.", "output": "我們要快跑去學校。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Minokay ko mi'adopaway a tamdaw i , matikedaay nangra ko widang nangra i lalan.", "output": "獵人回家的時候，路上遇見了他的朋友了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我所設計的帽子。", "output": "O misafacoan ako a kafong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我讓換下他的髒襪子了。", "output": "Mipapitidosay kako toya makaditay a kocosta ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們把糧食分了。", "output": "Mililaman naira ko kakaenen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kacepen ko mali !", "output": "接球！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Alaninininipsa ko malitengay to ^pah.", "output": "老人們輪著一小口一小口地喝酒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasofoyen ko safolod.", "output": "就要把捆繩鬆開。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "('Anengelay ho to miming kona lopas.).", "output": "'Anengelay ho kona lopas to miming"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Anengelay ho kona lopas to miming", "output": "('Anengelay ho to miming kona lopas.)."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "卡住的槍。", "output": "Taharikeday a kowang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pakafit to tao.", "output": "去聯絡別人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Siwaay ko katatingroh nona loma'.", "output": "這家有九層。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "此人的行為令人嫌惡。", "output": "Ka'osian ko demak noni a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把衣服弄潔白。", "output": "Satemili'en ko riko'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "i kaikor kiso, i 'a'ayaw kako, tayoen ita a romakat !", "output": "你在前面，我在後面，我們慢慢走吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ma'at'at kora cipoyapoyay.", "output": "那位產婦肚子開始陣痛起來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapirokrokaw ako to nanom.", "output": "我想燒開水。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "胡定是喜歡訓斥別人的人", "output": "Halipespesay a tamdaw ci futing."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matalaway ko fa'inayan to katawaan no tao.", "output": "男人怕別人嘲笑。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pihakeno toni a demak !", "output": "必須否認此事！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatenaan no pa^tang.", "output": "水桶底。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micaper to cokoi.", "output": "把桌子抬高。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "sapi'odawisaw no faki to 'icep.", "output": "老伯想摘取檳榔。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micefo' i riyal.", "output": "掉下海裡。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "造訪老師用的。", "output": "Sapipalafang to singsi."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "委託做事。", "output": "Patolon a dademak."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我掉隊了。", "output": "Malaliw to kako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我還不想睡覺。", "output": "Ca ho ka sakafuti'aw ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "今天什麼會議？", "output": "O maan ko sopet anini?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "藍天。", "output": "Langdaw ko kakarayan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malengaw ko kahedongay i pala.", "output": "燻蚊草長在荒地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的紅包醫生笑納了。", "output": "Malayapay no ising ko angpaw iso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "母親在廚房切蘿蔔絲了。", "output": "Miresresay ci wina to saytaw i cawka."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pacemetay cinira a namalahok.", "output": "他午餐後休息片刻了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "許多人在集會所蹲著集合。", "output": "Hakakanan saan ko alomanay a masa'opo i sefi."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "海浪整天整夜地嘭嘭作響。", "output": "Papengpapengsa ko tapelik masaromi'ad masalafii a mahoni."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miwanikay cinira to tolon ako.", "output": "他拒絕了我的祈禱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們村裡有美麗的小姐。", "output": "Adihay iniyaro' niyam ko makapahay a kaying."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pa'efer to 'ayam.", "output": "把鳥放飛。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pa'adingen ako cisafa ako.", "output": "我偏袒我弟弟。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mafana' to kako a misakoliciw.", "output": "我會造自行車。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maliliday ko fokeloh.", "output": "石頭抬起來了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mali'akong to ko marad.", "output": "鐵條扭彎了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你把肥料撒在田裡去吧。", "output": "Ca'fonen iso ko 'afo i omah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "沒人能比得上他工作的能力。", "output": "Awa ko pakahecaday to tayal ningra."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "matowaco.", "output": "mato"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mato", "output": "matowaco."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給一次。", "output": "Kinacecayen a palada'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Aka fikoden ko losay no tao.", "output": "不要把別人的農作物絆倒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikalic to kolong.", "output": "騎牛。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'aliwacay kami.", "output": "我們正在休假。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'aliwacan ako a pateli ko pitaw i taro'an.", "output": "我抽空把鋤頭放到工寮下。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipariri' to malitengay.", "output": "贍養老人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "寄書。", "output": "Pakayofing to tilid."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cokaten no lafang ko futi' ako.", "output": "友人打擾我的睡眠。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikakoyay ko mitiliday a wawa to fayfay a romakat.", "output": "小學生舉著旗子走。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的狗想對我狂吠。", "output": "Sapi'aw'awaw no waco iso takowanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipa'ekel to lokedaw.", "output": "制服豹子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把這屋子的地面挖個洞眼。", "output": "Sakelengen ako ko paenan no loma'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們把小米捆成一束了。", "output": "Miceledan niyam ko lamlo."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ano miparo to nanom i talid tahira i kafatadan.", "output": "把水盛一半到瓶裡。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifitelakan ako koya tolak no kasoy a maemin.", "output": "那些樹皮我都剝開了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把灰塵拍掉。", "output": "Tihtihen ko alafoh."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "人病了，趕緊去看醫生！", "output": "Adadaay ko tamdaw, takopen a paising !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipadamaanaw niyam tamowanan.", "output": "我們想全力幫助你們。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mahapinang ko sasing iso.", "output": "你的照片很清楚。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "被海浪推得上上下下的漂流木。", "output": "Misamowamowadan no tapelik a cikacik."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipasowalay kami to singsi naira.", "output": "我們告訴他們的老師了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipacefaaw no malitengay kamianan.", "output": "老人想懲罰我們。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "切煙絲用的。", "output": "Sapiresres to rafor."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ma'oning ko tireng noya wawa.", "output": "那個小孩滿身污垢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "到路邊。", "output": "Talafati'ian no lalan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "ko podac no kowawi.", "output": "把荔枝皮整個剝掉。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikiloma'ay ko lotong tora dihif.", "output": "猴子居住在那個洞穴裡。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitanaman ira anini a miilang to lamelo.", "output": "她今天嘗試過碾小米了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Macedengay cingra a midangoy.", "output": "他慢慢地游泳著。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "火勢蔓延。", "output": "Midapdap ko likat no namal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把小米弄進屋裡。", "output": "Mipatalalaloma' to lamelo."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mato'asay kako.", "output": "我老了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisakowa' a sapal.", "output": "種木瓜用的種苗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "拍打黏土用的(器具)。", "output": "Sapitektek to dita'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的傷口劇痛難忍。", "output": "Hananghang ko doka no mako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kiso ko mirokicay to wina.", "output": "向媽媽在裝哭耍孩子氣的人是你。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misahapelaway kako to pitaw.", "output": "我鬆掉鋤頭了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "讓我坐這輛車。", "output": "Mapakalic kako tona tosiya."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kerickericsa mirenac to po'ot.", "output": "沙沙沙地磨著小刀。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Toriracsa kora madoka'ay a minokay.", "output": "那個受傷的人踉踉蹌蹌地回來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misamoco'ay a sayxo.", "output": "砌牆的師傅。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misamoco'an niyam ko lingka.", "output": "我們把紅磚砌牆了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把刀鞘的帶飾鈎編好。", "output": "Kawiten ko liwa i cofer."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Comoden i laloma'!", "output": "進去屋裡吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Manapnapay no kulong ko rengos.", "output": "草被牛嚼食著。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "提著漁槍。", "output": "Mi'awit to pacing."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malakangkofoay ci kaka.", "output": "姊姊當護士了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "瘦小的人烤火感到溫暖，眼睛就睜開了。", "output": "Dihekoen ko ma'okotay a tamdaw a mingiro."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micacak to maymay.", "output": "煮鴨。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sa'angongol sato ko mikorkoran naira toya omah.", "output": "那塊田地被他們挖的越來越深了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "女生戴女式披肩跳舞。", "output": "Ci'arusaysayay a makero ko fafahiyan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Ek'eksa ko tawa noya malitengay.", "output": "那老人呵呵笑著。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "天雨帶傘吧。", "output": "Ma'orad ko romi'ad tatoyen ko kalapid."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O aylong ko sapitepik to riko'.", "output": "折疊衣服用的熨斗。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kakomimiten kona ca^engetay a fanges ako.", "output": "我皮膚癢癢要捏揉。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maloloday koni a kiradom.", "output": "這些布料捲起來了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他在出售水晶石。", "output": "paliwalay to felalac cingra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Aka hitefoen, tada 'angongolay koni a 'alo !", "output": "不要跳下去，這河太深！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "部落的代表。", "output": "Tarokos no niyaro'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要看清界線。", "output": "Hapinangen ko kalangangan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "今天你們收割小米要幾個小時？", "output": "Pina toki ko pihafayan namo anini?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Linahen niyam ko kowang a mitoker tora tayniay a 'ada.", "output": "我們移動火槍抵抗來犯之敵。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們忙一整天。", "output": "Masaromi'ad cangra a matayal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Adihayay ko ma'adopay niyam inacila.", "output": "昨天我們獵獲甚多。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ma'alafangay niyam ko 'asisiw.", "output": "稻草我們抱著。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipawtian ko mi'acaan iso a panay.", "output": "你買的稻穀用麻袋裝好了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O 'a'awasen no wawa ko kengkeng.", "output": "孩子要去跨越水溝。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們坐不久。", "output": "Caka a'alafin ko aro' niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Awa ko mimimiming a depoc.", "output": "連一點利益也沒有。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cohcoh to toku.", "output": "嘬食田螺肉。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他急忙的回家。", "output": "Kalah saan cingra a minokay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給你席子。", "output": "Mipasiyam kisowanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakangdawsa ko misakolangan ako.", "output": "我種的芥菜綠綠的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鎖門用的鎖匙。", "output": "Sapita^eta a safawah."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cocoen ko safa, ali!", "output": "要給弟弟餵奶呀！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tadengal ko kakarayan.", "output": "天空晴朗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Nga'ayay ko miraradiwan niyam a tengilen.", "output": "Miraradiwan no kapah cinira to romi'ami'ad."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miraradiwan no kapah cinira to romi'ami'ad.", "output": "Nga'ayay ko miraradiwan niyam a tengilen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "大聲喊人。", "output": "Milaha' to tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你想捕捉海膽嗎？", "output": "Sapi'a'owangaw iso han?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapi'a'owangaw iso han?", "output": "你想捕捉海膽嗎？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "媽媽想早上摘菜。", "output": "Sapidatengaw ni ina i papacem."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們說親的人叫什麼名字呢？", "output": "O cima hananay ko mi'olidan namo ?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misacemodan a pakolongan.", "output": "製作牛欄的入口。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kakita'an ko milikakawaay to no kiloma'an a demak.", "output": "部落領袖安排豐年祭的事。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "水流噴湧。", "output": "Macedas ko nanom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你要釣什麼魚？", "output": "O maan ko cacemoten iso a futing?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "家家戶戶都變樣。", "output": "Mafalic to ko lomaloma' a mamin."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "maniwaniway to ko sa'anip.", "output": "稻田被除草了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapihaterteraw iso a maro' tora paliding?", "output": "你想坐在那輛車滑行嗎？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你什麼時候要叫人告訴他？", "output": "Hakowa ko pipapipasowalan iso ciniraan?"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Kantoken no singsi kami a mitilid.", "output": "kantoken"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kantoken", "output": "Kantoken no singsi kami a mitilid."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他做事沒什麼好擔心的。", "output": "Awaay ko ka caremcemen to tayal ningra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cacorocorok a mikifi.", "output": "輪流職班守備。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "被弄彎的矛槍。", "output": "Mirikaotan a kotang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他催促小孩去上學。", "output": "Mico'ecoan ira ko wawa a papitilid."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "降落在樹枝上的鳥。", "output": "Mipatefoay i ca'ang a 'ayam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hamaan to ko panay.", "output": "稻子不要了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kamaro' ilaloma'!", "output": "請屋裡坐！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapapisawaday ci kaka to kaolahan a demak.", "output": "哥哥被辭去喜愛的工作。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我接著球了。", "output": "Micapetay kako to mali."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的朋友在他那裡赴宴了。", "output": "Mingiraway ko widang ako ciniraan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "年輕人想投擲標槍。", "output": "Sapisefi'aw no kapah to kotang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們受他的騙了。", "output": "Masamangahay ningra kami."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matapodiay no remes ko kiping ako.", "output": "我的大衣被血玷污了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Iraay ko mikicafayay takowanan.", "output": "我有伙伴了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他的手脫皮了。", "output": "Maposiray ko kayam ningra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tata'ang ko lifawa no firo'ok ni mamo ako.", "output": "我奶奶的甲狀腺腫大。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ilasolay cingra a minokay.", "output": "他已先回家。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "(aykoran)", "output": "Sadatengen niyam i aikoran"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sadatengen niyam i aikoran", "output": "(aykoran)"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "長短不齊的棍子。", "output": "Tadiwicay a saseti'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tadiwicay a saseti'.", "output": "長短不齊的棍子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你去摘洋白菜，我們做午餐。", "output": "Tamanaen iso sapisakalahok niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'aolay kami to hatamina i tokos.", "output": "我們在山上砍準備造船的竹子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masalofay ko mararaway a tilid.", "output": "錯字改過來了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malingad kita to lao'edengan.", "output": "我們在黎明出發。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cima ko mihapinangan iso?", "output": "你認出誰了？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是誰讓人在山洞裡埋竹尖的？", "output": "O cima ko mipapipacanoray i dihif?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我爺爺的眼力好，晚上能看書。", "output": "Nga'ayay ko mata nifaki ako, pakaeneng to tilid to dadaya."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "加入婦女會的是 Panay(巴奈)她們。", "output": "Ca Panay ko micamolayto Focingkay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "說謊或開玩笑的對象。", "output": "O misakaniwan a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "少年組唱歌。", "output": "Romadiway ko ka'emangay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "翻跟斗的人。", "output": "Tikokayay a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Macirid ko harateng iso.", "output": "你的心意偏了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'afoto omah.", "output": "讓田地肥沃。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子被他母親抱著。", "output": "Ma'afiliday ni wina ko wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她心裡悲傷，於是就不停擦著眼淚。", "output": "Mararom to ko faloco' ira, sisisisithan ira ko losa' ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "誰換我呢？", "output": "O cima ko mipakotayay takowanan?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "分兩塊田。", "output": "Lakatosa to omah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "洗手。", "output": "Minanaw to kamay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micowatay kora kapah to karomakatan no tosiya.", "output": "年青人正在擴展汽車路。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我今天想釣魚。", "output": "Sapicemotaw kako to futing anini."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "扣除工資。", "output": "Milowan to lifon."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "警察要巡視的地區。", "output": "Laliyoken no taylin a pala koni."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們用箭竹做成床舖了。", "output": "Malotatakelay niyam ko folo'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ana mapolin kako.", "output": "哎喲！我差一點就跌倒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci Opay ko misa'apacangay a tamdaw.", "output": "Opay 是馬虎草率的人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micelcelay i ofang a 'edo.", "output": "鑽洞的老鼠。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "salo'afang", "output": "(南腔→靈魂)。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mmisasa'akawangan noya matokaay a tamdaw ko capox.", "output": "那個懶人把秧苗拔高了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makaracaciyaw koya tamdaw.", "output": "那個愛饒舌。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "舂米工具用臼子和杵。", "output": "Tifekan ato 'asolo ko sapisafelac."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitinac to caok.", "output": "舔滷汁。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給他看。", "output": "Mipaeneng ciniraan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Seti'en kora waco ira !", "output": "打他那隻狗！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把那些蚊蟲一一捏死。", "output": "Poniniponini'han ira koya fafonget a mipatay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "\" kacitafad \" kamo han ningra.", "output": "Pasowal han no tomok ko fa'inayan no Manowan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasowal han no tomok ko fa'inayan no Manowan", "output": "\" kacitafad \" kamo han ningra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "快步所去的地方。", "output": "Misaharakatan a katayraan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要絆倒的。", "output": "Fafikoden a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "ningra a halilafang.", "output": "Hatiniay ko lalok"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hatiniay ko lalok", "output": "ningra a halilafang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fafangaden a capox.", "output": "要拔的秧苗。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pakaenen ko fafoy to kalitang.", "output": "給豬吃長豆。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "回報神。", "output": "Pahicera to kawas."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那些小孩都被絆住，一個個跌倒在地。", "output": "Alapolipolinsa a tahafikod koya kaemangay a ma^min."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們想撒播小米。", "output": "Sapifolsakaw naira to lamlo."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ofangen to lilit.", "output": "用錐子鑽洞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要堅持紀念他所作的好事。", "output": "Dada'ocen a miharateng ko makapahay a tayal ningra."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kitingen ita ko kaying a makero !", "output": "我們拉姑娘的手一起跳舞吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要用嘴啃這條線才綁緊。", "output": "Kaketemen kona keliw a mikedec."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想超過你。", "output": "Sapitiwtiwaw ira kisowanan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitiwtiwaw ira kisowanan.", "output": "他想超過你。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O romaroma ko niyaro' ita.", "output": "我們的村莊各具特色。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "得到贈禮的人。", "output": "Mipakaolahan a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "分散人心的手段。", "output": "Sapilaklak to faloco'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這稻谷為了中餐才臼上的。", "output": "O sakalahok a felac ko sakapitifek nonini a panay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cima'aday cifaki.", "output": "爺爺在講故事。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把水啜飲了一口。", "output": "Mihelipan ira ko nanom."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihelipan a hacol no kolong.", "output": "所吮吸的牛乳。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ta'angay ko fali kalodisan no riyal.", "output": "有強風時海上風浪澎湃的時候。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mingohahan ako ci Lisin.", "output": "我跟 Lisin 約會了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sa'owayen iso anini han?", "output": "你今天要種藤子嗎？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakahemaw to 'inorong.", "output": "減輕擔子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kedecen iso a mifatel!", "output": "你把手環帶緊一點！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們辛苦開墾耕耘出來一點點土地，因而有糧食。", "output": "Lolaysa kami a mifariw mipitaw tona mimingay a omah, sakaira no kakaenen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "(dademaken)", "output": "Awaay ko kakemaken"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Awaay ko kakemaken", "output": "(dademaken)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Talamaci kita hena !", "output": "我們上街去吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我揭露他以前的事情。", "output": "Midakdak kako to 'ayaway a demak ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "練習阿美語。", "output": "Pananam to no 'Aimis a sowal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們的策劃者是他。", "output": "Cinira ko misalipaway niyam a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "kaepeday a sera.", "output": "鬆軟的土地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "縮短梯子。", "output": "Misapoener to kawal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O 'epah ko kawarakan no malasangay.", "output": "酒精中毒。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipakatengil to kako to honi no kikay.", "output": "我能聽見機器聲了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milohakay kako to sadatengan.", "output": "我在弄鬆菜地。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milohakan ko sakodasingan niyam.", "output": "我們的花生地耘鬆了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們娶妻子有什麼條件呢？", "output": "O maan ko sapisafafahi namo saw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想砍那香蕉樹。", "output": "Sapitapa'aw cingra toya looh."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Piyocsa to canira a milaliw.", "output": "他們掉頭就逃跑了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人講述他們祖先的故事。", "output": "Kitohen no mato'asay ko rayray no 'orip nangra i tato'asan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把蠅卵弄死。", "output": "Patayen ko cacilek."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caca'efasen no nanom.", "output": "被水溢出。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatopelaken a sofok.", "output": "要扯開的麻袋子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tahepeken ako ko riri' to kaysing.", "output": "我把蟋蟀扣在碗裡面。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個孩子被叫去鉤桃子了。", "output": "Ora wawa ko mipapirawisan to lopas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci Cinaw ko cacohongen niyam.", "output": "我們要緬懷的是齊瑙先生。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapifariri a funus.", "output": "砍伐用的刀。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的電腦被賊偷了。", "output": "Matakaw no kokong ko kompiwta ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisafadisawaw no kaka sa pananom caniraan.", "output": "姊姊想燒開水，給他們喝。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikicidalan a riko'.", "output": "曝曬的衣服。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Canira ko mikicidalay i papotal.", "output": "在屋外曬太陽的是他們。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他率領的是那些青年人。", "output": "Ora kapah ko mikeridan ira."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們要怎麼回去呢？", "output": "Sasamaanen ita a minokay saw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "(古拉斯)領唱阿美族歌曲。", "output": "Saradiwen ni Kolas ko no 'Amis. Kolas"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisakopidaw ni kaka.", "output": "姊姊想編藤盒子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "魚簾做好了。", "output": "Maharek a misacering."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我得到他所秤的桃子了。", "output": "Mapatingtingay ningra kako to lopas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihifalatan ako ko kilang.", "output": "我橫放好了木頭。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "sapifadiso'so'(fadiso'so')", "output": "sapifadisawaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapifadisawaw", "output": "sapifadiso'so'(fadiso'so')"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那壞人正在遭受報應。", "output": "Malafoay ko ma'odangay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "青蛙有腳，蛇沒有腳。", "output": "Cioo' ko takola', o 'oner cowa kacioo'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "森林和草地處處被燒成灰燼。", "output": "La'afosa ko lotok ato talod icowacowa."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "mipariko'an ako canira to faelohay a riko'.", "output": "給他們穿上新衣服了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我借貸他一萬元，所以我欠債了。", "output": "Nicaliwan ako to 'ofad a payso ira, oya ko sakacitadah ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鋸樹。", "output": "Mirosaros to kilang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cisinoetay to ko kaa' ako sapirecepaw ako to kaa'.", "output": "我的背心有汗了，我想浸泡一下。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "苗埔被鳥用腳扒開了。", "output": "Makori'hay no 'ayam ko sasapalan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "姊姊想逗樂弟妹。", "output": "Sapipakahemekaw ni kaka to safa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她想削蘋果。", "output": "Sapipudacaw ira to lingko."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我按照老闆的交代已經交稅了。", "output": "Mipapipasata no tawki kako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "誰經過那裏？", "output": "O cima ko pakairaay a tamdaw?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "施法的人，念咒的人。", "output": "Miredekay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "拔劍用的(工具)。", "output": "Sapisodoc to funus."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "裝傻的人。", "output": "Misapafolaay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要擤鼻涕的是我弟弟。", "output": "O safa ako ko sasongideten."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那小孩想爬行。", "output": "Sakanafoyaw nora wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你的衣服浸濕了。", "output": "Micepa'an ko riko' iso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們高興而互相鞠躬致意。", "output": "Matata'ong kita to hemek ita."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我讓人送弟弟回臺北了。", "output": "Mipapipanokayay kako to safa i Taypak."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在鉤取上面的菜藍子。", "output": "Mirongawitay kako to cayna i kafekang."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我把桃子鉤取下來了。", "output": "Mirongawitan ako ko lopas."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Demaken nangra ko tadamanay a demak.", "output": "他們做了不起的事。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misafata'anay kami anohatini.", "output": "我們現在種樹豆了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "”", "output": "Katomireng !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Katomireng !", "output": "”"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們正在歇息了。", "output": "Mipacarcaray canira a pasela'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipodpod to fadito ko ka'emangay.", "output": "孩子們在撿鋁罐。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kacililam to titi !", "output": "分肉食吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masa'apoloay ko mitaringan niyam a suta'.", "output": "我們堆積的泥土如同山丘了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatoresen ako kora tosa a porod.", "output": "要把那兩個線圈連接起來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pacarcar a maro'.", "output": "暫且坐一會。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "母雞要孵蛋。", "output": "Di'ien no tawinaan a koko' ko fita'ol."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "刹車。", "output": "Midemet to paliding."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapi'osi a kikay.", "output": "計算器。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "有野豬的山林。", "output": "Cifafoyay a lotok."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人正在編籃子。", "output": "Mitolikay ko malitengay to cayna."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你種多少無花果了？", "output": "Pina to ko misasokonan iso?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們種下的苗兒都發芽了。", "output": "Mahalengaway ko mipalomaan niyam a sapal a ma^emin."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我探究過他說的話。", "output": "Mikadkadan ako ko misowalan ira."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Dadakaxen a omah.", "output": "要翻耕的地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Mapangangan cingra to hacikayay a tamdaw no Asiya.", "output": "Mapangangan no malitengay ko wawa ningra to Mayawan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapangangan no malitengay ko wawa ningra to Mayawan.", "output": "Mapangangan cingra to hacikayay a tamdaw no Asiya."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要燒烤野豬肉。", "output": "o titi no fafoy ko dadohdohen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們的果園有多大？", "output": "Hakowa ko kakahad na safaloan namo?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們在催著客人上車。", "output": "Micoracoray kami to lafang a mikalic to tosiya."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我被狗撲過。", "output": "Korarohen no waco kako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "男士裝著男式圍裙跳舞。", "output": "Cica'edong ko kapah to kayap a masakero."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他衝擊什麼東西？", "output": "O maan ko mimedokan ira?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mimedokay ko malonem to sadatengan.", "output": "鹿闖進菜園裡了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "cafer", "output": "cafeng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cafeng", "output": "cafer"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "小孩模仿父母的舉止。", "output": "Rangien no wawa ko wayway no wama ato wina."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想在這條河裏游泳。", "output": "Sapidangoyaw kako toni a 'alo."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "握手。", "output": "Mimetmet to kayam."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "冰雪化解。", "output": "Maferfer ko so^eda."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "批評過失。", "output": "Patorcek to raraw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "無精打采地坐在地板上。", "output": "Sakosemilsa cingra a maro' i paenan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "為什麼提不起精神來呢？", "output": "Mana sakosemilsa kamo saw?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misawad cinira to matiraay a tayal.", "output": "他要辭掉那份工作。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "洗臉用具是臉盆。", "output": "O fintang ko sapilali'op."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我看護生病的媽媽。", "output": "Mihimaw kako to adadaay a wina ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我吃得很香。", "output": "Saka^eso'sa kako a komaen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sasekseken a felac.", "output": "即將被蹲實的米。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Karoten ko lakaw no fanaw.", "output": "把池塘的雜物耙攏起來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "食物的氣味被他吸納了。", "output": "Mahafhafay ningra ko kakaenen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipespesay kora kakeridan kitaanan.", "output": "領導在批評我們了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子把那群鴨趕走了。", "output": "Milaplapan no wawa koya maymay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kacitapad ko fa'inayan a makero.", "output": "男人要戴綁腿跳舞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "上工時請帶小鐮刀。", "output": "Hawikidento ko kakawit a malingad."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "給老人送溫暖。", "output": "Mipadiheko to malitengay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tatiktiken ako ko lata' i tireng.", "output": "我要把身上的木屑拍掉。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我即將看見這麼大的船。", "output": "Pakaka'arawen kako to hatiniay atamina."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihinamay ko wawa to sasalamaan.", "output": "小孩在找玩具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milinahay ko kaka to lalodisan.", "output": "哥哥在搬行李了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "sakapinanom", "output": "喝水的原因。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O cima ko misa'emoay to doway a felac?", "output": "是誰研磨糯米呢？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malolay kako a masamihecaan.", "output": "我辛苦一年。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapihafalataw niyam.", "output": "我們想成棟樑。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他妻子生個男孩子。", "output": "Mahofoc ko fafahi ningra to fa'inayan a wawa."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O cima to ko mi ta'elifay to 'adipel?", "output": "是誰又翻牆了？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "哥哥在駕車。", "output": "Miparakatay ci kaka to paliding."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "生吃花生。", "output": "Misimanta' to kodasing."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "竹子做什麼用具？", "output": "Sapimaan ko 'aol?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kalidkid ko nanom no 'alo.", "output": "河水湍急。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把勺和筷子拿來，放在桌子上。", "output": "Alaen koya 'iros ato 'alapit, tlien i kafekang no ^to."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我工作無所謂了。", "output": "Talimaamaanay kako a matayal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Nanoyaan to o mihecahecaan mangata to marahrah ko panay, ma'efer koya 'ayam icowacowa.", "output": "從此，每年將近收稻季節，那只鳥就到處飛翔。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "攪拌水泥的人。", "output": "Tomelihay to amoto a tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Naipi'adopan", "output": "從獵場開始。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "從古到今。", "output": "Nai liteng taha anini."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "好哇，你為何要欺負他，他可是我的朋友啊！", "output": "Naw samsamen iso, o widang ako koninian !"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'atekakan koni a lingka.", "output": "這些紅磚增加硬度了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "媽媽在給煮熟的蘿蔔放醬油了。", "output": "Mipatawyoay ciina to mitangtangan a saytaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Aka sontolen ko malitengay !", "output": "不要撞老人！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapacemot ako ko futing.", "output": "我釣上魚。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們在互相頂嘴、吵架了。", "output": "Macacolicoliay cangra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "好鏡頭錯過了。", "output": "Malawa to ko nga'ayay a sasasingen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisa'isoaw no wawa.", "output": "孩子想做鯨魚玩具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "霹靂啪啦地掉在頭上。", "output": "Sapaloeposa a patefo i fongoh."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipalacal to 'adipel.", "output": "跨過籬笆。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitongarefaw no kawas toya tomay.", "output": "妖怪想張口咬那隻熊。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifo'enot to rengos.", "output": "拔草。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masakapotay a mitiliday.", "output": "成群的學生。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要繼續做的工作。", "output": "Tatoetoen a tayal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "前天我給碾磨機安裝好齒輪了。", "output": "Maharekay to i 'ayaw a romi'ad a mipawadis toya tailangan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我正交代 Panay 去尋找丟失的黃牛。", "output": "Mipapikilimay kako ci Panayan to mahidayay a tadakolongay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "山海之間的距離沒多少。", "output": "Cowa kahakowa ko kalala'ed no riyal ato tokos."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caca'engaren a parod.", "output": "要架起來的烤具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milihawak to oo'.", "output": "向左右岔開雙腳。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipararamoday ci wina to wawa.", "output": "母親在要求孩子結婚。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O piropay to sera ko lalecafi'en a tayal.", "output": "填土是極須搶先要做的事。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Terongay a ciping.", "output": "中綴，中加成分。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "讓我的牛去吃青草。", "output": "Papikaenen ko kolong ako to rengos."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapifadicaw ira to fidengal.", "output": "他想剝杉樹皮。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "F", "output": "uculi"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "uculi", "output": "F"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "ucyafF", "output": "uculi"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "uculi", "output": "ucyafF"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他的屋裡破得厲害，都看得見天空了。", "output": "Makalasakay ko laloma' ningra , ma'araway ko kakarayan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "Itini Kahangorngoran ni kaka.", "output": "Itiniay ko ka hahangorngoren ni kaka ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Itiniay ko ka hahangorngoren ni kaka ako.", "output": "Itini Kahangorngoran ni kaka."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "水涼了。", "output": "Mafasawto ko nanom."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我正用三角網撈蝦。", "output": "Mikafosay kako to tangol."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikafosay kako to tangol.", "output": "我正用三角網撈蝦。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "misolimetan(selimet)", "output": "misolimet"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misolimet", "output": "misolimetan(selimet)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikiyakiya'an ira kako.", "output": "他對我嚷嚷起來了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "電稅。", "output": "Sata no tingki."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mahapipic ako ko lengac.", "output": "我壓倒了月桃樹。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mingeric to wadis.", "output": "磨牙。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那個女人想裝神弄鬼。", "output": "Sapisakawasaw nora fafahiyan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "I tokos ko lahok ita.", "output": "我們在山上吃中餐。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "I'ayawen to a miritrit kora marahrahay a panay.", "output": "首先把成熟的稻子先收割了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipalatangay ci kaka to felac.", "output": "姐姐在量米。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mawatawatay ko fayfay.", "output": "旗幟搖動起來了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Adihay ko kintor i Lingacay.", "output": "能雅有許多箭竹。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitokad to tiyad.", "output": "剖腹用的(器具)。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cacedengen ko rakat no paliding i maci.", "output": "在街上開車要減速。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifo'enotan ko rengos.", "output": "雜草拔掉了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiwakelidaw naira to fadahong niyam.", "output": "他們想掀翻我們的屋頂。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Makolawac no 'alo.", "output": "河的兩岸。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kina'amisay ko pifaliw iso.", "output": "你砍的過北邊了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kamay ko sapidateng ako.", "output": "我用手摘菜。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Citolasay ko fana' ita.", "output": "我們的知識有限。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapilonoh to fanoh.", "output": "褪毛的器具。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fahfahen ko totoy iso.", "output": "把你的小狗趕走。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tada miaray ko faloco' to pidama namo.", "output": "內心十分感激你們的協助。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "老人用藺草作涼蓆。", "output": "O faho ko sikal no mato'asay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitekekan no rarikah ko oo' ako.", "output": "蜈蚣把我的腳蜇了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "貓想抓破孩子的手。", "output": "Sapikolahotaw no posi to kamay no wawa."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micakod ko posi.", "output": "貓在跳躍。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mafayo' kami a mi'icep.", "output": "我們吃檳榔時感覺難受。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "'Ik'iksa a misafirofiro.", "output": "嗷嗷掙扎著。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Aya, sa'osi kira pakacikay ko hatiniay !", "output": "呀，瞎說，像這樣能跑！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matalaw ko wawa to fitili'.", "output": "孩子怕閃電。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipapihololan no tapang kami to naniTaypakay a lafang.", "output": "官員吩咐我們招待臺北來的貴賓了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他想拾垃圾。", "output": "Sapiramotaw ira to lakaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "有鐵匠三人。", "output": "Tatoloay ko samaraday."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "鞭打不聽話的小孩。", "output": "Mipacpac to maliyangay a wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我抬起桌子了。", "output": "Mi'apotolay kako to eto."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "孩子想打陀螺玩。", "output": "Sapi'ingeraw no wawa a misalama."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ora sapipatingting to diyong.", "output": "那是稱豬用的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitakopaw niyam toya i 'ayaway a tosiya.", "output": "我們想趕上前面的汽車。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她要合上傘了。", "output": "Tatekemen ira ko saong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "摘辣椒用手。", "output": "O kamay ko sapilingkiw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikidihing to 'orad.", "output": "避雨。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mihacok to nanom.", "output": "舀水。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mifoyolay a fadisaw.", "output": "煮沸的開水。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mana 'angsitay ko kamay iso saw?", "output": "你的手為什麼有煤油味呢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們用黏土製造陶器。", "output": "O dita' ko sapisanga' niyam to kapowa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "箭放在箭鞘裡了。", "output": "Micofelan ko pana' i focel."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們若不同心倒不如分開的好。", "output": "Ano caay ka nga'ay ko faloco' namo i, laliyas han ko nga'ay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kalicen ako ko 'efa.", "output": "我要騎馬。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipihpihay ko lidep to sapikpik ira.", "output": "老鷹在搧動翅膀。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milingowa kako to malitengay.", "output": "我跟長輩打招呼。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Furokhan no waco ko sera.", "output": "狗在扒土。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mironong kami.", "output": "我們要捉鯉魚。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Palonglongen cinira a mikilim !", "output": "讓他打火把去尋找吧！"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kicidalen ita itira.", "output": "我們去那裡做日光浴吧。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "。", "output": "citiyaday"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "citiyaday", "output": "。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這是用來繁殖的枝子。", "output": "O talenakan a ca'ang koni."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matoremes ko cica' a masadak.", "output": "汁液如同鮮血一般流出來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我要領唱這首歌。", "output": "'A'eciwen ako koni a radiw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "快點摘葡萄！", "output": "Halikien a mifadiso'so'!"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我為太太買化妝品。", "output": "Micakay kako to cipoh no fafahi."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caay ka kanga'ay ko wawa a mitamako.", "output": "小孩不應該抽煙。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ma'epiay koya malitengay.", "output": "那位老人偏癱了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在擺新的桌子了。", "output": "Mipaetoay kako to faelohay."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "你們工具是什麼樣的？", "output": "O maanan ko sakalingad namo?"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misa'alilian namo han?", "output": "你們把糧倉建好了嗎？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "媽媽在工寮煮蕃薯湯。", "output": "Misafadokoy ci ina i talo'an."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Midimata'an a 'inorong.", "output": "被挑起來的擔子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "明天我們領工資。", "output": "Mililifon kami anocila."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kako ko milepelay to lokedaw a tamdaw.", "output": "我是獵豹人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那是你摘蘋果的工具。", "output": "Ora ko sapilingko iso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "叫人干擾他睡覺。", "output": "Mipapiparac cinira a mafuti'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "做魚竿用的竹子。", "output": "Sapisa'aliwac a 'aol."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misaka'emed a miparakat to tosiya.", "output": "很容易地開汽車。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "不要在山間深溝間種菜。", "output": "Aka pipaloma to dateng i kedof."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "半山腰。", "output": "Fatad no tokos."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Fatac no kamay.", "output": "腳關節。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mahakakanay ko aro' nora malitengay.", "output": "那老人蹲著坐。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ira to ko sapisaroma iso han?", "output": "(除此以外)你有做別的工具嗎？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Tayra ko papinapina ita a mi'adop.", "output": "我們當中有幾個人去打獵。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我太太在炒花生。", "output": "Miciyan ko fafahi ako to kodasing."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們想扛這塊石頭。", "output": "Sakaci'orongaw niyam toni a fokeloh."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakaci'orongaw niyam toni a fokeloh.", "output": "我們想扛這塊石頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "衣袖短了一點。", "output": "Amoko'ay to mamang ko caca'dongan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipaliwalaw ako toya tosiya.", "output": "我想出售那輛車。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把那棵榕樹矮化，種在罈子裡。", "output": "Sapo^eneren kora calamay, palomaen i koreng."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masaromaay to ko pising no 'Amis.", "output": "阿美族的五觀很特別。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "幾點鍾？", "output": "Pina ko toki?"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們在種甘蔗了。", "output": "Mipasinikay kami to tefos."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cakapapina ko mipasinikay to konga a tadaw anini.", "output": "今天種番薯的人沒幾個。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cofel no po'ot.", "output": "匕首的刀鞘。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misifinay ci safa to sasingaran.", "output": "妹妹在擦洗窗戶。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的毛線擰絞。", "output": "Aliwatec ko keliw ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misifinan ako ko cokap iso.", "output": "我把你的鞋擦好了。。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O kamay ko sapinohir ira i lalalanan.", "output": "他用手在路上爬行。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "人們個個呼應老人的話(做)。", "output": "Alapatootoorsa ko tamdamdaw to sowal no mato'asay."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maliyaliyas ita ko niyaro'.", "output": "故鄉我們被迫遠離。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapingitangit to sapa'orop.", "output": "懇求救濟。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapasa'opoay ko i niyaro'ay a tamdaw i sasefian.", "output": "村民被集中在會所裡了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "飯乾了，撤火吧！", "output": "Makerah to ko holo ,hawaten ko namal."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "心軟。", "output": "Lo^engel ko faloco'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sakaci'engidaw no kilang ira.", "output": "希望他的樹有蟲傷。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Masaharaterateng to ako ko demak iso.", "output": "你的事情我反復推敲了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Caco^eneken no faki i moco' ko 'ongto.", "output": "伯父要把煙斗插入蘆竹牆裡。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miadahay kako to adada ningra.", "output": "我在治療他的病了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "斜坡地越厲害，不好劃線取直。", "output": "Mangalef ko masa'apilisay , ca kanga'ay a torisen."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要分辨有六趾的動物。", "output": "Hapinangen ko iraay ko kacicikilan a fao."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "是那個孩子把竹子沉在那條河裡。", "output": "Ora wawa ko milasotay itira to 'alo."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ma'a'acaay kami to maamaan.", "output": "我們在交易各類百貨。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Falangfang ko likat no dawdaw namo.", "output": "你們的燈火越來越亮。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他打碎窗子的玻璃了。", "output": "Mipelpelay cinira to dadingoan no sasingaran."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "= pakaca'enot。", "output": "pakaca'epot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakaca'epot", "output": "= pakaca'enot。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Oni kanpiwta ko sapipalifet namo.", "output": "你們用這台電腦考試。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipawali to riko'.", "output": "晾曬衣服用的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我想批評我的學生。", "output": "sapi'esesaw ako to nitiliday ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Milotalot to sarosaros.", "output": "鋸。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapicalapaw cingra to omah iso.", "output": "他想霸佔你的土地。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mikotkotan kora hecek.", "output": "那根柱子雕刻好了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci Rahem ko tayraay.", "output": "去的人是Rahem(拉恩)。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapisalipawaw naira toya hongti.", "output": "他們企圖謀殺國王。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "扁豆乾癟了，不好吃。", "output": "Makopecay ko tefi' ,caay kanga'ay a kaenen."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Patakecen to na kapah koya kaying.", "output": "小夥子緊緊地把那位小姐抱住了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Awaay ko fangta i kafuti'an.", "output": "床上沒有蚊帳。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pasicidalen cinira a mieneng.", "output": "讓他面向太陽看。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我這張桌子散落了。", "output": "Mangiya'ay koni a ^eto ako."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "米粒被浸泡起來了。", "output": "Malengelay ko felac."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "卡兆先生的太太在染髮。", "output": "Micengel ko fafahi ni Kacaw to fokes."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這塊肥皂是給他洗澡用的。", "output": "Oni a safon ko sapipaino' ciniraan."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipanayaw niyam anocila.", "output": "我們想明天割稻子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "要把那些蕃薯蔓拔了。", "output": "Sasokidaten kora konga."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipalatohay kora koli to tawki ira.", "output": "工人正給老闆報告。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hatefo sa i koror ako ko 'ayam.", "output": "鳥兒在我背上落下。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "姐姐給我的上衣釘紐扣了。", "output": "Misakofitan ni kaka ko kiping ako."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misakofitan ni kaka ko kiping ako.", "output": "姐姐給我的上衣釘紐扣了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiyamayamaw niyam to dawdaw a makero.", "output": "我們想點火把跳舞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我得罪了你。", "output": "Ciraraway kako i tisowanan."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "那老人很可憐，他的病越發嚴重了。", "output": "Kasini'adaan koya malitengay , ngalefsa ko adada ningra."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們昨天就把工資領了。", "output": "Mililifonan to naira inacila."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我在這裏等過他。", "output": "Mitalaan ako cinira itini."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipecoday kako to fena'.", "output": "我在擠壓膿包了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把這塊大石頭翻過來。", "output": "Walinen koni a fokeloh."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Walinen koni a fokeloh.", "output": "把這塊大石頭翻過來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "她用木盤接納銅錢。", "output": "O tipid ko sapipalayap ira to tangpia'."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "山豬腿割下來。", "output": "Kaketeden ko cepi' no fafoy."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "跟他一起去玩。", "output": "Mihakelong ciniraan a misalama."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matengil no safa i pikasoyan ko tangic.", "output": "弟弟在柴山聽到哭聲。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "今天我們收割小米吧。", "output": "Hafayen ita anini."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O maan ko sakafadil no tamdaw itiya ho?", "output": "古代人們漂泊工具是什麼？"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'alotocay a kaying.", "output": "撿螺螄的姑娘。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kahteng ko 'etot ningra a haneken.", "output": "他的屁聞起來極臭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這朵花聞起來香。", "output": "Fangsis a haneken koni a hana."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Pi'aca to farohfohay a keliw.", "output": "去買毛線。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Maraod to ko kakeroan , o raromromen ako.", "output": "舞會時間快到了，我要把火點起來。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitongtong to emi.", "output": "舂麥子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Micerosay ko fa'edetay a malad cedo'en i nanom.", "output": "熱鐡浸泡水中會冒出蒸汽。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misafalako kako.", "output": "我要造皮革。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我黎明回來。", "output": "Minokay kako to lihal."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ci wama ko mipapinanomay to kolong.", "output": "是父親交代給牛喝水的。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "tahakefeng.", "output": "掉進陷阱。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitahafan ko ciwkeng.", "output": "水缸蓋上蓋子了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mapateked cingra to adihayay a tayal.", "output": "他承受許多任務。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sadawdawen ko 'acam.", "output": "把蘆葦杆做火把。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Kaciridan no nanom.", "output": "分水道。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Macorihay no ca'ang ko kayam ako.", "output": "我的手被樹枝擦傷了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他們的腳步都小心翼翼的樣子。", "output": "Sasimsimsimsa ko rakat naira a maemin."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "找一找我們的牛。", "output": "Hinamen ko kolong niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Hinamen ako ko mahimeday a impic.", "output": "我要找出被藏起來的鉛筆。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cemahad to ko niyaro'.", "output": "部落繁榮起來了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mipacahcahan ko maomahay a tamdaw.", "output": "讓農民喘氣歇息了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "去買瓦斯。", "output": "Pi'aca to kaso."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "牆的裂痕要補水泥。", "output": "O cacengcengen to 'amoto ko ngela' no moco'."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Matengil ako ko celi' ni ina.", "output": "我聽到媽的叫聲。參見 miceli'。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我的刀比你的鋒利。", "output": "Cihinang ko po'ot ako to no miso."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Cihinang ko po'ot ako to no miso.", "output": "我的刀比你的鋒利。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Oni ko sapikihcad to demak.", "output": "這是完成工作的方式。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipa'araw a dadingoan.", "output": "供人看東西用的眼鏡。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Ngohangohen to naira ko 'adipel.", "output": "他們把籬笆鬆動了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "O kincac ko misapeti'ay to tamdaw.", "output": "Misapeti'ay kako to kolong."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Misapeti'ay kako to kolong.", "output": "O kincac ko misapeti'ay to tamdaw."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mi'aw'away kora kohecalay a waco to tamdaw.", "output": "那條白狗向人嗷嗷吠叫著。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我買小孩的單車。", "output": "Micakay kako to koliciw no wawa."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "這些田地要代代相傳下去。", "output": "Rarocorocokhan no wawa no wawakona omah."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我們村的道路要拓寬。", "output": "Macahak ko lalan no niyaro' niyam."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mitadem to mapatayay a tamdaw.", "output": "埋葬死者。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "I Rinahem no Kalingko ko kasofocan ako.", "output": "我的誕生地在花蓮縣的光榮村。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapirongawitaw ira tora cayna.", "output": "她想勾取那個籃子。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapitololaw ako to sapisakalahok.", "output": "我想生火煮午飯。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "頭髮蓬亂地披散著。", "output": "Sefoysa a ma'ofod ko fokes."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Miritosan ako ko kakeridan to paya.", "output": "我投票給領導了。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapiolahaw ako toni a dademaken.", "output": "我希望喜愛這項工作。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Komaingay ko kero nona kaying.", "output": "這女孩跳起舞來很柔軟。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "長輩想鞏固村裡人之間的關係。", "output": "Sapisakodayitaw no malitengay to iniyaro'ay a tamdaw."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "警員在警部集合。", "output": "Masa'opo i kingpo ko taylin."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Sapipasikiwaw ho ako to tatihiay a tamdaw.", "output": "我想睥睨一下旁邊的人。"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O cinira ko misakoliyoliyolay to sowal a tamdaw.", "output": "他是個說話拐彎抹角的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "媽媽回家時夾帶著地瓜菜來餵豬。", "output": "Takini'han ni ina ko lapot a minokay to sapakaen to diyong."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "我做了兩個量米器。", "output": "Tosaen ako a misasato."}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "把你的金戒子摘下來。", "output": "Hpolen kora 'ekim a fati iso."}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "O faketaw ko sapitoris no sayxo to kilang.", "output": "sapitoris"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapitoris", "output": "O faketaw ko sapitoris no sayxo to kilang."}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Porongen ko naliti'.", "output": "把芒草打草結。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主。", "input": "他把污泥濺在我身上。", "output": "Topida'en ira ko sota' i tatirengan ako."}

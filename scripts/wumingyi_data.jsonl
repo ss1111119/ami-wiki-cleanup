@@ -1,0 +1,1284 @@
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "雞冠；鋸齒麒麟菜。", "output": "'adiping"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'adiping", "output": "雞冠；鋸齒麒麟菜。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小辣椒。", "output": "kiseraay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kiseraay", "output": "小辣椒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小辣椒。", "output": "kacipa'ay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kacipa'ay", "output": "小辣椒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小辣椒。", "output": "tayo"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tayo", "output": "小辣椒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小辣椒。", "output": "kilaenoay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kilaenoay", "output": "小辣椒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杮子林（園）。", "output": "'alopalopalan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'alopalopalan", "output": "杮子林（園）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "白頭翁。", "output": "'atipal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'atipal", "output": "白頭翁。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "山坡地，傾斜的坡地。", "output": "'apilis"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'apilis", "output": "山坡地，傾斜的坡地。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以馬太鞍語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "觀看，看，視，窺視。", "output": "hining"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hining", "output": "觀看，看，視，窺視。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "注意，小心，當心。", "output": "'arawi!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'arawi!", "output": "注意，小心，當心。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "酒精，含有酒精的飲料。", "output": "'aredahay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'aredahay", "output": "酒精，含有酒精的飲料。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "退潮；離去（指水離開某地）。", "output": "si'ac"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "si'ac", "output": "退潮；離去（指水離開某地）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "撥移…的棍棒。", "output": "'etoman"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'etoman", "output": "撥移…的棍棒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "皮膚因曝曬而脫皮的現象。", "output": "'idas"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'idas", "output": "皮膚因曝曬而脫皮的現象。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "守衛，站崗。", "output": "towic"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "towic", "output": "守衛，站崗。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "腳，四肢。", "output": "'o'o"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'o'o", "output": "腳，四肢。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "腳，四肢。", "output": "wa'ay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "wa'ay", "output": "腳，四肢。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "冷得縮成一團。因冷而全身捲縮。", "output": "'okot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'okot", "output": "冷得縮成一團。因冷而全身捲縮。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "黑菸灰，黑色，煤煙，燻黑。", "output": "'olaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'olaw", "output": "黑菸灰，黑色，煤煙，燻黑。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以東海岸語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "暖身（運動）；柔軟（運動）；柔軟體操。", "output": "'oriyat"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'oriyat", "output": "暖身（運動）；柔軟（運動）；柔軟體操。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "滿盈；差不多，過得去，還可以。", "output": "dem"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "dem", "output": "滿盈；差不多，過得去，還可以。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "薯榔，蕨類植物的根莖。", "output": "akakonga"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "akakonga", "output": "薯榔，蕨類植物的根莖。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "矮，短小。", "output": "poener"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "poener", "output": "矮，短小。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鴉片（台閩借詞）。", "output": "apiyan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "apiyan", "output": "鴉片（台閩借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對缺乏物件的一種渴望，需求。", "output": "nikaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "nikaw", "output": "對缺乏物件的一種渴望，需求。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "有需要，渴望，無聊，無所事事，不知該做何事，毫無頭緒。對缺乏物件的一種渴望，心有所欲求，需求。", "output": "ngarod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ngarod", "output": "有需要，渴望，無聊，無所事事，不知該做何事，毫無頭緒。對缺乏物件的一種渴望，心有所欲求，需求。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對缺乏物件的一種渴望，需求。", "output": "cango'ot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cango'ot", "output": "對缺乏物件的一種渴望，需求。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "啟應，對答。", "output": "cacawi"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cacawi", "output": "啟應，對答。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "撒嬌；假裝成被溺愛的孩子；在父母或大人面前撒嬌引他們注意。求愛，博得愛，如男人追求女人。", "output": "elo'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "elo'", "output": "撒嬌；假裝成被溺愛的孩子；在父母或大人面前撒嬌引他們注意。求愛，博得愛，如男人追求女人。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "驟雨中陽光短暫照射貌；雨過天晴。", "output": "cahedal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cahedal", "output": "驟雨中陽光短暫照射貌；雨過天晴。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "單坡屋頂，外屋棚。", "output": "tapah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tapah", "output": "單坡屋頂，外屋棚。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "褲子；綁於腰間分叉之圍裙（跳舞裝飾），綁腿褲，褲子。", "output": "lefok"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lefok", "output": "褲子；綁於腰間分叉之圍裙（跳舞裝飾），綁腿褲，褲子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "緊急，急忙，急遽。", "output": "foraw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "foraw", "output": "緊急，急忙，急遽。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "（被吵鬧聲）困擾，煩擾，吵鬧。", "output": "lanang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lanang", "output": "（被吵鬧聲）困擾，煩擾，吵鬧。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "春天。", "output": "carangcangan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "carangcangan", "output": "春天。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "霧，輕霧。", "output": "carefacef"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "carefacef", "output": "霧，輕霧。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "水缸（台閩借詞）。", "output": "caykeng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "caykeng", "output": "水缸（台閩借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "泛指黏附在上面或裏面的東西。黏附在岩石上的海螺貝類。黑笠螺。", "output": "sadipit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sadipit", "output": "泛指黏附在上面或裏面的東西。黏附在岩石上的海螺貝類。黑笠螺。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "榨取（果汁）或扭乾（濕衣物）。", "output": "cepet"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cepet", "output": "榨取（果汁）或扭乾（濕衣物）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "會毛骨悚然。", "output": "cerenohan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cerenohan", "output": "會毛骨悚然。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "花蓮縣壽豐鄉志學。", "output": "ci"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ci", "output": "花蓮縣壽豐鄉志學。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "棕背伯勞；百舌鳥。", "output": "cingrot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cingrot", "output": "棕背伯勞；百舌鳥。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "附件，黏附。", "output": "rapic"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rapic", "output": "附件，黏附。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "已穿好衣服。", "output": "Cifodoy to"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "Cifodoy to", "output": "已穿好衣服。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "攪和，攪拌。", "output": "cifor"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cifor", "output": "攪和，攪拌。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "成功的，有結果的成。", "output": "ciheciay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ciheciay", "output": "成功的，有結果的成。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "扎入…。", "output": "cirek"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cirek", "output": "扎入…。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "聰明的，有才華的。", "output": "citangalay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "citangalay", "output": "聰明的，有才華的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用腳踢；用腳踩踏。", "output": "cokay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cokay", "output": "用腳踢；用腳踩踏。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "水被攪動貌（如被擔挑的桶內之水）。", "output": "cowaco'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cowaco'", "output": "水被攪動貌（如被擔挑的桶內之水）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "從某人身上卸下來。減輕某人的責任或負擔。", "output": "coroh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "coroh", "output": "從某人身上卸下來。減輕某人的責任或負擔。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "磯鶴，草鶴之類。黃昏時才出現。", "output": "cowi'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "cowi'", "output": "磯鶴，草鶴之類。黃昏時才出現。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "甘露，露珠。", "output": "da'eso"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "da'eso", "output": "甘露，露珠。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "水蛭。", "output": "dadingta'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "dadingta'", "output": "水蛭。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "巫師（的別稱），巫師弟子。", "output": "dadokay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "dadokay", "output": "巫師（的別稱），巫師弟子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "入浸！", "output": "dahcongen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "dahcongen!", "output": "入浸！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "阿美族口璜琴，豎琴，線琴，原始口琴（豎琴）。", "output": "toftof"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "toftof", "output": "阿美族口璜琴，豎琴，線琴，原始口琴（豎琴）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "壞劣，損害，病弱。", "output": "datos"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "datos", "output": "壞劣，損害，病弱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "摘取五穀之穗，摘收穀物。", "output": "ketos"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ketos", "output": "摘取五穀之穗，摘收穀物。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要戰勝！要打敗。", "output": "dawaen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "dawaen!", "output": "要戰勝！要打敗。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "（詞前放置", "output": "dayom"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "dayom", "output": "（詞前放置"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "綁緊。", "output": "kelec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kelec", "output": "綁緊。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "疾病、壞態度，邪惡或罪的傳染。", "output": "rarid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rarid", "output": "疾病、壞態度，邪惡或罪的傳染。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "裝入。", "output": "paro"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paro", "output": "裝入。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "圍觀，觀看，觀望。", "output": "lingod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lingod", "output": "圍觀，觀看，觀望。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "批發；承包，包工。", "output": "efaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "efaw", "output": "批發；承包，包工。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "使變輕的。", "output": "madah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "madah", "output": "使變輕的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "獎賞，犒賞（台閩借詞）。", "output": "esang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "esang", "output": "獎賞，犒賞（台閩借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "利益，利潤（引自台灣閩南語）。", "output": "etan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "etan", "output": "利益，利潤（引自台灣閩南語）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "敬禮！鞠躬！", "output": "fa'ongen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fa'ongen!", "output": "敬禮！鞠躬！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "流木，被水沖下來的木頭。", "output": "likid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "likid", "output": "流木，被水沖下來的木頭。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以馬蘭語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "臉頰，雙頰。", "output": "kacihang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kacihang", "output": "臉頰，雙頰。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "高，高位。", "output": "fafang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fafang", "output": "高，高位。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "關節。", "output": "fafolad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fafolad", "output": "關節。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "拋棄，丟棄，遺棄。", "output": "fahkol"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fahkol", "output": "拋棄，丟棄，遺棄。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "驅逐，趕逐，趕走。", "output": "laplap"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "laplap", "output": "驅逐，趕逐，趕走。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "炭火；灰燼。", "output": "falah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "falah", "output": "炭火；灰燼。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "繞行八次，八個彎曲。今台灣花蓮縣豐濱鄉八里灣地區。", "output": "Faliyol"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "Faliyol", "output": "繞行八次，八個彎曲。今台灣花蓮縣豐濱鄉八里灣地區。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對老嫗有禮貌的稱呼（日語借詞）；對女前輩的尊稱。", "output": "ofasang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ofasang", "output": "對老嫗有禮貌的稱呼（日語借詞）；對女前輩的尊稱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "洩洪。", "output": "fawah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fawah", "output": "洩洪。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "使彎下竹子。", "output": "fikaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fikaw", "output": "使彎下竹子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "公民投票。", "output": "finawkit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "finawkit", "output": "公民投票。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "漆樹（會癢的樹），台灣漆。", "output": "foredi'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "foredi'", "output": "漆樹（會癢的樹），台灣漆。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小豬，豬仔。", "output": "ciciw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ciciw", "output": "小豬，豬仔。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "沸騰。", "output": "mifowak"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mifowak", "output": "沸騰。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "回想，追憶。", "output": "fohaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fohaw", "output": "回想，追憶。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "藍尾小蜥蜴（常見於野外或石牆上）。", "output": "folaloda'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "folaloda'", "output": "藍尾小蜥蜴（常見於野外或石牆上）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "趕走，下水趕魚，攪濁水。", "output": "fowafoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "fowafoh", "output": "趕走，下水趕魚，攪濁水。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "滿懷情感的，感動，激動，引起激動。", "output": "hadaway"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hadaway", "output": "滿懷情感的，感動，激動，引起激動。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要放棄，停止，要放棄，停止的（事情、工作等）。", "output": "malosasawaden"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malosasawaden", "output": "要放棄，停止，要放棄，停止的（事情、工作等）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "構樹披襟。", "output": "xaxidaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "xaxidaw", "output": "構樹披襟。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要鬆綁的東西。", "output": "hahono'en"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hahono'en", "output": "要鬆綁的東西。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "抓起，緊握。", "output": "halap"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "halap", "output": "抓起，緊握。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "期待，殷切，恭候，迎接。迎客，竭誠歡迎；嚮往，渴望。", "output": "halhal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "halhal", "output": "期待，殷切，恭候，迎接。迎客，竭誠歡迎；嚮往，渴望。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "樑。", "output": "hali"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hali", "output": "樑。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "愛化妝的人。", "output": "halifihonay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "halifihonay", "output": "愛化妝的人。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "連根兒都拔掉。", "output": "halolamilamit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "halolamilamit", "output": "連根兒都拔掉。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把…壓倒！", "output": "hapicpicen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hapicpicen!", "output": "把…壓倒！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "準備或計劃要走的行程，路程。", "output": "malorarakaten"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malorarakaten", "output": "準備或計劃要走的行程，路程。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "準備說的話，用來交代的話。", "output": "hasasowalen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hasasowalen", "output": "準備說的話，用來交代的話。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用來觀賞的。", "output": "hatanengnengan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hatanengnengan", "output": "用來觀賞的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "按照那樣，那樣子了，像那樣。", "output": "hatiyaay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hatiyaay", "output": "按照那樣，那樣子了，像那樣。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "好像那（個），如同那（個）。", "output": "hatora"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hatora", "output": "好像那（個），如同那（個）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "停止，放棄，辭職，退休，畢業。", "output": "sawad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sawad", "output": "停止，放棄，辭職，退休，畢業。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把柴火撤出來。", "output": "hawaten!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hawaten!", "output": "把柴火撤出來。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "孤獨，分離，單獨，離群索居；分別為聖，聖別。", "output": "hiwatid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hiwatid", "output": "孤獨，分離，單獨，離群索居；分別為聖，聖別。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "吸。", "output": "hedot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hedot", "output": "吸。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "在低窪之…。", "output": "hefongay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hefongay", "output": "在低窪之…。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "呼吸聲。", "output": "helhel"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "helhel", "output": "呼吸聲。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "倒塌狀，死了。", "output": "helolep"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "helolep", "output": "倒塌狀，死了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "嘬吞！", "output": "hideken!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hideken!", "output": "嘬吞！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "附著，黏著在某物表面。", "output": "siket"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "siket", "output": "附著，黏著在某物表面。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "勘察，察看，尋找，探問，詢問，打聽，觀察。", "output": "hilam"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hilam", "output": "勘察，察看，尋找，探問，詢問，打聽，觀察。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "間諜。", "output": "hilipay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hilipay", "output": "間諜。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "看守，看護，監視。", "output": "simaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "simaw", "output": "看守，看護，監視。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "體弱多病的人。", "output": "hinaadadaay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hinaadadaay", "output": "體弱多病的人。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "事實上。", "output": "hinamhani"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hinamhani", "output": "事實上。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "趴！俯臥！有意識地趴著，俯臥著。", "output": "hinefaen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hinefaen!", "output": "趴！俯臥！有意識地趴著，俯臥著。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以馬太鞍語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "咱們來看看！", "output": "hiningaw!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hiningaw!", "output": "咱們來看看！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "往下跳！跳下去吧！", "output": "hitefoen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hitefoen!", "output": "往下跳！跳下去吧！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "海的波動", "output": "honaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "honaw", "output": "海的波動"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不太好緊密的繩子。", "output": "hona"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hona", "output": "不太好緊密的繩子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "這是（參閱附錄Ⅱ. 指示代名詞）。", "output": "onini a"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "onini a", "output": "這是（參閱附錄Ⅱ. 指示代名詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "旱蓮（喜樹）。", "output": "pina'aw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pina'aw", "output": "旱蓮（喜樹）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對缺乏物件的一種渴望，需求，願望。", "output": "kaaraawan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kaaraawan", "output": "對缺乏物件的一種渴望，需求，願望。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對缺乏物件的一種渴望，需求，願望。", "output": "kanikawan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kanikawan", "output": "對缺乏物件的一種渴望，需求，願望。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蓋刺魚科。", "output": "kacoosay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kacoosay", "output": "蓋刺魚科。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "欺侮，羞辱。", "output": "kadiyah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kadiyah", "output": "欺侮，羞辱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "豐富，富有，富裕。", "output": "kadofoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kadofoh", "output": "豐富，富有，富裕。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "溫和的（天氣）；秋季（天）。", "output": "kafarawfawan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kafarawfawan", "output": "溫和的（天氣）；秋季（天）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陌生，不熟，生疏，不熟練。", "output": "takah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "takah", "output": "陌生，不熟，生疏，不熟練。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "咖啡（由英語的café台語化借詞）。", "output": "kafoy"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kafoy", "output": "咖啡（由英語的café台語化借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以七腳川語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "紅，紅潤。", "output": "rahekak"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rahekak", "output": "紅，紅潤。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蟾蜍。", "output": "tarokohay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tarokohay", "output": "蟾蜍。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小鐮刀（割稻用）。", "output": "kakamit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kakamit", "output": "小鐮刀（割稻用）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鐮刀（劈柴用）。", "output": "kakamit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kakamit", "output": "鐮刀（劈柴用）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蕩皮參。", "output": "kakelec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kakelec", "output": "蕩皮參。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "校鈴，電鈴。", "output": "kakering"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kakering", "output": "校鈴，電鈴。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "緊急，急忙，急劇。", "output": "caloh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "caloh", "output": "緊急，急忙，急劇。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "曾經 發生戰爭的地方，戰場。", "output": "kalaloodan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kalaloodan", "output": "曾經 發生戰爭的地方，戰場。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "趕快（命令）！", "output": "kalamkami!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kalamkami!", "output": "趕快（命令）！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "魚類。", "output": "kalanga"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kalanga", "output": "魚類。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "熟悉的…。", "output": "kananaman"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kananaman", "output": "熟悉的…。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "受難時間或地點。", "output": "kapadesan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kapadesan", "output": "受難時間或地點。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "大陶碗，缽用來儲蓄剩餘的東西。", "output": "kapowa"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kapowa", "output": "大陶碗，缽用來儲蓄剩餘的東西。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "多風的。", "output": "karafaliay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "karafaliay", "output": "多風的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "早晨地點或場所。", "output": "karanaman"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "karanaman", "output": "早晨地點或場所。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "空手而來，不帶任何致意對方的禮物。", "output": "wakawak"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "wakawak", "output": "空手而來，不帶任何致意對方的禮物。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "各關節。", "output": "kasapokopokoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kasapokopokoh", "output": "各關節。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "追趕，趕上。詞前常置否定", "output": "katakop"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "katakop", "output": "追趕，趕上。詞前常置否定"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "大酒瓶，大瓶子（可裝四個普通瓶酒）。三輪車（台閩借詞）。", "output": "katangay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "katangay", "output": "大酒瓶，大瓶子（可裝四個普通瓶酒）。三輪車（台閩借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "水牛。pararapaan", "output": "rarapa"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rarapa", "output": "水牛。pararapaan"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "瓦片（日語借詞）。", "output": "kawala"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kawala", "output": "瓦片（日語借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鬼魂。", "output": "kawas"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kawas", "output": "鬼魂。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "捆緊（密），綁緊。", "output": "kedec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kedec", "output": "捆緊（密），綁緊。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "壓痕。", "output": "kenel"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kenel", "output": "壓痕。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "幾次。Kinapina = kinapinapina kako a milicay cingraan.我問他好幾次。", "output": "kinapina"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kinapina", "output": "幾次。Kinapina = kinapinapina kako a milicay cingraan.我問他好幾次。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蕃薯。", "output": "kokoy"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kokoy", "output": "蕃薯。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "線條，紙上的一直線，一節。成列的水稻行。", "output": "konis"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "konis", "output": "線條，紙上的一直線，一節。成列的水稻行。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "因跌倒而流鼻血。", "output": "langodos"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "langodos", "output": "因跌倒而流鼻血。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "皮蓆，皮製品。", "output": "rafir"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rafir", "output": "皮蓆，皮製品。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "相同，不分高下。指在跑的速度不分上下。", "output": "laletlet"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "laletlet", "output": "相同，不分高下。指在跑的速度不分上下。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "夏季，夏天。", "output": "lalood"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lalood", "output": "夏季，夏天。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以七腳川語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "垃圾。", "output": "tatoni'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tatoni'", "output": "垃圾。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "垃圾。", "output": "lakaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lakaw", "output": "垃圾。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "魔力精靈信仰中之超然力量；在他的衣服或所有物中發現；致人於病或腫脹的力量；他的這些力量必須經由巫師來認定其神力。", "output": "latal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "latal", "output": "魔力精靈信仰中之超然力量；在他的衣服或所有物中發現；致人於病或腫脹的力量；他的這些力量必須經由巫師來認定其神力。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "量器，計量單位。", "output": "tepeng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tepeng", "output": "量器，計量單位。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "曬衣繩和竹竿；攤衣曝曬；晾曬（菜或菸葉）。", "output": "'ayal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "'ayal", "output": "曬衣繩和竹竿；攤衣曝曬；晾曬（菜或菸葉）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陪睡、被偷香。", "output": "ledi'an"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ledi'an", "output": "陪睡、被偷香。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "攻擊。", "output": "lico"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lico", "output": "攻擊。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "無葉竹，淫婦，愛慕。", "output": "lidado"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lidado", "output": "無葉竹，淫婦，愛慕。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "檸檬；檸檬樹。", "output": "tatofan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tatofan", "output": "檸檬；檸檬樹。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "幸福的，快樂的。", "output": "lipahakay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lipahakay", "output": "幸福的，快樂的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "起頭，最初，起初；長者，老人，長輩。", "output": "to'as"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "to'as", "output": "起頭，最初，起初；長者，老人，長輩。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不知道，不了解。", "output": "liyoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "liyoh", "output": "不知道，不了解。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "期待，盼望。", "output": "lo'ot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lo'ot", "output": "期待，盼望。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "火炬，火把，燈籠，提燈。", "output": "caleng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "caleng", "output": "火炬，火把，燈籠，提燈。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "百步蛇（毒性強的毒蛇）。", "output": "lodak"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lodak", "output": "百步蛇（毒性強的毒蛇）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "收縮，扭曲，變形。", "output": "lokitel"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lokitel", "output": "收縮，扭曲，變形。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "出席開會者。", "output": "lomawocay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lomawocay", "output": "出席開會者。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對葉榕；野無花果樹。印度橡膠樹，橡樹。", "output": "lomoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "lomoh", "output": "對葉榕；野無花果樹。印度橡膠樹，橡樹。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "風流。", "output": "ma'amelas"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ma'amelas", "output": "風流。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "渴（冀）望吃…。", "output": "matakaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "matakaw", "output": "渴（冀）望吃…。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "遲緩，緩慢，遲到。", "output": "madoit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "madoit", "output": "遲緩，緩慢，遲到。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "麻仔。麻六甲木芯板（經由麻六甲進口的木芯板，質地鬆軟，切割時有刺鼻的甲醛味及產生毛邊）。", "output": "ma-ah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ma-ah", "output": "麻仔。麻六甲木芯板（經由麻六甲進口的木芯板，質地鬆軟，切割時有刺鼻的甲醛味及產生毛邊）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "什麼？", "output": "maan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "maan", "output": "什麼？"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鹿，水鹿。", "output": "kararayan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "kararayan", "output": "鹿，水鹿。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "折垂了。", "output": "macekos"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "macekos", "output": "折垂了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "正在被纏繞。“mifedfed ko towaso no patay i takowanan”「死亡的絞繩環繞著我」 （詩116：3）以軸為中心把線綁成線團（線球）。燻趕蚊子。", "output": "mafedfeday"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mafedfeday", "output": "正在被纏繞。“mifedfed ko towaso no patay i takowanan”「死亡的絞繩環繞著我」 （詩116：3）以軸為中心把線綁成線團（線球）。燻趕蚊子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "（小雞）已脫殼。", "output": "mafitelak to"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mafitelak to", "output": "（小雞）已脫殼。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "爛泥。", "output": "mafowaway"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mafowaway", "output": "爛泥。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "全部，所有的。", "output": "mahangelac"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mahangelac", "output": "全部，所有的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "稻穀全都被脫落掉。", "output": "masoperit maemin"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masoperit maemin", "output": "稻穀全都被脫落掉。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "從高處掉落。", "output": "matefad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "matefad", "output": "從高處掉落。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "怎樣；好像，如同。", "output": "mahiza"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mahiza", "output": "怎樣；好像，如同。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "髒了。", "output": "makadit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "makadit", "output": "髒了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不縝密的，不思索的，急躁的。", "output": "makahkahay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "makahkahay", "output": "不縝密的，不思索的，急躁的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被犁。", "output": "makangkang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "makangkang", "output": "被犁。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "壓扁。", "output": "makireti'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "makireti'", "output": "壓扁。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "變鬼神的。", "output": "malakawasananay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malakawasananay", "output": "變鬼神的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小聲低語，輕聲細語。", "output": "malalirolirod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malalirolirod", "output": "小聲低語，輕聲細語。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "忍受。", "output": "malanglang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malanglang", "output": "忍受。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "信息傳開。Malenak ko sowal to pakayniay i ciiraan a demak.有關他的事已傳開了（已傳千里了）。", "output": "malenak"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malenak", "output": "信息傳開。Malenak ko sowal to pakayniay i ciiraan a demak.有關他的事已傳開了（已傳千里了）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被順手牽羊、被取走；被拾到，被撿", "output": "malifok"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malifok", "output": "被順手牽羊、被取走；被拾到，被撿"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被覬覦。", "output": "malingod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malingod", "output": "被覬覦。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "腿軟，走路重心不穩。", "output": "malopilop"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malopilop", "output": "腿軟，走路重心不穩。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "主題，講題。", "output": "malosasowalen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malosasowalen", "output": "主題，講題。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "當做包裝紙或用具。", "output": "malosatafo"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "malosatafo", "output": "當做包裝紙或用具。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "做椽子。", "output": "mamalocokisay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mamalocokisay", "output": "做椽子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小，少。", "output": "miming"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miming", "output": "小，少。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "將要回來。", "output": "maminokay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "maminokay", "output": "將要回來。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "應和齊唱。", "output": "mamisaradaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mamisaradaw", "output": "應和齊唱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "成為朋友。", "output": "mananahay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mananahay", "output": "成為朋友。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "延長，展期。", "output": "manayar"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "manayar", "output": "延長，展期。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被孤立，身影孤單。", "output": "mapakacecay to"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapakacecay to", "output": "被孤立，身影孤單。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被留在家。", "output": "mapakiloma'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapakiloma'", "output": "被留在家。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被連續，被選連任，被續任。", "output": "mapararid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapararid", "output": "被連續，被選連任，被續任。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "闔眼。", "output": "mapelek"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapelek", "output": "闔眼。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "患天花。", "output": "mapeno'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapeno'", "output": "患天花。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "跛腳。", "output": "mapokong"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapokong", "output": "跛腳。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被撕碎，被撕裂。Mapicpic no totoy niyam ko tikami ni kaka no mako.我哥哥的信被小狗咬碎成一片一片。", "output": "mapicpic"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mapicpic", "output": "被撕碎，被撕裂。Mapicpic no totoy niyam ko tikami ni kaka no mako.我哥哥的信被小狗咬碎成一片一片。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被切斷，被截斷（肢）。", "output": "miporot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miporot", "output": "被切斷，被截斷（肢）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "比預期的還要多，省吃儉用而有餘。", "output": "marahid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "marahid", "output": "比預期的還要多，省吃儉用而有餘。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "互相黏住。", "output": "mararapit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mararapit", "output": "互相黏住。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "身有痼疾，身體虛弱。", "output": "marawaco"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "marawaco", "output": "身有痼疾，身體虛弱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "像棚架形。", "output": "masacadadaay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masacadadaay", "output": "像棚架形。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "形成尖峰，成尖端。", "output": "masarowis"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masarowis", "output": "形成尖峰，成尖端。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "和解，和好；和睦相處。", "output": "masasanga'ay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masasanga'ay", "output": "和解，和好；和睦相處。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "形成窟窿水灘的。", "output": "masatangoay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masatangoay", "output": "形成窟窿水灘的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "己洗乾淨了。", "output": "masawsaw to"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masawsaw to", "output": "己洗乾淨了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "勤於獵漁者。", "output": "masetikay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "masetikay", "output": "勤於獵漁者。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "互相拖拉；互相誘惑。", "output": "matataroh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "matataroh", "output": "互相拖拉；互相誘惑。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "相信，信任。", "output": "matatenga"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "matatenga", "output": "相信，信任。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "傾斜，不平穩（如船或車子）。", "output": "tokenih"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tokenih", "output": "傾斜，不平穩（如船或車子）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "土地變貧瘠，土地不再豐饒。", "output": "matitapod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "matitapod", "output": "土地變貧瘠，土地不再豐饒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以馬太鞍語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "看著！看看吧！", "output": "hiningaw!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "hiningaw!", "output": "看著！看看吧！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "閃爍，閃閃發光。", "output": "meli"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "meli", "output": "閃爍，閃閃發光。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "划槳。", "output": "mi'iwas"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mi'iwas", "output": "划槳。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "跟隨，緊跟；心同此理，人同此心心裡想跟去，捨不得某人離去；追憶亡者。", "output": "mi'ocil"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mi'ocil", "output": "跟隨，緊跟；心同此理，人同此心心裡想跟去，捨不得某人離去；追憶亡者。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用肩扛，任職，任重道遠，任辱負重。", "output": "mi'orong"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mi'orong", "output": "用肩扛，任職，任重道遠，任辱負重。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "私奔。", "output": "micaco^co"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "micaco^co", "output": "私奔。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "著色。", "output": "miceleng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miceleng", "output": "著色。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "私奔者。", "output": "micooay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "micooay", "output": "私奔者。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "永恆的，永遠的。", "output": "mida'ocay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mida'ocay", "output": "永恆的，永遠的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "認同，心同此理。", "output": "midado'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "midado'", "output": "認同，心同此理。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "欺騙。", "output": "midipohaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "midipohaw", "output": "欺騙。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "切開（用刀切開材，竹子）。", "output": "micikcik"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "micikcik", "output": "切開（用刀切開材，竹子）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "滴酒祈禱。", "output": "mifetik"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mifetik", "output": "滴酒祈禱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "出征，出戰，戰場；去攻打，去打仗；用戰爭手段驅逐（村民）。", "output": "mifolaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mifolaw", "output": "出征，出戰，戰場；去攻打，去打仗；用戰爭手段驅逐（村民）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "砍草。", "output": "miforesiw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miforesiw", "output": "砍草。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "攫住。", "output": "mihalap"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mihalap", "output": "攫住。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "採薪祭。", "output": "mikalilangay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mikalilangay", "output": "採薪祭。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "盲從，隨波逐流。", "output": "mikisodod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mikisodod", "output": "盲從，隨波逐流。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "勗勉，勸勉。", "output": "mikitemel"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mikitemel", "output": "勗勉，勸勉。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "趁火打劫。Mikorikor koya mitakaway a mitakaw to pida noya mitademay.小偷趁喪家出殯時偷竊錢財。", "output": "mikorikor"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mikorikor", "output": "趁火打劫。Mikorikor koya mitakaway a mitakaw to pida noya mitademay.小偷趁喪家出殯時偷竊錢財。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "兼差，兼職，左右逢源。", "output": "milacal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "milacal", "output": "兼差，兼職，左右逢源。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "浪費（物質上或精神上的），揮霍；使原有的消失。", "output": "milasawad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "milasawad", "output": "浪費（物質上或精神上的），揮霍；使原有的消失。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "徵募，徵集，群集，聚集，蒐集各式各樣的東西。", "output": "milesafon"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "milesafon", "output": "徵募，徵集，群集，聚集，蒐集各式各樣的東西。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "求和，使和好，使和解，道歉，和平談判，謝罪。", "output": "mili'ay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mili'ay", "output": "求和，使和好，使和解，道歉，和平談判，謝罪。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "躲藏，避開。", "output": "milimek"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "milimek", "output": "躲藏，避開。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "開始（工作）。", "output": "miteka"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miteka", "output": "開始（工作）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "整理，收拾。", "output": "milisamet"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "milisamet", "output": "整理，收拾。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "搓揉，揉飯糰。", "output": "mimo^mo"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mimo^mo", "output": "搓揉，揉飯糰。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "懲罰。", "output": "mina'is"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mina'is", "output": "懲罰。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "壓，壓制。", "output": "mineker"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mineker", "output": "壓，壓制。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "短暫。", "output": "mipacena'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mipacena'", "output": "短暫。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蒸飯。", "output": "mirahkad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mirahkad", "output": "蒸飯。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "說閩南語。", "output": "misa + no + Payrang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misa + no + Payrang", "output": "說閩南語。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "闢菜園，種植蔬菜。", "output": "misadateng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misadateng", "output": "闢菜園，種植蔬菜。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "翻來覆去，反覆思想，坐臥難安。", "output": "misafelifelin"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misafelifelin", "output": "翻來覆去，反覆思想，坐臥難安。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一陣風之襲勢。", "output": "misafiyok"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misafiyok", "output": "一陣風之襲勢。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要確定，弄清楚；確認。", "output": "misapinang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misapinang", "output": "要確定，弄清楚；確認。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "試著尋找，到處尋找；仔細地尋找，找來找去。", "output": "misahinahinam"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misahinahinam", "output": "試著尋找，到處尋找；仔細地尋找，找來找去。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "束手無策，手忙腳亂，毫無辦法。", "output": "misakamakama"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misakamakama", "output": "束手無策，手忙腳亂，毫無辦法。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "對別人好。", "output": "misakapah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misakapah", "output": "對別人好。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "開一條犁溝。", "output": "misalo'id"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misalo'id", "output": "開一條犁溝。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "自我放逐，離群索居。", "output": "misapalawil"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misapalawil", "output": "自我放逐，離群索居。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "弄成平坦的地，整平。", "output": "misapaya"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misapaya", "output": "弄成平坦的地，整平。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "護送（帶）人到達目的地；送某人到某地方；浪費時間。", "output": "misera"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misera", "output": "護送（帶）人到達目的地；送某人到某地方；浪費時間。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用堰閘堵後撥乾水抓魚的方法。", "output": "misi'si'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misi'si'", "output": "用堰閘堵後撥乾水抓魚的方法。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "繞到前面，超前。", "output": "miki'aot"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miki'aot", "output": "繞到前面，超前。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "使打中，使擊中。", "output": "misikeda"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misikeda", "output": "使打中，使擊中。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "迷信（華語借詞）。", "output": "misin"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misin", "output": "迷信（華語借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "探囊，伸手探索洞裡的事物。", "output": "misoo'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "misoo'", "output": "探囊，伸手探索洞裡的事物。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "設陷阱。", "output": "mitalakal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mitalakal", "output": "設陷阱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "濺水，撥水。", "output": "mitapesi'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mitapesi'", "output": "濺水，撥水。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "作體操。", "output": "mitayso"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mitayso", "output": "作體操。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "沾鹽水吃肴。", "output": "mitenem"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mitenem", "output": "沾鹽水吃肴。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "織布者。", "output": "mitenoonay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mitenoonay", "output": "織布者。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用拳頭敲別人的頭，拳打，敲頭。", "output": "miti'il"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "miti'il", "output": "用拳頭敲別人的頭，拳打，敲頭。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "增添。", "output": "mitongal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "mitongal", "output": "增添。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被遺棄的山坡地，廢耕的山坡地。", "output": "narafaran"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "narafaran", "output": "被遺棄的山坡地，廢耕的山坡地。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鳳梨。", "output": "paringad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paringad", "output": "鳳梨。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "穿著合身而好看。", "output": "tanestes"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tanestes", "output": "穿著合身而好看。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "彼此相愛，互相愛的。", "output": "nikasasiolah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "nikasasiolah", "output": "彼此相愛，互相愛的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "量過的。", "output": "nilatangan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "nilatangan", "output": "量過的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被放牧的。", "output": "nipalafelan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "nipalafelan", "output": "被放牧的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被策劃的，計劃好的。", "output": "nisahalakaan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "nisahalakaan", "output": "被策劃的，計劃好的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "所依靠的，被依附的。", "output": "niti'eran"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "niti'eran", "output": "所依靠的，被依附的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "經雕塑的，立體刻的。", "output": "nito'to'an"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "nito'to'an", "output": "經雕塑的，立體刻的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "烏煙。磨石子時所使用的黑色染色粉。", "output": "o-yen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "o-yen", "output": "烏煙。磨石子時所使用的黑色染色粉。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "褻瀆，羞辱。", "output": "paaceken"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paaceken", "output": "褻瀆，羞辱。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陪伴，陪同。", "output": "pacafay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pacafay", "output": "陪伴，陪同。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "違反規則，放肆，隨便，亂來。", "output": "pacalal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pacalal", "output": "違反規則，放肆，隨便，亂來。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "取外號，取綽號。", "output": "pacimil"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pacimil", "output": "取外號，取綽號。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以馬蘭語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "棉花，棉被。", "output": "takomod"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "takomod", "output": "棉花，棉被。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "馬房。", "output": "paefaan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paefaan", "output": "馬房。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把…曬乾。", "output": "paka'akiken"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paka'akiken", "output": "把…曬乾。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "看得見，看到。", "output": "paka'araw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paka'araw", "output": "看得見，看到。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "使含淚，使人淌淚。", "output": "pakacilosa'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakacilosa'", "output": "使含淚，使人淌淚。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "投資。", "output": "pakadom"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakadom", "output": "投資。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "能唆使…打人。", "output": "pakapipalo"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakapipalo", "output": "能唆使…打人。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "能弄倒，能打敗。Pakopolin ko mamangay a tamdaw to tata'akay a tamdaw.體格小的能打敗體格大的人（小個子能打倒大個子）。", "output": "pakapolin"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakapolin", "output": "能弄倒，能打敗。Pakopolin ko mamangay a tamdaw to tata'akay a tamdaw.體格小的能打敗體格大的人（小個子能打倒大個子）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "作媒。", "output": "pakayakay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakayakay", "output": "作媒。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一口氣，一鼓作氣。", "output": "pakinacecay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pakinacecay", "output": "一口氣，一鼓作氣。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "為別人照明其路，為別人提燈。", "output": "palakelaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "palakelaw", "output": "為別人照明其路，為別人提燈。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "根基，基礎，根據地；發根之部位。", "output": "palamitan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "palamitan", "output": "根基，基礎，根據地；發根之部位。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "豐年祭婦女舞裝在時。", "output": "palawlawan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "palawlawan", "output": "豐年祭婦女舞裝在時。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "污水坑。", "output": "palecpec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "palecpec", "output": "污水坑。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "召集！蒐集！", "output": "palisawoten!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "palisawoten!", "output": "召集！蒐集！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "擦油，膏油，以油塗抹。", "output": "paloso'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paloso'", "output": "擦油，膏油，以油塗抹。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "直直走，直接前往。", "output": "pamo'cel"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pamo'cel", "output": "直直走，直接前往。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "祭拜，獻祭。", "output": "pato'aya"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pato'aya", "output": "祭拜，獻祭。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "舵。", "output": "pances"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pances", "output": "舵。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "使有間隙，設置間隙以便…，留隙縫。", "output": "pangala'en"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pangala'en", "output": "使有間隙，設置間隙以便…，留隙縫。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "施洗（基督教儀式）。", "output": "pangingoy"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pangingoy", "output": "施洗（基督教儀式）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "叫…抱起來。", "output": "papi'afofoen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "papi'afofoen", "output": "叫…抱起來。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "請讓…過夜。", "output": "papilafinen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "papilafinen", "output": "請讓…過夜。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "垂柳的枝。", "output": "paping"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paping", "output": "垂柳的枝。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "保留閒暇，抽時間當閒暇，安排假日。", "output": "parawad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "parawad", "output": "保留閒暇，抽時間當閒暇，安排假日。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "整平（建地）。", "output": "parayasen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "parayasen", "output": "整平（建地）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "沉置漁筌捕魚蝦。", "output": "parenged"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "parenged", "output": "沉置漁筌捕魚蝦。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "墳場。", "output": "pifalengan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pifalengan", "output": "墳場。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把…瀝乾。", "output": "pasa'sa'en"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pasa'sa'en", "output": "把…瀝乾。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "付稅，繳稅納稅。", "output": "pasata"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pasata", "output": "付稅，繳稅納稅。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "教導，教學，教誨，告知，通知；使人知道，揭露。", "output": "pasifana'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pasifana'", "output": "教導，教學，教誨，告知，通知；使人知道，揭露。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "獻祭，殺生供奉祭品。", "output": "patafang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patafang", "output": "獻祭，殺生供奉祭品。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "任意做但不正確。", "output": "patahtah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patahtah", "output": "任意做但不正確。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "屋內前中央。", "output": "patangolanan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patangolanan", "output": "屋內前中央。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "代禱，招請靈媒者禳祓或祝福。", "output": "patapal"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patapal", "output": "代禱，招請靈媒者禳祓或祝福。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "綜合比較，仔細比一比。", "output": "patatiritiri'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patatiritiri'", "output": "綜合比較，仔細比一比。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "使各造對質，各敘己見。", "output": "patatokoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patatokoh", "output": "使各造對質，各敘己見。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "做違犯規則與指導原則的事情。", "output": "patedo"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patedo", "output": "做違犯規則與指導原則的事情。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "回答。", "output": "patefo"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patefo", "output": "回答。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "預留後到者的飯菜。", "output": "paterek"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "paterek", "output": "預留後到者的飯菜。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "嫁禍，栽贓，誣賴，陷害。", "output": "patiday"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patiday", "output": "嫁禍，栽贓，誣賴，陷害。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "更換。", "output": "patidos"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "patidos", "output": "更換。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "壞人（台閩借詞）。", "output": "Payrang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "Payrang", "output": "壞人（台閩借詞）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鬆開！請鬆開！請鬆脫！（命令語）。", "output": "pecoden!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pecoden!", "output": "鬆開！請鬆開！請鬆脫！（命令語）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "圍兜兜，胸巾，圍裙，罩衫；圍巾（狀似圍兜兜）。", "output": "pi'ayaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pi'ayaw", "output": "圍兜兜，胸巾，圍裙，罩衫；圍巾（狀似圍兜兜）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "取！拿！（命令語）。", "output": "piala"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "piala", "output": "取！拿！（命令語）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用中空的樹幹做的木鼓（用來喚醒或傳達訊息給部落住民的工具）。", "output": "④takongkongan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "④takongkongan", "output": "用中空的樹幹做的木鼓（用來喚醒或傳達訊息給部落住民的工具）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "浪濤翻騰。", "output": "pilaing"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pilaing", "output": "浪濤翻騰。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "手扭傷，把菜扭斷去煮。", "output": "pilec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pilec", "output": "手扭傷，把菜扭斷去煮。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "牛車雙擘，車轅。", "output": "pilena'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pilena'", "output": "牛車雙擘，車轅。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "關心（詞前置否定詞aka或caay引導表示「不要關心」或「沒有關心」）。", "output": "pilingwa"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pilingwa", "output": "關心（詞前置否定詞aka或caay引導表示「不要關心」或「沒有關心」）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "手托著下巴。", "output": "pingaroy"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pingaroy", "output": "手托著下巴。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "餵豬槽。", "output": "pipacefolan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pipacefolan", "output": "餵豬槽。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "年歲交替之際。", "output": "pipikedan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pipikedan", "output": "年歲交替之際。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "齋戒日；禁食的時間或地點。", "output": "pisaliwayan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pisaliwayan", "output": "齋戒日；禁食的時間或地點。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "走來走去。", "output": "pisarakarakat"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pisarakarakat", "output": "走來走去。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "看守位置；埋伏的地點或場所。", "output": "pisefengan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pisefengan", "output": "看守位置；埋伏的地點或場所。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "設下陷阱的地方。", "output": "pitekeran"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pitekeran", "output": "設下陷阱的地方。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "裹起來，包起來。", "output": "popoten"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "popoten", "output": "裹起來，包起來。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "棚架。", "output": "rengreng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rengreng", "output": "棚架。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "印刷。", "output": "rina'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rina'", "output": "印刷。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用木頭或竹子裝的椽木。", "output": "riwang"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "riwang", "output": "用木頭或竹子裝的椽木。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "讓…繼承。", "output": "rocokaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "rocokaw", "output": "讓…繼承。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陪同。", "output": "roko"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "roko", "output": "陪同。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把桑樹種起來。", "output": "sa'acaramen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sa'acaramen", "output": "把桑樹種起來。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "亂踢；掙扎；踢來踢去。", "output": "sacokacokas"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sacokacokas", "output": "亂踢；掙扎；踢來踢去。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "輕輕地。", "output": "saenah"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "saenah", "output": "輕輕地。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "帶子，腰帶。", "output": "safakec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "safakec", "output": "帶子，腰帶。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "輕輕地，無內疚，無悔恨。", "output": "sakahemaw"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sakahemaw", "output": "輕輕地，無內疚，無悔恨。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "木板作的耙子，穀耙子。", "output": "sakarih"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sakarih", "output": "木板作的耙子，穀耙子。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "允准的理由，被容許的緣由。", "output": "sakasorar"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sakasorar", "output": "允准的理由，被容許的緣由。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "邊境，疆界，界線，接壤處。", "output": "sarengangan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sarengangan", "output": "邊境，疆界，界線，接壤處。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "秘密地和躲進地窖。", "output": "salimeken"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "salimeken", "output": "秘密地和躲進地窖。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "最初的，第一的，在…以前的。", "output": "sa'ayaway"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sa'ayaway", "output": "最初的，第一的，在…以前的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "驚駭，訝異，驚訝，敬仰（畏）。", "output": "sapa"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapa", "output": "驚駭，訝異，驚訝，敬仰（畏）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "抽打（用細鞭打）。", "output": "sapeti'"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapeti'", "output": "抽打（用細鞭打）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "獵燕陷阱，專捕飛燕的捕鳥器。", "output": "sapifihekac"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapifihekac", "output": "獵燕陷阱，專捕飛燕的捕鳥器。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用來作牆壁。", "output": "sapila'ed"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapila'ed", "output": "用來作牆壁。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鞭子（處罰小孩鞭打用的），籐條。", "output": "sapisapedec"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapisapedec", "output": "鞭子（處罰小孩鞭打用的），籐條。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "照相機。", "output": "sapisyasing"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sapisyasing", "output": "照相機。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鐮刀（割稻用）。", "output": "saritrit"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "saritrit", "output": "鐮刀（割稻用）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "出門時刻。", "output": "sasadak"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sasadak", "output": "出門時刻。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一直噎塞住。", "output": "sasied san"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sasied san", "output": "一直噎塞住。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "標的，瞄準對象；要攻打的敵方。", "output": "pipamotekan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "pipamotekan", "output": "標的，瞄準對象；要攻打的敵方。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "弄大！擴建！", "output": "satata'aken!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "satata'aken!", "output": "弄大！擴建！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "穿線。", "output": "solsol"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "solsol", "output": "穿線。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "高高堆積。", "output": "sensen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sensen", "output": "高高堆積。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "會成功的人，有結果的。", "output": "siepocay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "siepocay", "output": "會成功的人，有結果的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "開水，茶水。", "output": "sangasif"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sangasif", "output": "開水，茶水。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "隨身帶有東西。", "output": "sinihawikid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sinihawikid", "output": "隨身帶有東西。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "撫，貼，塗擦，敷藥。擦掉，抹去，削除，擦消。", "output": "sipasip"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sipasip", "output": "撫，貼，塗擦，敷藥。擦掉，抹去，削除，擦消。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "剛好，恰到好處。", "output": "sitodong"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sitodong", "output": "剛好，恰到好處。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "伸手探物！", "output": "soo'en!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "soo'en!", "output": "伸手探物！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "雨水成流。", "output": "sool"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "sool", "output": "雨水成流。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陣線前鋒，模範，典範。", "output": "tarokos"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tarokos", "output": "陣線前鋒，模範，典範。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "水窪。", "output": "tango"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tango", "output": "水窪。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "自己碰上周圍的東西，頭碰到頂上的東西。", "output": "tahatekoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tahatekoh", "output": "自己碰上周圍的東西，頭碰到頂上的東西。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不期吃到（未曾吃過的）。", "output": "tahekaen"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tahekaen", "output": "不期吃到（未曾吃過的）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "坐、臥的地方有堅硬的東西。", "output": "takenel"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "takenel", "output": "坐、臥的地方有堅硬的東西。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "碰撞（不動的物體）。", "output": "talatekoh"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "talatekoh", "output": "碰撞（不動的物體）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "晾物的繩，曬衣竿。", "output": "talayalayan"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "talayalayan", "output": "晾物的繩，曬衣竿。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "四周，周圍，圍繞；環境，循環，環繞。", "output": "taliyok"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "taliyok", "output": "四周，周圍，圍繞；環境，循環，環繞。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "重新用乾淨的水再洗。", "output": "ti'eloc"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "ti'eloc", "output": "重新用乾淨的水再洗。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "堅實的。", "output": "tanektekay"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tanektekay", "output": "堅實的。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "煮！", "output": "tangtangen!"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tangtangen!", "output": "煮！"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鼻涕一直流著。", "output": "tanongoset"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tanongoset", "output": "鼻涕一直流著。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "毛毛雨。", "output": "tariyapes"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tariyapes", "output": "毛毛雨。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "捕捉器。", "output": "tekep"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tekep", "output": "捕捉器。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "解開，鬆開。折尾線(N)。", "output": "telad"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "telad", "output": "解開，鬆開。折尾線(N)。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "尖凸，錐形。", "output": "teroc"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "teroc", "output": "尖凸，錐形。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "參差不齊，不整齊，不劃一，不和諧，高度或長度不齊。", "output": "tingasoc"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tingasoc", "output": "參差不齊，不整齊，不劃一，不和諧，高度或長度不齊。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "威嚴，強有力。", "output": "tiseng"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tiseng", "output": "威嚴，強有力。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "已死亡了。", "output": "toan to"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "toan to", "output": "已死亡了。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "營養不良症（小孩骨瘦如柴狀）。", "output": "tofid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tofid", "output": "營養不良症（小孩骨瘦如柴狀）。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "傾斜，不平均，失去平衡。", "output": "tikenih"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tikenih", "output": "傾斜，不平均，失去平衡。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "已經停止，已風平浪靜。", "output": "tomenek to"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tomenek to", "output": "已經停止，已風平浪靜。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "難得…、好不容易，有幸…。幸好，幸虧。", "output": "tomian"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tomian", "output": "難得…、好不容易，有幸…。幸好，幸虧。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "台東縣成功鎮博愛部落名。", "output": "tomiyac"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "tomiyac", "output": "台東縣成功鎮博愛部落名。"}
+{"instruction": "請將以下中文詞語翻譯成阿美語。注意：數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鑑別，分門別類，分別為聖。", "output": "watid"}
+{"instruction": "請將以下阿美語詞語翻譯成中文。", "input": "watid", "output": "鑑別，分門別類，分別為聖。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小孩喜歡吃鍋巴。", "output": "Maolah a komaen to 'adi ko wawa"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為太巴塱語。", "input": "Maolah a komaen to 'adi ko wawa", "output": "小孩喜歡吃鍋巴。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "那發出燒焦味的東西是什麼？", "output": "O maan kiraan 'angcepay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O maan kiraan 'angcepay", "output": "那發出燒焦味的東西是什麼？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "小朋友在學校玩得活潑健康快樂。", "output": "'Arik'ik saan ko sito a malawla i picodadan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "'Arik'ik saan ko sito a malawla i picodadan", "output": "小朋友在學校玩得活潑健康快樂。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "準備做挾東西的工具。", "output": "malosapi'atep = hasapi'atip"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "malosapi'atep = hasapi'atip", "output": "準備做挾東西的工具。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "爸爸架設長豆的攀架。", "output": "Pa'atiwar ci mama to kalitang"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pa'atiwar ci mama to kalitang", "output": "爸爸架設長豆的攀架。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "濕（衣、穀、木）；被汁液著染。", "output": "macepa' = mararemed = ma'opic"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為南部阿美語。", "input": "macepa' = mararemed = ma'opic", "output": "濕（衣、穀、木）；被汁液著染。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "按照這樣下去，是難以生存的！", "output": "Ano hatiniay cowa ko hamama'orip"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ano hatiniay cowa ko hamama'orip", "output": "按照這樣下去，是難以生存的！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一陣陣痛。", "output": "Misaliyaliyad ko adada"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Misaliyaliyad ko adada", "output": "一陣陣痛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我現在流汗。", "output": "Macihiw kako anini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為北部阿美語。", "input": "Macihiw kako anini", "output": "我現在流汗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他昨天拿到的，不是三就四。", "output": "Tolo ano eca sepat ko maalaay nira i dadaya"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tolo ano eca sepat ko maalaay nira i dadaya", "output": "他昨天拿到的，不是三就四。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "做不完，令人失望。", "output": "Caay kaherek masoked ko faloco'"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Caay kaherek masoked ko faloco'", "output": "做不完，令人失望。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一歲（而已）。", "output": "Cacay ho ko mihecaan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Cacay ho ko mihecaan", "output": "一歲（而已）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一百。", "output": "cacay noli' = cacay li'an(T) = cacay patekanan(N)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "cacay noli' = cacay li'an(T) = cacay patekanan(N)", "output": "一百。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一毛（分錢）。", "output": "Cecay ko payci(=tangloy = payso = laliping)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Cecay ko payci(=tangloy = payso = laliping)", "output": "一毛（分錢）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "短褲。", "output": "Kamoko'ay a tapad"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Kamoko'ay a tapad", "output": "短褲。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "碟子。", "output": "sala = carirongrong(N) = piyar(Fn)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "sala = carirongrong(N) = piyar(Fn)", "output": "碟子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "那位青年的行為不檢點比端莊多。", "output": "O cilas ko adihayay to noneng no wayway nora kapah"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O cilas ko adihayay to noneng no wayway nora kapah", "output": "那位青年的行為不檢點比端莊多。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他屬於那一個親族（=他是誰的親屬）？", "output": "Cima ko citamdaway tonini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Cima ko citamdaway tonini", "output": "他屬於那一個親族（=他是誰的親屬）？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "叫醒睡覺的人。", "output": "Pacokat to mafoti'ay a tamdaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pacokat to mafoti'ay a tamdaw", "output": "叫醒睡覺的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "卸下貨物減輕老人家的重擔。", "output": "Micoroh to 'inorong no mato'asay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Micoroh to 'inorong no mato'asay", "output": "卸下貨物減輕老人家的重擔。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "庭院寬闊。", "output": "Dadahal ko putal"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Dadahal ko putal", "output": "庭院寬闊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "昨夜，昨天晚上。", "output": "I dadaya = na sangdef(N)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "I dadaya = na sangdef(N)", "output": "昨夜，昨天晚上。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "晚上會有月亮和星星。", "output": "Sifo'is ato folad ko dadaya"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Sifo'is ato folad ko dadaya", "output": "晚上會有月亮和星星。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "在歐森的魚貨裡面一定有白帶魚。", "output": "Caay ka eca ira ko dapiyacay a foting i sapaliwal ni 'Oseng"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Caay ka eca ira ko dapiyacay a foting i sapaliwal ni 'Oseng", "output": "在歐森的魚貨裡面一定有白帶魚。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "辛勞的代價成了泡影。", "output": "Malakohaw no fadas ko nikarorayan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Malakohaw no fadas ko nikarorayan", "output": "辛勞的代價成了泡影。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "阿美族的田界大部份以種植九芎樹為地界。", "output": "O lalidec saca ko falasih no omaomahan no Pangcah"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O lalidec saca ko falasih no omaomahan no Pangcah", "output": "阿美族的田界大部份以種植九芎樹為地界。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "吃芋頭後嘴巴發癢。", "output": "Falitfit ko ngapa na kakomaenan to tali"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Falitfit ko ngapa na kakomaenan to tali", "output": "吃芋頭後嘴巴發癢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "在這石頭上洗衣服很好，你先來吧！", "output": "Fangcal = nga'ay a mifaca' i tongroh nonini a fokeloh ari kiso ho"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Fangcal = nga'ay a mifaca' i tongroh nonini a fokeloh ari kiso ho", "output": "在這石頭上洗衣服很好，你先來吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不從，拒絕，不接受。", "output": "caay kafenel"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "caay kafenel", "output": "不從，拒絕，不接受。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們把我們驅逐出境，我們於是離開了故土。", "output": "Folaw han naira kami miliyas to kami to niyaro' niyam"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Folaw han naira kami miliyas to kami to niyaro' niyam", "output": "他們把我們驅逐出境，我們於是離開了故土。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "雜色的，花花綠綠的。", "output": "cifolisay = citiliday"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "cifolisay = citiliday", "output": "雜色的，花花綠綠的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "崩潰，分解，分散有如粉末。", "output": "fonal = rahoper"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "fonal = rahoper", "output": "崩潰，分解，分散有如粉末。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陸地。", "output": "sasera = hekal = kanatal = enar"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "sasera = hekal = kanatal = enar", "output": "陸地。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "學生對好使喚的老師厭煩。", "output": "Malifot ko sito to halicolcolay a singsi"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Malifot ko sito to halicolcolay a singsi", "output": "學生對好使喚的老師厭煩。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "這小孩很黏人。", "output": "Halielo' kina wawa"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Halielo' kina wawa", "output": "這小孩很黏人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "懶惰者貪睡。", "output": "Halifoti' ko matokaay a tamdaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Halifoti' ko matokaay a tamdaw", "output": "懶惰者貪睡。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他走路喜歡吹口哨。", "output": "Haliis^is ciira a romakat"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Haliis^is ciira a romakat", "output": "他走路喜歡吹口哨。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "咸豐草花愛黏在衣服上。", "output": "Haliketing ko liped i fodoy"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Haliketing ko liped i fodoy", "output": "咸豐草花愛黏在衣服上。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們連獵獲的頭部在內一起給曠野的主人。", "output": "Halotangal han naira a mipafeli to cisailohay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Halotangal han naira a mipafeli to cisailohay", "output": "他們連獵獲的頭部在內一起給曠野的主人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "連那位帶紅帽子的小姐也喜歡跳阿美族的舞。", "output": "Haloya cikafongay to kahengangay a maolah masakero to kero no Pangcah"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Haloya cikafongay to kahengangay a maolah masakero to kero no Pangcah", "output": "連那位帶紅帽子的小姐也喜歡跳阿美族的舞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一直到現在，這麼久以來。", "output": "To hatiniay ka halafin i"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "To hatiniay ka halafin i", "output": "一直到現在，這麼久以來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "龍眼樹結實纍纍。", "output": "Malofic ko heci no lingking"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Malofic ko heci no lingking", "output": "龍眼樹結實纍纍。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以南部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把你的票拿來給我看看一下吧！", "output": "Panengnengen kako hena(= hana) tora paya iso"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為南部阿美語。", "input": "Panengnengen kako hena(= hana) tora paya iso", "output": "把你的票拿來給我看看一下吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把那塊石頭鑽洞。", "output": "Hengeren kora fokeloh"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Hengeren kora fokeloh", "output": "把那塊石頭鑽洞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杜耀和伍賽夫婦終於另起爐灶了。", "output": "Hieked sato ca Tuyaw aci Usay maramod a misaparod"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Hieked sato ca Tuyaw aci Usay maramod a misaparod", "output": "杜耀和伍賽夫婦終於另起爐灶了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他剛剛吃了早餐。", "output": "I honi saho a maranam ciira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "I honi saho a maranam ciira", "output": "他剛剛吃了早餐。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我的家在那座山頂上。", "output": "I tira i tongroh no ra wan a lotok ko loma' no mako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "I tira i tongroh no ra wan a lotok ko loma' no mako", "output": "我的家在那座山頂上。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "旁，旁邊。", "output": "i tatihi = i fatii'an = i tepar(N)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "i tatihi = i fatii'an = i tepar(N)", "output": "旁，旁邊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "大頭目穿紅色大長袍。", "output": "O kahengangay o siringan ko foday no Sapalengaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O kahengangay o siringan ko foday no Sapalengaw", "output": "大頭目穿紅色大長袍。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "去一直找！", "output": "Oli kakilim han"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Oli kakilim han", "output": "去一直找！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蟋蟀半夜鳴叫。", "output": "Masoni ko kakoh i terong no lafii"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masoni ko kakoh i terong no lafii", "output": "蟋蟀半夜鳴叫。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "羊乳榕（台灣天仙果）。", "output": "no 'eri a kakorengay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "no 'eri a kakorengay", "output": "羊乳榕（台灣天仙果）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "咬，在獵犬群裡，犬各咬。", "output": "Kalamikalat ko waco"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Kalamikalat ko waco", "output": "咬，在獵犬群裡，犬各咬。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不要對他人之妻有非分之想。", "output": "Aka kaongang to fafahi no tao"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Aka kaongang to fafahi no tao", "output": "不要對他人之妻有非分之想。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "粗糙，被水侵蝕之圓石，嶙峋巖石；岩層。", "output": "Cikaratay a 'ongcoy"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為太巴塱語。", "input": "Cikaratay a 'ongcoy", "output": "粗糙，被水侵蝕之圓石，嶙峋巖石；岩層。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "阿福是膽小的小孩，所以同學稍微離開一點就會哭。", "output": "Karatalaway a wawa ci 'Afo saka laliw han ho no kapot tomangic to"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Karatalaway a wawa ci 'Afo saka laliw han ho no kapot tomangic to", "output": "阿福是膽小的小孩，所以同學稍微離開一點就會哭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "大豐喜歡穿馬來西亞花花的襯衫。", "output": "Maolah ci Tafong to karetiliday a fodoy no Malaysiya"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Maolah ci Tafong to karetiliday a fodoy no Malaysiya", "output": "大豐喜歡穿馬來西亞花花的襯衫。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "豐祭歌詞。", "output": "ciwirokan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "ciwirokan", "output": "豐祭歌詞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "被狗帶路。", "output": "Keriden no waco a romakat"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Keriden no waco a romakat", "output": "被狗帶路。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不要任意超越上帝的旨意。(", "output": "Aka patedo a miki'ayaw to nafaloco'an no Kawas"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Aka patedo a miki'ayaw to nafaloco'an no Kawas", "output": "不要任意超越上帝的旨意。("}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "工人把坍塌的土方亂丟棄。", "output": "Pacefa san a mifalah ko matayalay to kinaperar"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pacefa san a mifalah ko matayalay to kinaperar", "output": "工人把坍塌的土方亂丟棄。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "你走路。", "output": "Romakat kiso"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Romakat kiso", "output": "你走路。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一套辦法。", "output": "Cacay lalasaan a lalan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為北部阿美語。", "input": "Cacay lalasaan a lalan", "output": "一套辦法。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他有預知的能耐，所以他早就知道這件事情會發生。", "output": "O laliwis a tamdaw ciira saka i 'ayaw to ko fana' nira toya demak"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O laliwis a tamdaw ciira saka i 'ayaw to ko fana' nira toya demak", "output": "他有預知的能耐，所以他早就知道這件事情會發生。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用楔子使東西固定不動。", "output": "milanged"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "milanged", "output": "用楔子使東西固定不動。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我要使鐵彎曲變成圓型  的。", "output": "Li'akongen no mako ko marad a misalimolo"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Li'akongen no mako ko marad a misalimolo", "output": "我要使鐵彎曲變成圓型  的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "請來車站接我！", "output": "Litemohen kako i ciyataw haw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Litemohen kako i ciyataw haw", "output": "請來車站接我！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "綠洋蔥。", "output": "lokiyo = kaperay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "lokiyo = kaperay", "output": "綠洋蔥。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "爸爸種植的棘竹已生長了。", "output": "Mengaw to ko nipalomaan ni mama a fitonay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mengaw to ko nipalomaan ni mama a fitonay", "output": "爸爸種植的棘竹已生長了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們的老師很嚴格。", "output": "Ma'acedes ko singsi niyam"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'acedes ko singsi niyam", "output": "我們的老師很嚴格。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我看見他們來了。", "output": "Ma'araw no mako ko nika tayni naira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'araw no mako ko nika tayni naira", "output": "我看見他們來了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我被看到。", "output": "Ma'araw kako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'araw kako", "output": "我被看到。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我因有瑣事纏身，不克前往。", "output": "Ma'ariwawa kako sa caay katayra kako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'ariwawa kako sa caay katayra kako", "output": "我因有瑣事纏身，不克前往。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "分娩，臨盆時的陣痛。", "output": "Ma'at'at = masaliyaliyad ko adada"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'at'at = masaliyaliyad ko adada", "output": "分娩，臨盆時的陣痛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "注視陽光眼睛會感到目眩。", "output": "Ma'idang ko mata minengneng to cidal"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'idang ko mata minengneng to cidal", "output": "注視陽光眼睛會感到目眩。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "撒娃伊吃他太太和杜邁寒暄的醋。", "output": "Ma'inap ci Saway to pilicay no fafahi nira ci Tomayan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ma'inap ci Saway to pilicay no fafahi nira ci Tomayan", "output": "撒娃伊吃他太太和杜邁寒暄的醋。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "她生的是男的或是女的？", "output": "O maanan ko wawa nira O fa'inayan O fafahiyan haw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O maanan ko wawa nira O fa'inayan O fafahiyan haw", "output": "她生的是男的或是女的？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "古嵐被馬踢傷了。", "output": "Macokas no efi ci Kurang"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Macokas no efi ci Kurang", "output": "古嵐被馬踢傷了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們的房子被火災波及。", "output": "Madafit no lamal ko loma' naira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Madafit no lamal ko loma' naira", "output": "他們的房子被火災波及。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "那不法電魚的人被警察罰款。", "output": "Maface no tayring koya mitakaway a mifattili to foting"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Maface no tayring koya mitakaway a mifattili to foting", "output": "那不法電魚的人被警察罰款。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "睡覺時翻身。", "output": "Mafafelin a mafoti'"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mafafelin a mafoti'", "output": "睡覺時翻身。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "月的上朔。", "output": "Teleng no folad"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Teleng no folad", "output": "月的上朔。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蘇奈在她滑倒的地方被都萊擁抱。", "output": "Mahafang ni Toray ci Sunay i katahoriyacan nira a mapolin"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mahafang ni Toray ci Sunay i katahoriyacan nira a mapolin", "output": "蘇奈在她滑倒的地方被都萊擁抱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "笨，愚蠢。", "output": "Malafokeloh ko tangal"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Malafokeloh ko tangal", "output": "笨，愚蠢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "留給後到者之食物預先分好留著，以免被其他人污染。", "output": "'Isalen a miterek kono i rarikoray a kakaenen malama'a no romaroma a tamdaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "'Isalen a miterek kono i rarikoray a kakaenen malama'a no romaroma a tamdaw", "output": "留給後到者之食物預先分好留著，以免被其他人污染。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "易感麻煩的人的工作不會完美。", "output": "Caay kahadimel ko tayal nomalifotay a tamdaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Caay kahadimel ko tayal nomalifotay a tamdaw", "output": "易感麻煩的人的工作不會完美。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杜耀重新修改了他的散文。", "output": "Maliyaw ni Tuyaw a micodada koya tawcikir nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Maliyaw ni Tuyaw a micodada koya tawcikir nira", "output": "杜耀重新修改了他的散文。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "她生很多孩子；多子多孫。", "output": "Malofic ko kaciwawa nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Malofic ko kaciwawa nira", "output": "她生很多孩子；多子多孫。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們挑選我們的領隊。", "output": "Mipili' kami to malokakeridan niyam"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mipili' kami to malokakeridan niyam", "output": "我們挑選我們的領隊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們夫婦的孩子還小。", "output": "Mamang ho ko wawa naira a mararamod"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mamang ho ko wawa naira a mararamod", "output": "他們夫婦的孩子還小。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "桃子會掉下來。", "output": "Mamatefad kina lopas = sakatefadaw kina lopas"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mamatefad kina lopas = sakatefadaw kina lopas", "output": "桃子會掉下來。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "帶你哥哥去幫你挑扛你重要的行李。", "output": "Rikiten ko kaka no miso a tayra o mamipadang a mi'orong to tadamaanay a lalosidan no miso"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Rikiten ko kaka no miso a tayra o mamipadang a mi'orong to tadamaanay a lalosidan no miso", "output": "帶你哥哥去幫你挑扛你重要的行李。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "病人的腿軟弱。", "output": "Mangilos ko wa'ay no adadaay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mangilos ko wa'ay no adadaay", "output": "病人的腿軟弱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "上帝派遣耶穌 / 耶穌被上帝差遣。", "output": "Maocor no Kawas ci Yis"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Maocor no Kawas ci Yis", "output": "上帝派遣耶穌 / 耶穌被上帝差遣。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們被主耶穌基督賜福。", "output": "Mapalemed no Tapang ci Yis Kristo kita"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mapalemed no Tapang ci Yis Kristo kita", "output": "我們被主耶穌基督賜福。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "媽媽給我妹妹洗澡。", "output": "Mapaliloc ni ina ko fafahiyan a safa no mako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mapaliloc ni ina ko fafahiyan a safa no mako", "output": "媽媽給我妹妹洗澡。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們昨夜互相驚嚇對方。", "output": "Mapapacekok caira i dadaya"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mapapacekok caira i dadaya", "output": "他們昨夜互相驚嚇對方。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們的柑橘腐爛了。", "output": "Mapohed ko mami' no mita"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mapohed ko mami' no mita", "output": "我們的柑橘腐爛了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "在醫院和學校都有為肢障和視障者設置的無障礙物。", "output": "Ira ko patodong to lalan no mapokohay ato mapohaway i pipaisingan ato picodadan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ira ko patodong to lalan no mapokohay ato mapohaway i pipaisingan ato picodadan", "output": "在醫院和學校都有為肢障和視障者設置的無障礙物。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "你（妳）對上帝的愛要堅定不渝，願你徹底愛神。 =", "output": "Redoen ko olah no miso to Kawas"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Redoen ko olah no miso to Kawas", "output": "你（妳）對上帝的愛要堅定不渝，願你徹底愛神。 ="}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "仁里部落的新入級青年舉行特殊訓練。", "output": "Marengreng ko mamiselal no Pokpok anini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Marengreng ko mamiselal no Pokpok anini", "output": "仁里部落的新入級青年舉行特殊訓練。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我大發雷霆，我因生氣心中翻滾。", "output": "Marokrok to ko faloco' no mako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Marokrok to ko faloco' no mako", "output": "我大發雷霆，我因生氣心中翻滾。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "不要把借來的衣服穿著不放。", "output": "Aka pisa'ero to nicaliwan a fodoy no tao"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Aka pisa'ero to nicaliwan a fodoy no tao", "output": "不要把借來的衣服穿著不放。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "圳溝下游內縮變狹。", "output": "Masafakfak kora kicon i sararem"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masafakfak kora kicon i sararem", "output": "圳溝下游內縮變狹。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "動物在山上一群一群地群集。", "output": "Masafelafelaw ko 'a'adopen i lotok"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masafelafelaw ko 'a'adopen i lotok", "output": "動物在山上一群一群地群集。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他的疔瘡形成膿包。", "output": "Masafena' ko poces nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masafena' ko poces nira", "output": "他的疔瘡形成膿包。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "柯郎被不肖之徒欺騙，他的田地全部被賣光了。", "output": "Masafodih no payrang ci Karang masapawakan ciira to omah nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masafodih no payrang ci Karang masapawakan ciira to omah nira", "output": "柯郎被不肖之徒欺騙，他的田地全部被賣光了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "階梯形的水田。", "output": "Masasa'eray a fonon"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masasa'eray a fonon", "output": "階梯形的水田。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們兄弟姊妹互相掛念。", "output": "Masasioron caira a malekaka"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masasioron caira a malekaka", "output": "他們兄弟姊妹互相掛念。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "牆壁漂浮成為馬太鞍靠牆壁漂流保命的祖先浮標。", "output": "Matahadoy ko patih o pikafitan no pakacafengay a tato'asan no Fata'an"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Matahadoy ko patih o pikafitan no pakacafengay a tato'asan no Fata'an", "output": "牆壁漂浮成為馬太鞍靠牆壁漂流保命的祖先浮標。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "卡造趕上馬耀。", "output": "Matakop ni Kacaw ci Mayaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Matakop ni Kacaw ci Mayaw", "output": "卡造趕上馬耀。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "蛇交配時身體互相糾纏。", "output": "Makakiwalet ko tireng no 'oner a matatakis"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Makakiwalet ko tireng no 'oner a matatakis", "output": "蛇交配時身體互相糾纏。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "意為毫不在乎。", "output": "caay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "caay", "output": "意為毫不在乎。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他把書挾在腋下帶回家。", "output": "Mi'afilid ciira to codad a panokay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mi'afilid ciira to codad a panokay", "output": "他把書挾在腋下帶回家。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "颱風擾亂了我們前往台北的行程。", "output": "O faliyos ko ma'ariwadangay to rakat niyam a tayra i Taypak"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O faliyos ko ma'ariwadangay to rakat niyam a tayra i Taypak", "output": "颱風擾亂了我們前往台北的行程。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "向後踢狗。", "output": "Pasararikor ciira a micokar to waco"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pasararikor ciira a micokar to waco", "output": "向後踢狗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杜邁對他的太太狠踢一腳。", "output": "Mifalokod to tataina naza ci Tomay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mifalokod to tataina naza ci Tomay", "output": "杜邁對他的太太狠踢一腳。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "燻焚豬毛。", "output": "Mihodhod to fanoh no fafoy"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mihodhod to fanoh no fafoy", "output": "燻焚豬毛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "拔鴨毛。", "output": "Mikonoc to fanoh no howak"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mikonoc to fanoh no howak", "output": "拔鴨毛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "陽光溶化冰雪。", "output": "Milaso'or ko cidal to soreda"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Milaso'or ko cidal to soreda", "output": "陽光溶化冰雪。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我正要出發（動身）去巡察陷阱。", "output": "O mamalingad kako a milido"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O mamalingad kako a milido", "output": "我正要出發（動身）去巡察陷阱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "協力同心可以戰勝優柔寡斷的人。", "output": "Milowid ko marekecay ko faloco' to masamisiay ko harateng a tamdaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Milowid ko marekecay ko faloco' to masamisiay ko harateng a tamdaw", "output": "協力同心可以戰勝優柔寡斷的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "人在滾動岩石。", "output": "Mimoli ko tamdaw to 'ongcoy"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mimoli ko tamdaw to 'ongcoy", "output": "人在滾動岩石。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "軍隊軍樂隊在吹喇叭。", "output": "Mimoop to lappa ko ongkakutay no sofitay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mimoop to lappa ko ongkakutay no sofitay", "output": "軍隊軍樂隊在吹喇叭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "你們在看我們。", "output": "Mineneng kamo i tamiyanan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Mineneng kamo i tamiyanan", "output": "你們在看我們。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "狗熊搖動樹枝。", "output": "Mingiyangi ko tomay to ca'ang no kilang"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mingiyangi ko tomay to ca'ang no kilang", "output": "狗熊搖動樹枝。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "輪工集團今天輪到古嵐家的水田除草。", "output": "Miniwaniw to fonon na Kurang ko malapaliway anini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Miniwaniw to fonon na Kurang ko malapaliway anini", "output": "輪工集團今天輪到古嵐家的水田除草。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "任意思想，任意思考。", "output": "Miolatek a miharateng(= misafaloco')"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Miolatek a miharateng(= misafaloco')", "output": "任意思想，任意思考。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我為我朋友送行；目送，餞行；囑咐後，停住目送。", "output": "Mipatonoay kako to widang no mako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mipatonoay kako to widang no mako", "output": "我為我朋友送行；目送，餞行；囑咐後，停住目送。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "衣服或布邊的緣飾或絲狀的，縫毛。", "output": "misamisan = mismisan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "misamisan = mismisan", "output": "衣服或布邊的緣飾或絲狀的，縫毛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "糍粑黏住伍賽的手。", "output": "Mirepit i kamay ni Usay ko toron"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mirepit i kamay ni Usay ko toron", "output": "糍粑黏住伍賽的手。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "捆稻草。", "output": "Mirorong to 'asisiw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mirorong to 'asisiw", "output": "捆稻草。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "清心，改變態度（往好的方面），修身養性；改正心態，改善態度。", "output": "Misafangcal to faloco'"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Misafangcal to faloco'", "output": "清心，改變態度（往好的方面），修身養性；改正心態，改善態度。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "爺爺說親暱的話。", "output": "Misaimah ci akong to sowal"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Misaimah ci akong to sowal", "output": "爺爺說親暱的話。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "耆老達利家今天設置籬笆防止鴨群入侵。", "output": "Misasanga' ca Tali mama anini to malosapidawa to howak"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Misasanga' ca Tali mama anini to malosapidawa to howak", "output": "耆老達利家今天設置籬笆防止鴨群入侵。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們在擴建我們的房子。", "output": "Misatata'ang kami to loma' niyam"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Misatata'ang kami to loma' niyam", "output": "我們在擴建我們的房子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "血尿。", "output": "Misi' to remes"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Misi' to remes", "output": "血尿。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "牛在牧場上埋首吃草。", "output": "Mataptap ko kolong to semot i pakolongan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mataptap ko kolong to semot i pakolongan", "output": "牛在牧場上埋首吃草。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們的農事指導員是漢族。", "output": "O sayho no Payrang ko mitarodo'ay to pisafonon niyam"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O sayho no Payrang ko mitarodo'ay to pisafonon niyam", "output": "我們的農事指導員是漢族。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我父兄在曠野初砍蔓藤以顯示他要開墾的範圍。", "output": "Miterik ci mama aci kaka no mako to fa'inayan i kohkohan pahapinang to nikowatan a omah"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Miterik ci mama aci kaka no mako to fa'inayan i kohkohan pahapinang to nikowatan a omah", "output": "我父兄在曠野初砍蔓藤以顯示他要開墾的範圍。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "佈設陷阱。", "output": "Miteli to tilo (= mitilo)"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Miteli to tilo (= mitilo)", "output": "佈設陷阱。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他已從監獄出來了。", "output": "Masedak to cingra nai pirofoan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Masedak to cingra nai pirofoan", "output": "他已從監獄出來了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "磨碎，脫粒，揉麵粉團，磨穗在手中。", "output": "mimoric"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "mimoric", "output": "磨碎，脫粒，揉麵粉團，磨穗在手中。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以北部阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我喜歡鳳梨。", "output": "Mangarih kako to paringad"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為北部阿美語。", "input": "Mangarih kako to paringad", "output": "我喜歡鳳梨。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他砍了很多木頭後，才休息。", "output": "Adihay to ko niketonan nira a kilang ta pasela' ciira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Adihay to ko niketonan nira a kilang ta pasela' ciira", "output": "他砍了很多木頭後，才休息。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "伍賽拿貝殼當耳環掛。", "output": "Nisafitingan ni Usay ko 'a'olec"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Nisafitingan ni Usay ko 'a'olec", "output": "伍賽拿貝殼當耳環掛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他儲蓄了很多錢。", "output": "Adihay ko nisopedan nira a payso"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Adihay ko nisopedan nira a payso", "output": "他儲蓄了很多錢。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們各按自己的意思去孝順父母。", "output": "O no niya a harateng ko dado^doen no mita a mingodo to mato'asay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O no niya a harateng ko dado^doen no mita a mingodo to mato'asay", "output": "我們各按自己的意思去孝順父母。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "北界。", "output": "No 'amisan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "No 'amisan", "output": "北界。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "用眼睛看，用嘴巴說，用耳朵聽。", "output": "O mata ko sapinengneng o ngapa ko sakasomowal o tangila ko sapitengil"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O mata ko sapinengneng o ngapa ko sakasomowal o tangila ko sapitengil", "output": "用眼睛看，用嘴巴說，用耳朵聽。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "鐵錘。", "output": "O maraday a samokon"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O maraday a samokon", "output": "鐵錘。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "這石頭是用來推敲你的頭的。", "output": "O sapipateka' to tangal no miso kina fokeloh"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O sapipateka' to tangal no miso kina fokeloh", "output": "這石頭是用來推敲你的頭的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "插花（裝飾）。", "output": "Pacocok to calok"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pacocok to calok", "output": "插花（裝飾）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "今天有奉獻的弟兄姊妹共有五十名。", "output": "Lima a polo' ko paheroday a salikaka anini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Lima a polo' ko paheroday a salikaka anini", "output": "今天有奉獻的弟兄姊妹共有五十名。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "大眾向死者行最後的敬禮。", "output": "Paikor a mita'ong toya mapatayay ko 'alomanay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Paikor a mita'ong toya mapatayay ko 'alomanay", "output": "大眾向死者行最後的敬禮。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "看了就要哭，現在也會想念。", "output": "Paka'araw ho tomangic to kako ma'ilolay = maoronay kako imatini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Paka'araw ho tomangic to kako ma'ilolay = maoronay kako imatini", "output": "看了就要哭，現在也會想念。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "老人家衷心的教訓。", "output": "Pakakemoday ko sowal no mato'asay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pakakemoday ko sowal no mato'asay", "output": "老人家衷心的教訓。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "找不到。", "output": "Caay pakatepa = Caay pakatama"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Caay pakatepa = Caay pakatama", "output": "找不到。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要他經由這條路走。", "output": "Pakaynien ciira a romakat"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pakaynien ciira a romakat", "output": "要他經由這條路走。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要添加牛肉的湯水！", "output": "Pakohawen ko titi no kolong"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pakohawen ko titi no kolong", "output": "要添加牛肉的湯水！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "希望你的工作有美好的結果。", "output": "Palahecien ko tayal no miso"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Palahecien ko tayal no miso", "output": "希望你的工作有美好的結果。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杜邁把咬人狗當柴火燒，結果不會燃燒。", "output": "Palakasoyen ni Tomay ko lidateng caay kalikat"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Palakasoyen ni Tomay ko lidateng caay kalikat", "output": "杜邁把咬人狗當柴火燒，結果不會燃燒。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "卡造請求他父親把頭目的冠冕贈送給下一任頭目。", "output": "Papipafelien ni Kacaw ci mama nira toya pakowawan nira i maminocos a malatomok"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Papipafelien ni Kacaw ci mama nira toya pakowawan nira i maminocos a malatomok", "output": "卡造請求他父親把頭目的冠冕贈送給下一任頭目。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "頭目囑咐青年領導階層募款作為今年舉行豐年祭的基金。", "output": "Papisorot ko tomok to mama no kapah malokiking a ilisin anini a miheca"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Papisorot ko tomok to mama no kapah malokiking a ilisin anini a miheca", "output": "頭目囑咐青年領導階層募款作為今年舉行豐年祭的基金。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我舅媽告訴他們村中的人。", "output": "Paratohen ni fayi no mako ko finawlan i niyaro' naira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Paratohen ni fayi no mako ko finawlan i niyaro' naira", "output": "我舅媽告訴他們村中的人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "剖腹產。", "output": "Tokaden(= cici'en) a pasofoc"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tokaden(= cici'en) a pasofoc", "output": "剖腹產。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們今天開始蓋房子。", "output": "Patadas caira a misaloma' anini"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Patadas caira a misaloma' anini", "output": "他們今天開始蓋房子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "媽媽把糖和年糕摻合。", "output": "Pataheko ci ina to waneng ato emo"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pataheko ci ina to waneng ato emo", "output": "媽媽把糖和年糕摻合。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我以為你已折返了。", "output": "Patatiko to kiso haw san kako"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Patatiko to kiso haw san kako", "output": "我以為你已折返了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "身體的一部分。", "output": "Peci' no tatirengan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Peci' no tatirengan", "output": "身體的一部分。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "青年人以面東的山坡地為獵場。", "output": "I sawaliay a tafiling no lotok ko pi'adopan no kapah"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "I sawaliay a tafiling no lotok ko pi'adopan no kapah", "output": "青年人以面東的山坡地為獵場。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "卡賽不關心部落的事務。", "output": "Caay pikihar ci Kasay to demak no niyaro'"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Caay pikihar ci Kasay to demak no niyaro'", "output": "卡賽不關心部落的事務。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "你最好還是看一看。", "output": "O pimelaw iso ko nga'ayay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O pimelaw iso ko nga'ayay", "output": "你最好還是看一看。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杜邁家的曬穀場很寬敞。", "output": "Dadahal ko pisiyakan na Tomay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Dadahal ko pisiyakan na Tomay", "output": "杜邁家的曬穀場很寬敞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我很信任他（有能力幫助我）。", "output": "Rahker kako i ciiraan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Rahker kako i ciiraan", "output": "我很信任他（有能力幫助我）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "舉動不健康老人。", "output": "Marodingay a mato'asay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Marodingay a mato'asay", "output": "舉動不健康老人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "一綑紅布疋。", "output": "Cecay rosirosan no tarangitang"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Cecay rosirosan no tarangitang", "output": "一綑紅布疋。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "那隻狗冷得捲著身體蟄伏。", "output": "Sa'emamokot saan koya waco a madiko to sienaw nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Sa'emamokot saan koya waco a madiko to sienaw nira", "output": "那隻狗冷得捲著身體蟄伏。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "魚藤。", "output": "sasadim"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "sasadim", "output": "魚藤。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "伍賽惱羞成怒的原因是她先生無端慢駡的脾氣。", "output": "O yoyang no fa'inay nira ko sakafiri ni Usay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O yoyang no fa'inay nira ko sakafiri ni Usay", "output": "伍賽惱羞成怒的原因是她先生無端慢駡的脾氣。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "老人早餐吃芋頭。", "output": "O tali ko sakaranam no mato'asay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O tali ko sakaranam no mato'asay", "output": "老人早餐吃芋頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "什麼原因，使你來遲？你為什麼慢才來？", "output": "O maan ko sakatayo no miso a tayni"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O maan ko sakatayo no miso a tayni", "output": "什麼原因，使你來遲？你為什麼慢才來？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以太巴塱語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "今年杜邁家有很多剩餘的糧食。", "output": "Adihay ko sali na Tomay anini a miheca"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為太巴塱語。", "input": "Adihay ko sali na Tomay anini a miheca", "output": "今年杜邁家有很多剩餘的糧食。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "大孩子欺負小的孩子。", "output": "Samsamen(= sakemoten) no tata'angay a wawa ko mamangay a wawa"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Samsamen(= sakemoten) no tata'angay a wawa ko mamangay a wawa", "output": "大孩子欺負小的孩子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我擔心讓那小孩拿火柴。", "output": "Sanawsaw ko faloco' no mako papitatoy to teking tora wawa"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Sanawsaw ko faloco' no mako papitatoy to teking tora wawa", "output": "我擔心讓那小孩拿火柴。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "杜邁穿軍服非常英挺。", "output": "Sanengseng ci Tomay cifodoy to fodoy no sofitay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Sanengseng ci Tomay cifodoy to fodoy no sofitay", "output": "杜邁穿軍服非常英挺。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我想叫住那個人，但是我不知道他的名字。", "output": "Sapi'ang'angaw kako tora tamdaw nikaorira mafokil kako to ngangan nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Sapi'ang'angaw kako tora tamdaw nikaorira mafokil kako to ngangan nira", "output": "我想叫住那個人，但是我不知道他的名字。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要濾乾的是媽媽研磨準備做年糕的米漿。", "output": "O niilangan ni ina to sasa'emoen ko hahetecen a misefsef"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O niilangan ni ina to sasa'emoen ko hahetecen a misefsef", "output": "要濾乾的是媽媽研磨準備做年糕的米漿。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "你在做什麼？", "output": "Mimaan kiso saw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Mimaan kiso saw", "output": "你在做什麼？"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我們討厭法院不公平的判決。", "output": "Ka'iwilan no mita ko masakakinihay a sayfang no hoing"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Ka'iwilan no mita ko masakakinihay a sayfang no hoing", "output": "我們討厭法院不公平的判決。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "要忍耐世上生活的煎熬，才能獲得上帝在天上的獎賞。", "output": "Semsemen ko roray a ma'orip i hekal ta pakalayap to kaolah no Kawas i kakarayan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Semsemen ko roray a ma'orip i hekal ta pakalayap to kaolah no Kawas i kakarayan", "output": "要忍耐世上生活的煎熬，才能獲得上帝在天上的獎賞。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "需四次。", "output": "nasepat"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "nasepat", "output": "需四次。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "流星劃破長空向南飄逝。", "output": "Seriw san a pasatimol ko 'ingay no pa'oliday fo'is a mita'elif"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Seriw san a pasatimol ko 'ingay no pa'oliday fo'is a mita'elif", "output": "流星劃破長空向南飄逝。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "那把槍有裝火藥，手持要小心！", "output": "O Si'afetay kora kowang pina 'on a mitatoy"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O Si'afetay kora kowang pina 'on a mitatoy", "output": "那把槍有裝火藥，手持要小心！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他辛苦工作有了很好的結果。", "output": "Sifelec ko roray nira a matayal"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Sifelec ko roray nira a matayal", "output": "他辛苦工作有了很好的結果。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "老人家說：「樹體遍砍幾下才能結纍纍的果實」。", "output": "“Ta'ta'en ta karaheci ko kilang” saan ko sowal no mato'asay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "“Ta'ta'en ta karaheci ko kilang” saan ko sowal no mato'asay", "output": "老人家說：「樹體遍砍幾下才能結纍纍的果實」。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "珍貴的；很重要的；了不起的，偉大的。", "output": "Tada + maanay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tada + maanay", "output": "珍貴的；很重要的；了不起的，偉大的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "真實的父親；生父。", "output": "Tada + mama"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tada + mama", "output": "真實的父親；生父。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "非常大，大得不得了。", "output": "Tada + tata'ak = tada + tata'ang"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tada + tata'ak = tada + tata'ang", "output": "非常大，大得不得了。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "孤兒（女）。", "output": "Tadek a wawa = pakoyoc a wawa"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tadek a wawa = pakoyoc a wawa", "output": "孤兒（女）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "廁所在屋內。", "output": "I laloma' no loma' ko tafalahan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "I laloma' no loma' ko tafalahan", "output": "廁所在屋內。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "我試穿看看。", "output": "Tanamaw no mako a mica'edong"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tanamaw no mako a mica'edong", "output": "我試穿看看。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "把鋤頭柄填入喫子使牢固。", "output": "Tareden ko kawil no pitaw"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tareden ko kawil no pitaw", "output": "把鋤頭柄填入喫子使牢固。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "她生男孩。", "output": "O tatama ko wawa nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "O tatama ko wawa nira", "output": "她生男孩。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "枕頭。", "output": "tatangalan = patatangalan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "tatangalan = patatangalan", "output": "枕頭。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "凡物的頂部能觸及到某種高度（如橫樑或天花板）。", "output": "tatekoh = tekoh = mitokoh"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "tatekoh = tekoh = mitokoh", "output": "凡物的頂部能觸及到某種高度（如橫樑或天花板）。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "吃得太多，肚子會痛。", "output": "Adihay tato ko nikaenan adada ko tiwid"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Adihay tato ko nikaenan adada ko tiwid", "output": "吃得太多，肚子會痛。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "遠程旅行觀光旅遊。", "output": "Tayra i maraayay a niyaro' a miholol"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tayra i maraayay a niyaro' a miholol", "output": "遠程旅行觀光旅遊。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "她到鄰居的家，找到一個名叫伍賽的小姐。", "output": "Tayra ciira i loma' no sakafiyaw matama nira ko kay^ing cecay ci Usay han ko ngangan nira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tayra ciira i loma' no sakafiyaw matama nira ko kay^ing cecay ci Usay han ko ngangan nira", "output": "她到鄰居的家，找到一個名叫伍賽的小姐。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "暫且等待風雨停歇吧！", "output": "Telelen ho kina fali ato 'orad"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Telelen ho kina fali ato 'orad", "output": "暫且等待風雨停歇吧！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "吐雲吐霧，抽菸噴霧。", "output": "tepatepa' = pakpak"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "tepatepa' = pakpak", "output": "吐雲吐霧，抽菸噴霧。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "稻穗很多空殼子。", "output": "Adihay ko tepes no panay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "Adihay ko tepes no panay", "output": "稻穗很多空殼子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以秀姑巒阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "婦女遮陽具是用芒草花莖作的。", "output": "O nisanga'an to tingting ko karahay(=kiring) no fafahiyan"}
+{"instruction": "請將以下阿美語句子翻譯成中文。注意：原文為秀姑巒阿美語。", "input": "O nisanga'an to tingting ko karahay(=kiring) no fafahiyan", "output": "婦女遮陽具是用芒草花莖作的。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "哭死人。", "output": "Tomangic to mapatayay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tomangic to mapatayay", "output": "哭死人。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "跟蹤他的腳步，趕上他！", "output": "Tooren ko rakat nira a mitakop"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Tooren ko rakat nira a mitakop", "output": "跟蹤他的腳步，趕上他！"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "旮照用摩托車併載他的孩子。", "output": "Topinen ni Kacaw ko wawa nira a pakaotofay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Topinen ni Kacaw ko wawa nira a pakaotofay", "output": "旮照用摩托車併載他的孩子。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "他們有很多狗。", "output": "'Aloman ko waco naira"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "'Aloman ko waco naira", "output": "他們有很多狗。"}
+{"instruction": "請將以下中文句子翻譯成阿美語。注意：翻譯以通用阿美語為主，數字、年份、面積等請統一使用阿拉伯數字表示，並維持語序正確。", "input": "請分一枝（份）給我！", "output": "Pawikelen(= palikelen) kako to cecay"}
+{"instruction": "請將以下阿美語句子翻譯成中文。", "input": "Pawikelen(= palikelen) kako to cecay", "output": "請分一枝（份）給我！"}
