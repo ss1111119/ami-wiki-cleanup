@@ -205,6 +205,28 @@ body.hide-zh .ami-textarea { min-height: 220px; }
 .btn-save:disabled { opacity: 0.6; cursor: not-allowed; }
 .save-status { font-size: 0.85rem; }
 
+/* ── Toast 通知 ── */
+#toast {
+  position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%) translateY(20px);
+  background: #1a472a; color: white; font-size: 1.2rem; font-weight: 600;
+  padding: 16px 40px; border-radius: 12px; box-shadow: 0 6px 24px rgba(0,0,0,0.25);
+  opacity: 0; pointer-events: none;
+  transition: opacity 0.25s, transform 0.25s;
+  z-index: 9999; white-space: nowrap;
+}
+#toast.toast-show {
+  opacity: 1; transform: translateX(-50%) translateY(0);
+}
+#toast.toast-error { background: #c0392b; }
+
+/* 按鈕點擊閃爍 */
+@keyframes btn-flash {
+  0%   { filter: brightness(1); }
+  40%  { filter: brightness(1.4); }
+  100% { filter: brightness(1); }
+}
+.btn-flash { animation: btn-flash 0.35s ease; }
+
 /* ── Sidebar Layout ── */
 .editor-main-layout {
   display: flex;
@@ -496,5 +518,179 @@ body.hide-zh .ami-textarea { min-height: 220px; }
     height: 48px;
     padding: 10px 16px;
   }
+}
+
+/* ── Suggestions Panel (D2 / D4) ── */
+.suggestions-panel {
+  margin-top: 16px;
+  background: #f9fbf9;
+  border: 1.5px solid #a8d5b5;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.suggestions-header {
+  background: #eaf2ea;
+  color: #1a472a;
+  padding: 10px 16px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+}
+.suggestions-header:hover {
+  background: #ddeddd;
+}
+.suggestions-body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.suggestions-body.hidden {
+  display: none;
+}
+.sug-toggle {
+  font-size: 0.9rem;
+}
+.sug-sub-section {
+  border-bottom: 1.5px dashed #cfe0cf;
+  padding-bottom: 14px;
+}
+.sug-sub-section:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.sug-sub-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #1a472a;
+  margin-bottom: 8px;
+}
+.sug-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.sug-item {
+  background: white;
+  border: 1px solid #e8e8e4;
+  border-radius: 6px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  font-size: 0.85rem;
+}
+.sug-item:last-child {
+  margin-bottom: 0;
+}
+.sug-amis-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+.sug-amis {
+  font-family: monospace;
+  font-weight: 700;
+  color: #1a472a;
+  font-size: 0.95rem;
+  word-break: break-all;
+}
+.btn-insert-ref {
+  background: #1a472a;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.btn-insert-ref:hover {
+  background: #2d6a4f;
+}
+.license-nc-note {
+  font-size: 0.72rem;
+  color: #888;
+}
+.sug-chinese {
+  color: #555;
+  margin-bottom: 6px;
+}
+.sug-meta {
+  display: flex;
+  gap: 6px;
+}
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: bold;
+  padding: 1px 6px;
+  border-radius: 3px;
+}
+.badge.dialect-coast {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+.badge.dialect-other {
+  background: #fff3cd;
+  color: #856404;
+}
+.badge.license-cc0 {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+.badge.license-nc {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+/* 避用詞紅標 */
+.glossary-avoid {
+  border-left: 4px solid #e74c3c;
+  background: #fff8f8;
+}
+.avoid-word {
+  color: #e74c3c;
+  font-family: monospace;
+}
+.suggest-word {
+  color: #27ae60;
+  font-family: monospace;
+}
+.glossary-note {
+  font-size: 0.78rem;
+  color: #666;
+  margin-top: 4px;
+}
+.glossary-term {
+  border-left: 4px solid #2ecc71;
+}
+.confirmed-word {
+  color: #27ae60;
+  font-family: monospace;
+}
+
+/* 文法清單樣式 */
+.grammar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.grammar-item {
+  padding: 6px 12px;
+}
+.grammar-item label {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  cursor: pointer;
+}
+.grammar-item input[type="checkbox"] {
+  margin-top: 4px;
 }
 

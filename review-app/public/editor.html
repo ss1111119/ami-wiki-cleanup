@@ -6,7 +6,7 @@
   <title>翻譯校對 — 翻譯校對平台</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="hide-zh">
   <header class="app-header">
     <a href="list.html" class="back-link">← 回清單</a>
     <span id="articleTitle" class="logo"></span>
@@ -22,7 +22,7 @@
       <a id="zhWikiLink" href="#" target="_blank" class="wiki-link">中文維基 ↗</a>
     </div>
     <div class="status-control">
-      <button id="toggleZhBtn" class="btn-sm" type="button">隱藏中文原文</button>
+      <button id="toggleZhBtn" class="btn-sm" type="button">顯示中文原文</button>
       狀態：
       <select id="statusSelect">
         <option value="pending">待校對</option>
@@ -62,6 +62,7 @@
   <div class="save-bar">
     <button id="saveAllBtn" class="btn-save">儲存所有修改</button>
   </div>
+  <div id="toast"></div>
 
   <script type="module">
     import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
@@ -215,6 +216,109 @@
       const baseline = (s.ami_baseline != null && s.ami_baseline !== '') ? s.ami_baseline : current;
       sectionState.set(sectionId, { baseline, current, zh: s.zh_text || '' });
 
+      let suggestionsHtml = '';
+      if (s.suggestions) {
+        const { similar = [], glossary_hits = [], grammar_checklist = [] } = s.suggestions;
+
+        let similarHtml = '';
+        if (similar.length > 0) {
+          similarHtml = `
+            <div class="sug-sub-section sug-similar">
+              <div class="sug-sub-title">📋 相似句參考</div>
+              <ul class="sug-list">
+                ${similar.map(item => {
+                  const isCoast = item.dialect === '海岸';
+                  const dialectLabel = isCoast ? '海岸' : `${item.dialect} (跨方言參考)`;
+                  const dialectClass = isCoast ? 'dialect-coast' : 'dialect-other';
+                  const isCC0 = item.license === 'CC0';
+                  const licenseClass = isCC0 ? 'license-cc0' : 'license-nc';
+
+                  const actionBtn = isCC0
+                    ? `<button type="button" class="btn-sm btn-insert-ref" data-text="${escHtml(item.amis)}">插入參考</button>`
+                    : `<span class="license-nc-note">（僅供參考，無一鍵寫入捷徑）</span>`;
+
+                  return `
+                    <li class="sug-item">
+                      <div class="sug-amis-line">
+                        <span class="sug-amis">${escHtml(item.amis)}</span>
+                        ${actionBtn}
+                      </div>
+                      <div class="sug-chinese">${escHtml(item.chinese)}</div>
+                      <div class="sug-meta">
+                        <span class="badge ${dialectClass}">${escHtml(dialectLabel)}</span>
+                        <span class="badge ${licenseClass}">${escHtml(item.license)}</span>
+                      </div>
+                    </li>
+                  `;
+                }).join('')}
+              </ul>
+            </div>
+          `;
+        }
+
+        let glossaryHtml = '';
+        if (glossary_hits.length > 0) {
+          glossaryHtml = `
+            <div class="sug-sub-section sug-glossary">
+              <div class="sug-sub-title">📖 詞庫提示</div>
+              <ul class="sug-list">
+                ${glossary_hits.map(item => {
+                  if (item.type === 'avoid') {
+                    return `
+                      <li class="sug-item glossary-avoid">
+                        ⚠️ 避用詞：<strong class="avoid-word">${escHtml(item.term)}</strong>
+                        <div class="glossary-note">原因：${escHtml(item.reason || '')} | 建議改用：<strong class="suggest-word">${escHtml(item.suggest || '')}</strong></div>
+                      </li>
+                    `;
+                  } else {
+                    return `
+                      <li class="sug-item glossary-term">
+                        ✅ 已確認詞：<strong class="confirmed-word">${escHtml(item.term)}</strong>
+                      </li>
+                    `;
+                  }
+                }).join('')}
+              </ul>
+            </div>
+          `;
+        }
+
+        let grammarHtml = '';
+        if (grammar_checklist.length > 0) {
+          grammarHtml = `
+            <div class="sug-sub-section sug-grammar">
+              <div class="sug-sub-title">⚖️ 文法待核對清單</div>
+              <ul class="sug-list grammar-list">
+                ${grammar_checklist.map((item, idx) => `
+                  <li class="sug-item grammar-item">
+                    <label>
+                      <input type="checkbox" class="sug-grammar-check" data-idx="${idx}">
+                      <span>${escHtml(item.rule)}</span>
+                    </label>
+                  </li>
+                `).join('')}
+              </ul>
+            </div>
+          `;
+        }
+
+        if (similarHtml || glossaryHtml || grammarHtml) {
+          suggestionsHtml = `
+            <div class="suggestions-panel">
+              <div class="suggestions-header" onclick="this.nextElementSibling.classList.toggle('hidden'); this.querySelector('.sug-toggle').textContent = this.nextElementSibling.classList.contains('hidden') ? '▸' : '▾'">
+                💡 審稿輔助建議（點擊展開／收合）
+                <span class="sug-toggle">▸</span>
+              </div>
+              <div class="suggestions-body hidden">
+                ${similarHtml}
+                ${glossaryHtml}
+                ${grammarHtml}
+              </div>
+            </div>
+          `;
+        }
+      }
+
       const div = document.createElement('div');
       div.className = 'section-block';
       div.dataset.sectionId = sectionId;
@@ -245,6 +349,7 @@
             <textarea class="note-textarea" data-field="comments" rows="2" placeholder="記錄修改原因或不確定之處…">${escHtml(s.comments || '')}</textarea>
           </div>
         </div>
+        ${suggestionsHtml}
         <div class="ai-ref">
           <details>
             <summary>AI 原始翻譯（參考）</summary>
@@ -257,11 +362,32 @@
       return div;
     }
 
-    // 委派處理：模式切換 + 接受/拒絕
+    // 委派處理：模式切換 + 接受/拒絕 + 插入相似句參考
     document.getElementById('sectionsContainer').addEventListener('click', (e) => {
       const block = e.target.closest('.section-block');
       if (!block) return;
       const sectionId = block.dataset.sectionId;
+
+      // 處理「插入參考」
+      const insertBtn = e.target.closest('.btn-insert-ref');
+      if (insertBtn) {
+        const text = insertBtn.dataset.text;
+        const ta = block.querySelector('.ami-textarea');
+        if (ta) {
+          const start = ta.selectionStart;
+          const end = ta.selectionEnd;
+          const val = ta.value;
+          ta.value = val.substring(0, start) + text + val.substring(end);
+          sectionState.get(sectionId).current = ta.value;
+
+          // 若在逐句對照模式，也同步更新該介面
+          const pairPane = block.querySelector('.ami-pair-pane');
+          if (pairPane && pairPane.style.display !== 'none') {
+            pairPane.innerHTML = renderPairs(sectionId);
+          }
+        }
+        return;
+      }
 
       const modeBtn = e.target.closest('.mode-toggle button');
       if (modeBtn) {
@@ -346,11 +472,18 @@
       toggle.textContent = document.getElementById('vocabBody').classList.contains('hidden') ? '▸' : '▾';
     });
 
-    document.getElementById('saveAllBtn').addEventListener('click', saveAll);
-    document.getElementById('statusSelect').addEventListener('change', saveStatus);
+    document.getElementById('saveAllBtn').addEventListener('click', (e) => {
+      flashBtn(e.currentTarget);
+      saveAll();
+    });
+    document.getElementById('statusSelect').addEventListener('change', (e) => {
+      flashBtn(e.currentTarget);
+      saveStatus();
+    });
 
     // 隱藏/顯示中文原文(隱藏後阿美語編輯區佔滿整行)
     document.getElementById('toggleZhBtn').addEventListener('click', (e) => {
+      flashBtn(e.currentTarget);
       const hidden = document.body.classList.toggle('hide-zh');
       e.target.textContent = hidden ? '顯示中文原文' : '隱藏中文原文';
     });
@@ -397,11 +530,28 @@
       btn.textContent = '儲存所有修改';
     }
 
-    function showSaveStatus(msg, isError = false) {
-      const el = document.getElementById('saveStatus');
+    let toastTimer = null;
+    function showToast(msg, isError = false) {
+      const el = document.getElementById('toast');
       el.textContent = msg;
-      el.style.color = isError ? '#e74c3c' : '#27ae60';
+      el.classList.toggle('toast-error', isError);
+      el.classList.add('toast-show');
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => el.classList.remove('toast-show'), 2500);
+      // 同步小字
+      const st = document.getElementById('saveStatus');
+      st.textContent = msg;
+      st.style.color = isError ? '#e74c3c' : '#27ae60';
     }
+
+    function flashBtn(btn) {
+      btn.classList.remove('btn-flash');
+      void btn.offsetWidth;
+      btn.classList.add('btn-flash');
+      btn.addEventListener('animationend', () => btn.classList.remove('btn-flash'), { once: true });
+    }
+
+    function showSaveStatus(msg, isError = false) { showToast(msg, isError); }
 
     function escHtml(str) {
       return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
