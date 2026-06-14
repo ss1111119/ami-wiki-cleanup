@@ -2,6 +2,7 @@ import fs from 'fs';
 
 const pages = JSON.parse(fs.readFileSync('all-pages.json', 'utf8'));
 const data  = JSON.parse(fs.readFileSync('scripts/full-index-data.json', 'utf8'));
+const descs = JSON.parse(fs.readFileSync('scripts/wiki-descriptions.json', 'utf8'));
 
 // Same stripping logic as the browser JS
 const stripRe = /[一-鿿＀-￯（）()【】]+/g;
@@ -12,15 +13,18 @@ function needsHardcode(title) {
 function wikiUrl(title) {
   return 'https://ami.wikipedia.org/wiki/' + encodeURI(title.replace(/ /g, '_'));
 }
-function makeTag(title) {
-  if (needsHardcode(title)) {
-    const url = wikiUrl(title);
-    return `<span class="tag"><a href="${url}" target="_blank" rel="noopener">${escHtml(title)}</a></span>`;
-  }
-  return `<span class="tag">${escHtml(title)}</span>`;
-}
 function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function makeTag(title) {
+  const desc = descs[title] || '';
+  const display = desc ? `${escHtml(title)} ${escHtml(desc)}` : escHtml(title);
+  const dt = ` data-title="${escHtml(title)}"`;
+  if (needsHardcode(title)) {
+    const url = wikiUrl(title);
+    return `<span class="tag"${dt}><a href="${url}" target="_blank" rel="noopener">${display}</a></span>`;
+  }
+  return `<span class="tag"${dt}>${display}</span>`;
 }
 function tagCloud(items) {
   return '      ' + items.map(makeTag).join('');
